@@ -14,28 +14,29 @@
 
 ## 2. Published Research (PubMed / PMC)
 
-| Study | PMID/PMC | Key Finding |
-|-------|----------|-------------|
-| Predicting Success: Quiz Topics vs NBME Surgery Shelf | PMC7391907 | Trauma/Burns beta=1.57, highest predictor |
-| NBME Surgery Shelf as Double Jeopardy of Step 1 | PMID 28007315 | Shelf performance correlates with Step 1 |
-| Best Study Strategy for NBME Surgery Exam | PMID 31196769 | Study strategy optimization |
-| Predicting and Modifying Success (2024) | Global Surg Ed 2024 | https://link.springer.com/article/10.1007/s44186-024-00238-5 |
-| ChatGPT Performance on Surgery Shelf (2025) | Springer 2025 | https://link.springer.com/article/10.1007/s44186-025-00413-2 |
-| Nationwide Survey: Medical Student ACS Experience | PMID 33429223 | Only 16.4% mandate ACS rotation |
-| Systematic Review: ACS Education in US Medical Schools | PMID 31543409 | Only 3 published articles on ACS MS education |
-| ACS Rotation Feedback → Residency Selection | PMID 26148827 | Structured ACS rotations: 8% → 25% surgery match |
-| AAST EGS Guideline Summaries 2018 | PMID 31058240 | Appendicitis, cholecystitis, diverticulitis, pancreatitis, SBO |
-| SSC 2021 Guidelines (Full) | PMC8486643 | Surviving Sepsis Campaign 2021 |
-| EPAs in Surgery Review | PMC11260519 | EPA-4 (trauma) strong correlation with competencies |
-| ACE Surgery Clerkship Guidelines (1998) | PMID 9450409 | Alliance for Clinical Education standards |
-| ACE Clerkship Directors 2.0 (2021) | PMID 34294018 | Updated clerkship guidelines |
-| ATLS Shock Classification Limitations | Injury Journal | Only 9.3% fit ATLS classes; https://www.injuryjournal.com/article/S0020-1383(14)00375-1/fulltext |
-| WSES Appendicitis 2020 | Springer | https://link.springer.com/article/10.1186/s13017-020-00306-3 |
-| WSES Cholecystitis 2020 | PMID 33153472 | Early lap chole as standard of care |
+| Study                                                  | PMID/PMC            | Key Finding                                                                                      |
+| ------------------------------------------------------ | ------------------- | ------------------------------------------------------------------------------------------------ |
+| Predicting Success: Quiz Topics vs NBME Surgery Shelf  | PMC7391907          | Trauma/Burns beta=1.57, highest predictor                                                        |
+| NBME Surgery Shelf as Double Jeopardy of Step 1        | PMID 28007315       | Shelf performance correlates with Step 1                                                         |
+| Best Study Strategy for NBME Surgery Exam              | PMID 31196769       | Study strategy optimization                                                                      |
+| Predicting and Modifying Success (2024)                | Global Surg Ed 2024 | https://link.springer.com/article/10.1007/s44186-024-00238-5                                     |
+| ChatGPT Performance on Surgery Shelf (2025)            | Springer 2025       | https://link.springer.com/article/10.1007/s44186-025-00413-2                                     |
+| Nationwide Survey: Medical Student ACS Experience      | PMID 33429223       | Only 16.4% mandate ACS rotation                                                                  |
+| Systematic Review: ACS Education in US Medical Schools | PMID 31543409       | Only 3 published articles on ACS MS education                                                    |
+| ACS Rotation Feedback → Residency Selection            | PMID 26148827       | Structured ACS rotations: 8% → 25% surgery match                                                 |
+| AAST EGS Guideline Summaries 2018                      | PMID 31058240       | Appendicitis, cholecystitis, diverticulitis, pancreatitis, SBO                                   |
+| SSC 2021 Guidelines (Full)                             | PMC8486643          | Surviving Sepsis Campaign 2021                                                                   |
+| EPAs in Surgery Review                                 | PMC11260519         | EPA-4 (trauma) strong correlation with competencies                                              |
+| ACE Surgery Clerkship Guidelines (1998)                | PMID 9450409        | Alliance for Clinical Education standards                                                        |
+| ACE Clerkship Directors 2.0 (2021)                     | PMID 34294018       | Updated clerkship guidelines                                                                     |
+| ATLS Shock Classification Limitations                  | Injury Journal      | Only 9.3% fit ATLS classes; https://www.injuryjournal.com/article/S0020-1383(14)00375-1/fulltext |
+| WSES Appendicitis 2020                                 | Springer            | https://link.springer.com/article/10.1186/s13017-020-00306-3                                     |
+| WSES Cholecystitis 2020                                | PMID 33153472       | Early lap chole as standard of care                                                              |
 
 ## 3. Professional Society / Organization Sources
 
 ### ACS (American College of Surgeons)
+
 - ACS/ASE Medical Student Core Curriculum (21 modules): https://learning.facs.org/content/acs-ase-medical-student-core-curriculum
 - ACS/ASE Core Curriculum Program Page: https://www.facs.org/for-medical-professionals/education/programs/acsase-medical-student-core-curriculum/
 - ACS TEAM Course (Trauma Evaluation and Management): https://www.facs.org/quality-programs/trauma/education/trauma-evaluation-and-management-course/
@@ -48,6 +49,7 @@
 - ACS EPAs in Surgery: https://www.facs.org/for-medical-professionals/news-publications/journals/rise/articles/entrustable/
 
 ### AAST (American Association for the Surgery of Trauma)
+
 - AAST Fellow Education Resources: https://www.aast.org/acute-care-surgery/education-resources
 - AAST Didactic Curriculum Overview: https://www.aast.org/acute-care-surgery/fellow-education/didactic-curriculum.html
 - AAST Trauma Topics: https://www.aast.org/acute-care-surgery/fellow-education/didactic-curriculum/trauma-topics.html
@@ -56,20 +58,24 @@
 - AAST Resuscitation/DCR: https://www.aast.org/acute-care-surgery/fellow-education/didactic-curriculum/trauma-topics/resuscitation-in-trauma.html
 
 ### EAST (Eastern Association for the Surgery of Trauma)
+
 - EAST Education Resources: https://www.east.org/education-resources
 - EAST Trauma Practice Management Guidelines: https://www.east.org/education-resources/practice-management-guidelines/category/trauma
 - EAST EGS Landmark Papers: https://www.east.org/education-resources/landmark-papers-in-trauma-and-acute-care-surgery/emergency-general-surgery
 - EAST Traumacasts: https://www.east.org/education-resources/traumacasts
 
 ### ABS (American Board of Surgery)
+
 - ABS EPAs General Surgery (18): https://www.absurgery.org/get-certified/epas/general-surgery/
 - ABS EPAs Surgical Critical Care (13): https://www.absurgery.org/get-certified/epas/surgical-critical-care/
 
 ### WSES (World Society of Emergency Surgery)
+
 - WSES Guidelines Portal: https://www.wses.org.uk/scientific-resources/guidelines
 - World Journal of Emergency Surgery: https://wjes.biomedcentral.com/wses
 
 ### Other
+
 - SCORE Curriculum Portal: https://www.surgicalcore.org/
 - SCORE Curriculum Outline: https://www.surgicalcore.org/public/curriculum
 - SCCM Surviving Sepsis Campaign 2021: https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-guidelines-2021
@@ -194,4 +200,4 @@
 
 ---
 
-*Document generated 2026-03-22 during trauma-evidence-forge-v3 development session.*
+_Document generated 2026-03-22 during trauma-evidence-forge-v3 development session._

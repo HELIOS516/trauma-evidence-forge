@@ -173,12 +173,12 @@ characteristics. When to image vs when to go directly to OR. (~200 words)
 
 ## [Assertion: What the Scoring Tool Tells You — Sentence]
 
-| [Parameter] | [Category 1] | [Category 2] | [Category 3] | [Category 4] |
-|-------------|--------------|--------------|--------------|--------------|
-| [Measure 1] | [Value] | [Value] | [Value] | [Value] |
-| [Measure 2] | [Value] | [Value] | **[Key value]** | [Value] |
-| [Measure 3] | [Value] | [Value] | [Value] | [Value] |
-| **Action** | [Action] | [Action] | **[Action]** | [Action] |
+| [Parameter] | [Category 1] | [Category 2] | [Category 3]    | [Category 4] |
+| ----------- | ------------ | ------------ | --------------- | ------------ |
+| [Measure 1] | [Value]      | [Value]      | [Value]         | [Value]      |
+| [Measure 2] | [Value]      | [Value]      | **[Key value]** | [Value]      |
+| [Measure 3] | [Value]      | [Value]      | [Value]         | [Value]      |
+| **Action**  | [Action]     | [Action]     | **[Action]**    | [Action]     |
 
 > **Bottom Line:** [Max 12 words]
 
@@ -263,14 +263,14 @@ clinical significance. When to initiate, duration, monitoring. (~200 words)
 
 ## [Trial Name] [Changed/Showed] [Key Finding — Sentence]
 
-| Element | Detail |
-|---------|--------|
-| **Population** | [Brief, 5-8 words] |
-| **Intervention** | [Brief, 5-8 words] |
-| **Comparator** | [Brief, 5-8 words] |
+| Element             | Detail                   |
+| ------------------- | ------------------------ |
+| **Population**      | [Brief, 5-8 words]       |
+| **Intervention**    | [Brief, 5-8 words]       |
+| **Comparator**      | [Brief, 5-8 words]       |
 | **Primary Outcome** | **[Result with 95% CI]** |
-| **NNT/NNH** | [Value] |
-| **GRADE** | [Rating] |
+| **NNT/NNH**         | [Value]                  |
+| **GRADE**           | [Rating]                 |
 
 > **Bottom Line:** [Max 12 words]
 
@@ -312,12 +312,12 @@ when to involve subspecialty. (~200 words)
 
 ## [Assertion: What the Evidence Shows Overall — Sentence]
 
-| Study | Year | Design | N | Key Finding | GRADE |
-|-------|------|--------|---|-------------|-------|
-| [Author] | [YYYY] | [Type] | [N] | [Result + CI] | [Rating] |
-| [Author] | [YYYY] | [Type] | [N] | [Result + CI] | [Rating] |
+| Study    | Year   | Design | N   | Key Finding      | GRADE    |
+| -------- | ------ | ------ | --- | ---------------- | -------- |
+| [Author] | [YYYY] | [Type] | [N] | [Result + CI]    | [Rating] |
+| [Author] | [YYYY] | [Type] | [N] | [Result + CI]    | [Rating] |
 | [Author] | [YYYY] | [Type] | [N] | **[Key result]** | [Rating] |
-| [Author] | [YYYY] | [Type] | [N] | [Result + CI] | [Rating] |
+| [Author] | [YYYY] | [Type] | [N] | [Result + CI]    | [Rating] |
 
 > **Bottom Line:** [Max 12 words — evidence quality statement]
 
@@ -337,11 +337,11 @@ heterogeneity across studies. (~200 words)
 
 ## [Assertion: Where Guidelines Agree/Disagree — Sentence]
 
-| Recommendation | [Society 1] | [Society 2] | [Society 3] |
-|----------------|-------------|-------------|-------------|
-| [Topic 1] | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
-| [Topic 2] | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
-| [Topic 3] | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
+| Recommendation | [Society 1]   | [Society 2]   | [Society 3]   |
+| -------------- | ------------- | ------------- | ------------- |
+| [Topic 1]      | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
+| [Topic 2]      | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
+| [Topic 3]      | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
 
 > **Bottom Line:** [Max 12 words]
 

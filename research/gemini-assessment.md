@@ -13,14 +13,14 @@ Here is my detailed assessment:
 
 ## Scores (1-10)
 
-*   **Architecture Quality:** 9/10. The system employs a well-defined pipeline architecture with excellent separation of concerns (content, configuration, scripts, templates). The use of subagents (`CLAUDE.md`) and a shared utility library (`card_utils.py`) demonstrates mature design patterns.
-*   **Gamma Optimization Effectiveness:** 10/10. This is the system's most impressive feature. The combination of `gamma-medical-profile.json` with its `slideTypeDirectives` and `typeImageStyles` (including `NO_IMAGE` rules) is a masterclass in prompt engineering for a specific output target. It minimizes ambiguity and dramatically reduces the need for post-generation editing.
-*   **Template Design Quality:** 9/10. The `presentation-medium.md` and `presentation-compact.md` templates are exceptionally well-designed. They are not just skeletons but prescriptive guides that enforce the core design philosophy (keyword slides, narrative notes, key stats) and include embedded Gamma instructions, ensuring consistency.
-*   **Research Archive Completeness:** 9/10. The `shelf-exam-content-analysis.md` file is a significant asset. It provides a strong, evidence-based rationale for the topic selection, grounding the educational product in real-world high-stakes exam requirements. This elevates the project from a simple tool to a targeted educational system.
-*   **Topic Selection Appropriateness:** 9/10. Directly derived from the research in `shelf-exam-content-analysis.md`, the 10 topics are high-yield and perfectly aligned with the target audience (medical students on a surgery rotation). The estimated coverage of 40-50% of the shelf exam is a compelling value proposition.
-*   **Script Modification Quality:** 8/10. The Python scripts are well-structured and serve a critical quality assurance function. The `audit_slide_design.py` script is essential for enforcing design rules automatically. The abstraction of common logic into `card_utils.py` is a good practice. The score is not a 10 due to the brittleness of the heuristic-based `classify_card` function (see Weaknesses).
-*   **Test Coverage Adequacy:** 5/10. The `CLAUDE.md` file mentions a `pytest evals/` command, which implies a testing framework exists. However, without seeing the test files, I cannot assess their quality or coverage. The complex logic in `card_utils.py`, particularly `classify_card`, is not something that should be trusted without extensive unit tests. The audit script acts as a form of integration testing, but it's not a substitute for unit-level validation.
-*   **Overall Readiness for Production Use:** 9/10. The system is very close to being production-ready. The architecture is robust, the workflow is clear, and the output is highly optimized. The few identified weaknesses are addressable and do not fundamentally undermine the core value.
+- **Architecture Quality:** 9/10. The system employs a well-defined pipeline architecture with excellent separation of concerns (content, configuration, scripts, templates). The use of subagents (`CLAUDE.md`) and a shared utility library (`card_utils.py`) demonstrates mature design patterns.
+- **Gamma Optimization Effectiveness:** 10/10. This is the system's most impressive feature. The combination of `gamma-medical-profile.json` with its `slideTypeDirectives` and `typeImageStyles` (including `NO_IMAGE` rules) is a masterclass in prompt engineering for a specific output target. It minimizes ambiguity and dramatically reduces the need for post-generation editing.
+- **Template Design Quality:** 9/10. The `presentation-medium.md` and `presentation-compact.md` templates are exceptionally well-designed. They are not just skeletons but prescriptive guides that enforce the core design philosophy (keyword slides, narrative notes, key stats) and include embedded Gamma instructions, ensuring consistency.
+- **Research Archive Completeness:** 9/10. The `shelf-exam-content-analysis.md` file is a significant asset. It provides a strong, evidence-based rationale for the topic selection, grounding the educational product in real-world high-stakes exam requirements. This elevates the project from a simple tool to a targeted educational system.
+- **Topic Selection Appropriateness:** 9/10. Directly derived from the research in `shelf-exam-content-analysis.md`, the 10 topics are high-yield and perfectly aligned with the target audience (medical students on a surgery rotation). The estimated coverage of 40-50% of the shelf exam is a compelling value proposition.
+- **Script Modification Quality:** 8/10. The Python scripts are well-structured and serve a critical quality assurance function. The `audit_slide_design.py` script is essential for enforcing design rules automatically. The abstraction of common logic into `card_utils.py` is a good practice. The score is not a 10 due to the brittleness of the heuristic-based `classify_card` function (see Weaknesses).
+- **Test Coverage Adequacy:** 5/10. The `CLAUDE.md` file mentions a `pytest evals/` command, which implies a testing framework exists. However, without seeing the test files, I cannot assess their quality or coverage. The complex logic in `card_utils.py`, particularly `classify_card`, is not something that should be trusted without extensive unit tests. The audit script acts as a form of integration testing, but it's not a substitute for unit-level validation.
+- **Overall Readiness for Production Use:** 9/10. The system is very close to being production-ready. The architecture is robust, the workflow is clear, and the output is highly optimized. The few identified weaknesses are addressable and do not fundamentally undermine the core value.
 
 ## Top 5 Strengths
 
@@ -41,15 +41,17 @@ Here is my detailed assessment:
 ## Specific Recommendations for Improvement
 
 1.  **Implement Declarative Slide Typing:** Replace the heuristic-based `classify_card` function. The best practice would be to use YAML frontmatter at the top of each slide in the markdown.
-    *   **Before (Heuristic):** `## [Patient demographic]: [Chief complaint]`
-    *   **After (Declarative):**
-        ```markdown
-        ---
-        type: Case
-        ---
-        ## [Patient demographic]: [Chief complaint]
-        ```
-    This would make classification 100% reliable and simplify the `card_utils.py` logic immensely.
+    - **Before (Heuristic):** `## [Patient demographic]: [Chief complaint]`
+    - **After (Declarative):**
+      `markdown
+
+    ***
+
+    ## type: Case
+
+    ## [Patient demographic]: [Chief complaint]
+
+    `  This would make classification 100% reliable and simplify the`card_utils.py` logic immensely.
 
 2.  **Develop AI-Powered Authoring Assistants:** To address the manual bottleneck in Phase 4, create a dedicated subagent or script that takes an `evidence-synthesis.md` file and a template (e.g., `presentation-medium.md`) and generates a first-draft `presentation.md`. This draft would still require human review but would accelerate the most time-consuming manual step.
 
@@ -69,7 +71,7 @@ Here is my detailed assessment:
 
 **Yes, absolutely.** The system is exceptionally well-architected to achieve this specific goal. The likelihood of success is very high for the following reasons:
 
-1.  **Directive-Driven Layout:** The `slideTypeDirectives` in `gamma-medical-profile.json` are the most critical factor. By telling Gamma *exactly* how to lay out each type of slide ("Split layout: clinical scene imagery left, structured case text right"), the system preempts the most common and time-consuming manual edits: reformatting cards, changing layouts, and adjusting text hierarchy.
+1.  **Directive-Driven Layout:** The `slideTypeDirectives` in `gamma-medical-profile.json` are the most critical factor. By telling Gamma _exactly_ how to lay out each type of slide ("Split layout: clinical scene imagery left, structured case text right"), the system preempts the most common and time-consuming manual edits: reformatting cards, changing layouts, and adjusting text hierarchy.
 2.  **Controlled Image Generation:** The combination of a highly specific default image prompt and the `typeImageStyles` (especially the `NO_IMAGE` directive for slides like "Disclosures" and "References") prevents Gamma from adding irrelevant or distracting visuals that the user would have to manually find and delete.
 3.  **Preservation of Content:** The use of `textMode: "preserve"` and `safetyConstraints` ensures that the carefully authored keyword-based content, tables, and citations are not altered by Gamma's generative text models. The editing process is therefore focused on visual polish, not content correction.
 

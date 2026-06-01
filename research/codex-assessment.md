@@ -11,16 +11,16 @@ Certainly! Here is an expert technical review of the **trauma-evidence-forge-v3*
 
 ## Scores (1–10)
 
-| Area                  | Score (1–10) |
-|-----------------------|--------------|
-| **Architecture**      | 9            |
-| **Gamma Optimization**| 10           |
-| **Template Design**   | 9            |
-| **Research**          | 8            |
-| **Topics**            | 9            |
-| **Scripts**           | 8            |
-| **Tests**             | 7            |
-| **Overall**           | 9            |
+| Area                   | Score (1–10) |
+| ---------------------- | ------------ |
+| **Architecture**       | 9            |
+| **Gamma Optimization** | 10           |
+| **Template Design**    | 9            |
+| **Research**           | 8            |
+| **Topics**             | 9            |
+| **Scripts**            | 8            |
+| **Tests**              | 7            |
+| **Overall**            | 9            |
 
 ---
 
@@ -103,15 +103,17 @@ Certainly! Here is an expert technical review of the **trauma-evidence-forge-v3*
 ## Can <15 min post-Gamma editing be achieved?
 
 **Yes—conditionally.**  
-*trauma-evidence-forge-v3* has a highly optimized, precise slide/template system that—if followed—will virtually eliminate 80–90% of the typical cleanup required post-export from Gamma.
+_trauma-evidence-forge-v3_ has a highly optimized, precise slide/template system that—if followed—will virtually eliminate 80–90% of the typical cleanup required post-export from Gamma.
 
 **Key enabling factors:**
+
 - **Keyword-only slide bodies.** Prevents overlong, unedited text blocks.
 - **Explicit Gamma slide type directives.** Each slide type has a prescriptive configuration, minimizing guesswork.
 - **Marine theme locking.** Prevents style drift.
 - **Per-slide structural requirements in templates.** Guarantees consistent output.
 
 **Key caveats:**
+
 - The last mile depends on **manual pre-Gamma compliance** with all rules (keywording, blockquotes/Botton Line, slide type headers, speaker notes, source formatting) AND on Gamma honoring all directives. If these are met (and validated), true <15 min final-tweaking is realistic.
 - The largest risks are input author errors and occasional Gamma engine variance (misplacing images, truncating speaker notes, misinterpreting references block, etc.), but pipeline structure strongly limits these.
 
@@ -124,6 +126,7 @@ Certainly! Here is an expert technical review of the **trauma-evidence-forge-v3*
 ---
 
 ### Citations by Filename:
+
 - **Architecture & Pipeline:** [SKILL.md], [CLAUDE.md], [config/gamma-medical-profile.json]
 - **Templates:** [templates/presentation-medium.md]
 - **Validation Scripts:** [scripts/card_utils.py]
@@ -134,9 +137,10 @@ Certainly! Here is an expert technical review of the **trauma-evidence-forge-v3*
 ---
 
 **For a development/surgical education team:**
+
 - Prioritize speaker notes/script validation.
 - Scale by automating evidence synthesis.
 - Add regression tests.
 - Consider PM/AI integration for full hands-off batch generation.
 
-*—Reviewed by a software architect, June 2024.*
+_—Reviewed by a software architect, June 2024._

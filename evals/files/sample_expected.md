@@ -21,6 +21,7 @@ After this presentation, you will be able to:
 - TBI patients: **20-30%** VTE rate <sup>[3]</sup>
 
 **Sources:**
+
 - [1] [Eastern](https://www.east.org/)
 - [3] Wu 2023
 
@@ -31,6 +32,7 @@ After this presentation, you will be able to:
 Early prophylaxis safe even in TBI patients <sup>[4]</sup>
 
 **Sources:**
+
 - [4] [Kerwin 2025](https://pubmed.ncbi.nlm.nih.gov/40492307/)
 
 ---

@@ -2,11 +2,9 @@
 
 # Extracted from gamma-ready markdown
 
-
 ## Slide 1: Trauma for the Shelf: Every Topic in 45 Minutes
 
 type: TITLE
-
 
 Welcome everyone. This session covers every high-yield trauma topic tested on the NBME Surgery Shelf Exam in a single 45-minute review. Trauma and critical care account for 20-25% of the shelf -- roughly 22-28 of 110 questions -- making this the single highest-yield domain you can study. In fact, trauma quiz performance has the highest predictive beta-coefficient (1.57, p<0.001) for overall shelf scores across all surgical domains.
 
@@ -16,11 +14,9 @@ The single unifying principle across every trauma question on the shelf: stabili
 
 > **Shelf Tip:** Trauma questions are distributed across NBME organ systems -- cardiovascular, respiratory, nervous, musculoskeletal, multisystem. There is no standalone "trauma" category, so recognize trauma patterns regardless of which system block you are in.
 
-
 ## Slide 2: Eight Objectives Across Ten Trauma Domains Cover the Entire Shelf
 
 type: LEARNING_OBJECTIVES
-
 
 These eight learning objectives map to the 10 domains we will cover today. Each objective uses a Bloom's taxonomy action verb because the shelf tests application, not recall. You will be asked to sequence a primary survey, classify shock, distinguish CT findings, identify cord syndrome patterns, calculate fluid volumes, differentiate clinical presentations, apply decision algorithms, and recognize when to modify management for special populations.
 
@@ -30,11 +26,9 @@ We will use 5 MCQ checkpoints to test your application of each section. Treat th
 
 > **Shelf Tip:** The shelf tests clinical decision-making, not encyclopedic knowledge. For each topic, know the ONE discriminator that changes management -- that is what gets tested.
 
-
 ## Slide 3: The xABCDE Sequence Mandates Hemorrhage Control Before Airway Assessment
 
 type: DATA_TABLE
-
 
 The xABCDE sequence is the single most tested trauma concept on the shelf. The "x" stands for exsanguinating hemorrhage -- this is the MARCH-PAWS update to classic ATLS that prioritizes massive external bleeding control even before airway. On the shelf, this manifests as the patient with active hemorrhage where the "best next step" is direct pressure or tourniquet activation, not intubation.
 
@@ -44,11 +38,9 @@ The shelf trap is always the same: offering CT scan as an answer choice for an u
 
 > **Shelf Tip:** If the patient has abnormal vitals and the stem offers "CT abdomen/pelvis" as an option, eliminate it immediately. The answer is resuscitation or OR.
 
-
 ## Slide 4: Class III-IV Hemorrhagic Shock Requires Blood Products, Not Crystalloid Alone
 
 type: DATA_TABLE
-
 
 This table is among the most tested data sets on the surgery shelf. You must know the four classes of hemorrhagic shock cold. The key teaching point is that blood pressure does not fall until Class III -- meaning a patient can lose 30% of their blood volume (1500 mL) before the BP drops. Young, healthy patients are particularly dangerous because they compensate with tachycardia and vasoconstriction until they suddenly decompensate.
 
@@ -60,11 +52,9 @@ Base deficit and lactate are better markers of shock severity than vital signs a
 
 > **Shelf Tip:** Memorize the Class III numbers as your trigger: HR >120 + BP decreased + confused = give blood, not just fluid.
 
-
 ## Slide 5: Shock Index Greater Than 1.0 Triggers MTP and PROPPR 1:1:1 Saves Lives
 
 type: CONTENT
-
 
 The Shock Index is heart rate divided by systolic blood pressure. A normal Shock Index is 0.5-0.7. When it exceeds 1.0, the patient has significant hemorrhage. When it exceeds 1.4, the patient almost certainly needs massive transfusion protocol activation.
 
@@ -78,11 +68,9 @@ Permissive hypotension targets SBP 80-90 until surgical hemorrhage control -- bu
 
 > **Shelf Tip:** If a question describes a trauma patient with HR/SBP ratio >1 and asks "next step," the answer involves blood products and MTP activation, never "2L LR."
 
-
 ## Slide 6: TXA Before Three Hours Saves Lives but After Three Hours Increases Mortality
 
 type: CONTENT
-
 
 The CRASH-2 trial (2010, PMID 20554319) is one of the most important trauma trials for the shelf. It randomized over 20,000 trauma patients with or at risk of significant bleeding to tranexamic acid (TXA) versus placebo. TXA reduced all-cause mortality by 1.5% absolute (14.5% vs 16.0%) when given within 3 hours of injury.
 
@@ -96,11 +84,9 @@ The MATTERs trial (military data) and CRASH-3 (TBI-specific) further support ear
 
 > **Shelf Tip:** Always check the timeline in the question stem. TXA questions are testing whether you know the 3-hour window, not whether you know TXA exists.
 
-
 ## Slide 7: Clinical Decision Point
 
 type: MCQ
-
 
 Pause here. This question tests the xABCDE sequence in a multiply-injured patient. Take 30 seconds to commit to your answer. Consider: what is the most immediate life threat? The patient has active external hemorrhage (X), a compromised airway (GCS 7 meets intubation criteria for A), absent breath sounds suggesting tension pneumothorax (B), and shock (C). Which letter comes first?
 
@@ -108,11 +94,9 @@ The key teaching point is that X comes before A in the updated sequence. Even th
 
 > **Shelf Tip:** When multiple life threats coexist, follow the alphabetical sequence. X before A before B before C. Do not skip ahead.
 
-
 ## Slide 8: Answer: B -- Control Hemorrhage First Because X Precedes A in xABCDE
 
 type: MCQ_ANSWER
-
 
 The correct answer is B. This patient has exsanguinating external hemorrhage, which is the X step -- the very first priority in the updated xABCDE sequence. Direct pressure to the abdominal wound and immediate activation of massive transfusion protocol addresses the most immediately lethal problem.
 
@@ -126,11 +110,9 @@ The teaching pearl: when multiple life threats coexist, the xABCDE sequence tell
 
 > **Shelf Tip:** The shelf loves questions with competing priorities. When in doubt, follow the alphabet: X, A, B, C, D, E. The earliest letter is always the first step.
 
-
 ## Slide 9: Biconvex CT Means Epidural; Crescent Means Subdural -- Distinct Populations and Prognosis
 
 type: DATA_TABLE
-
 
 Epidural versus subdural hematoma is one of the most tested comparisons on the surgery shelf. You must distinguish them by CT morphology, clinical history, population, and management.
 
@@ -144,11 +126,9 @@ The shelf will give you a CT description and ask you to identify the lesion and 
 
 > **Shelf Tip:** The word "biconvex" or "lens-shaped" on a CT description always means epidural. "Crescent" or "concavo-convex" always means subdural. These are reliable discriminators.
 
-
 ## Slide 10: Uncal Herniation Produces Ipsilateral Blown Pupil While Cushing Triad Signals Imminent Death
 
 type: CONTENT
-
 
 Herniation syndromes are tested because they demand immediate recognition and intervention. The shelf will present a deteriorating TBI patient and ask you to identify the herniation pattern.
 
@@ -162,11 +142,9 @@ Do not confuse herniation with the Monroe-Kellie doctrine, which explains WHY he
 
 > **Shelf Tip:** "Fixed dilated pupil" on the shelf = uncal herniation. "Bilateral fixed pupils" = central herniation. "HTN + bradycardia" = Cushing triad. These are pattern-matched discriminators.
 
-
 ## Slide 11: BTF Guidelines Tier ICP Management From Conservative to Craniectomy
 
 type: DATA_TABLE
-
 
 The Brain Trauma Foundation 4th Edition guidelines (2016) provide a tiered approach to ICP management that is commonly tested on the shelf. The key change from prior editions is the ICP threshold: it is now 22 mmHg, not 20.
 
@@ -180,11 +158,9 @@ The CPP target of 60-70 mmHg is calculated as MAP minus ICP. This is why hypoten
 
 > **Shelf Tip:** The shelf loves to present "refractory ICP despite mannitol." The next step is Tier 3 -- craniectomy or barbiturate coma. "More mannitol" is never the answer for refractory elevation.
 
-
 ## Slide 12: Hypotension Doubles TBI Mortality Because Monroe-Kellie Demands Adequate MAP
 
 type: CONTENT
-
 
 Secondary brain injury prevention is one of the shelf's favorite TBI topics because it tests whether you understand the physiology, not just the interventions. The two key insults are hypotension (SBP below 90) and hypoxia (SpO2 below 90), and both independently worsen TBI outcomes.
 
@@ -196,11 +172,9 @@ Hyperventilation is a common wrong answer on the shelf. While lowering PaCO2 doe
 
 > **Shelf Tip:** "TBI patient with hypotension -- next step?" Answer is volume resuscitation and vasopressors to raise MAP. Never "hyperventilate" as the primary treatment for TBI.
 
-
 ## Slide 13: Clinical Decision Point
 
 type: MCQ
-
 
 This is a classic epidural hematoma presentation. Commit to your answer. The patient has the complete triad: temporal trauma, lucid interval (initial GCS 15 that deteriorated), and a biconvex CT finding with midline shift. Additionally, the ipsilateral fixed dilated pupil indicates uncal herniation is occurring NOW.
 
@@ -208,11 +182,9 @@ Consider each option: Is there time for conservative management? What does the m
 
 > **Shelf Tip:** When a question gives you CT morphology + midline shift + neurological decline, the management decision is already made. Know the surgical thresholds.
 
-
 ## Slide 14: Answer: C -- Biconvex Hematoma With Shift and Herniation Requires Emergent Craniotomy
 
 type: MCQ_ANSWER
-
 
 The correct answer is C -- emergent craniotomy. This patient has a textbook epidural hematoma presentation: temporal blow, lucid interval, rapid decline, biconvex hyperdensity on CT, 8 mm midline shift, and an ipsilateral fixed dilated pupil indicating uncal herniation.
 
@@ -228,11 +200,9 @@ The prognosis for epidural hematoma with early evacuation is good -- this is one
 
 > **Shelf Tip:** Epidural hematoma is the "good" emergency -- early surgery produces excellent outcomes. This is why rapid identification matters. Biconvex + shift = OR, always.
 
-
 ## Slide 15: Four Spinal Cord Syndromes Have Distinct Motor-Sensory Patterns That Predict Recovery
 
 type: DATA_TABLE
-
 
 The four spinal cord syndromes are a favorite shelf topic because each has a distinct mechanism, deficit pattern, and prognosis. You must be able to identify each syndrome from a clinical vignette.
 
@@ -246,11 +216,9 @@ Cauda equina syndrome involves compression of the nerve roots below the conus me
 
 > **Shelf Tip:** The discriminator for the shelf: "arms worse than legs in elderly after fall" = central cord. "Loss of pain/temp with preserved proprioception" = anterior cord. "Ipsilateral motor + contralateral pain/temp loss" = Brown-Sequard.
 
-
 ## Slide 16: Canadian C-Spine Rule Is More Specific Than NEXUS for Clearing the Cervical Spine
 
 type: DATA_TABLE
-
 
 C-spine clearance decision rules are tested because the shelf wants you to avoid unnecessary imaging while not missing cervical spine injuries. Both NEXUS and the Canadian C-Spine Rule have near-perfect sensitivity, but they differ significantly in specificity.
 
@@ -264,11 +232,9 @@ The shelf question pattern is typically: alert, stable trauma patient with neck 
 
 > **Shelf Tip:** If the stem describes an alert, stable trauma patient, the answer is "clinical clearance with CCR" not "CT c-spine." Reserve CT for patients who fail clinical clearance or cannot be assessed.
 
-
 ## Slide 17: Neurogenic Shock Produces Bradycardia Plus Hypotension -- Norepinephrine Is First-Line
 
 type: CONTENT
-
 
 Neurogenic shock is one of the most tested shock subtypes on the shelf because it requires pattern recognition to distinguish from hemorrhagic shock. Both present with hypotension, but the heart rate and skin findings are the discriminators.
 
@@ -282,21 +248,17 @@ Steroids for spinal cord injury (the NASCIS II/III legacy) are NOT recommended b
 
 > **Shelf Tip:** The single discriminator: hemorrhagic shock = tachycardia + cold. Neurogenic shock = bradycardia + warm. If the stem gives you hypotension with a slow heart rate after spinal trauma, the answer is neurogenic shock and norepinephrine.
 
-
 ## Slide 18: Clinical Decision Point
 
 type: MCQ
-
 
 This question presents the classic neurogenic shock triad: hypotension, bradycardia, and warm extremities in the setting of a cervical spinal cord injury. The patient has failed an initial crystalloid bolus. Consider what the heart rate tells you about the type of shock and what that means for treatment.
 
 > **Shelf Tip:** Heart rate is the key discriminator between shock types in the trauma setting. Tachycardia = volume loss. Bradycardia with spinal injury = neurogenic.
 
-
 ## Slide 19: Answer: B -- Bradycardia Distinguishes Neurogenic From Hemorrhagic Shock
 
 type: MCQ_ANSWER
-
 
 The correct answer is B -- norepinephrine infusion. This patient has the complete neurogenic shock triad: hypotension (BP 78/50), bradycardia (HR 52), and warm vasodilated extremities, all in the setting of a cervical spinal cord injury at C5. The C5 level is above T6, meaning the entire thoracolumbar sympathetic chain is disrupted.
 
@@ -312,11 +274,9 @@ Norepinephrine is first-line because it provides both alpha-1 vasoconstriction (
 
 > **Shelf Tip:** Steroids for SCI is a legacy answer. Current guidelines say no. If a shelf question asks about methylprednisolone for acute SCI, the answer is "do not give" or choose the vasopressor option instead.
 
-
 ## Slide 20: Burn Depth Determines Healing Capacity -- Full Thickness Burns Are Painless
 
 type: DATA_TABLE
-
 
 Burn depth classification is tested on the shelf as a pattern recognition exercise. The key discriminator is pain: full-thickness burns are PAINLESS because the dermal nerve endings have been destroyed. This is the classic shelf trick question -- a patient with a burn that does not hurt is not a mild injury. It is the most severe type.
 
@@ -334,11 +294,9 @@ The shelf question is typically: "a patient has a leathery, painless burn." The 
 
 > **Shelf Tip:** If the question says "painless" burn, the answer is full thickness. If it says "most painful," the answer is superficial partial. Pain inversely correlates with depth.
 
-
 ## Slide 21: Calculate Parkland Formula From Burn Time Not Arrival and Use Rule of Nines for TBSA
 
 type: DATA_TABLE
-
 
 The Rule of Nines and Parkland formula are tested as calculation problems on the shelf. The most common trap is calculating from arrival time instead of burn time.
 
@@ -354,11 +312,9 @@ Remember: superficial (first-degree) burns are NOT included in TBSA calculations
 
 > **Shelf Tip:** The time trap is the #1 tested element of Parkland calculations. Always identify when the burn happened, not when the patient arrived. The clock started at burn time.
 
-
 ## Slide 22: Enclosed Fire Plus Carbonaceous Sputum Mandates Intubation for Inhalation Injury
 
 type: CONTENT
-
 
 Inhalation injury is tested on the shelf because it requires early recognition and aggressive airway management. The key teaching point is that upper airway edema from thermal injury progresses rapidly and can completely obstruct the airway within hours. If you suspect inhalation injury, intubate early -- waiting until the patient shows stridor or desaturation may make intubation impossible.
 
@@ -370,11 +326,9 @@ Cyanide poisoning should be suspected in fire victims with refractory lactic aci
 
 > **Shelf Tip:** "Enclosed fire + hoarse voice" on the shelf = intubate immediately. Do not wait for further assessment. Edema progression can make delayed intubation impossible.
 
-
 ## Slide 23: Escharotomy Relieves Circumferential Burns While Electrical Burns Cause Hidden Deep Damage
 
 type: CONTENT
-
 
 Escharotomy and electrical burns are commonly tested because they require specific management that differs from standard burn care.
 
@@ -390,11 +344,9 @@ Chemical burns require copious water irrigation for at least 20 minutes. Do NOT 
 
 > **Shelf Tip:** "Circumferential burn + decreased pulses" = escharotomy. "Electrical burn + dark urine" = rhabdomyolysis, treat with aggressive fluids. The surface underestimates the depth.
 
-
 ## Slide 24: Clinical Decision Point
 
 type: MCQ
-
 
 This is a classic Parkland calculation question. Work through it step by step. Remember: the 24-hour clock starts at the time of BURN (1400h), not arrival (1600h). The first 8 hours run from 1400 to 2200. The patient arrives at 1600, meaning 2 hours have already passed. How much of the first-8-hour allotment remains to be given between 1600 and 2200?
 
@@ -404,11 +356,9 @@ Step 3: The first 8h window is 1400-2200. Patient arrives at 1600. How many hour
 
 > **Shelf Tip:** Draw a timeline. Mark the burn time, the arrival time, and the 8-hour mark. Then calculate.
 
-
 ## Slide 25: Answer: B -- 5120 mL Delivered in Remaining 6 Hours Because Clock Starts at Burn Time
 
 type: MCQ_ANSWER
-
 
 The correct answer is B -- 5120 mL. Let me walk through the calculation step by step, because the shelf expects you to show your work.
 
@@ -434,11 +384,9 @@ The teaching point remains: always calculate from burn time, not arrival time. T
 
 > **Shelf Tip:** Draw the timeline. Burn time is the zero point. Arrival time determines how much of the first 8 hours you have left. Never calculate from arrival.
 
-
 ## Slide 26: Massive Hemothorax Draining Over 1500 mL Mandates Thoracotomy Not Continued Drainage
 
 type: DATA_TABLE
-
 
 Chest trauma is heavily tested on the shelf and spans the cardiovascular and respiratory NBME system blocks. You need to know the thresholds that change management.
 
@@ -452,11 +400,9 @@ Open pneumothorax (sucking chest wound) is treated with a three-sided occlusive 
 
 > **Shelf Tip:** Know the massive hemothorax threshold: 1500 mL initial or 200 mL/hr for 2-4 hours. If a question gives you a number above either threshold, the answer is thoracotomy.
 
-
 ## Slide 27: Aortic Injury Occurs at the Isthmus and Widened Mediastinum Demands CTA
 
 type: CONTENT
-
 
 Traumatic aortic injury is the second most common cause of death in motor vehicle collisions (after TBI). Most patients die at the scene. Those who survive to the hospital typically have a contained rupture at the aortic isthmus -- the junction between the relatively mobile aortic arch and the fixed descending aorta, anchored by the ligamentum arteriosum.
 
@@ -470,11 +416,9 @@ Treatment is endovascular repair (TEVAR) in most cases, which has replaced open 
 
 > **Shelf Tip:** "High-speed MVC + wide mediastinum" = CTA, always. The wrong answers are "repeat CXR in 4 hours" or "aortography." CTA is faster, more available, and more accurate.
 
-
 ## Slide 28: EDT Survival Is 15% for Penetrating Cardiac Injury and Tamponade Differs From PTX by Breath Sounds
 
 type: DATA_TABLE
-
 
 Emergency department thoracotomy and the tamponade-versus-pneumothorax distinction are heavily tested shelf topics.
 
@@ -488,11 +432,9 @@ Beck's triad for tamponade is: hypotension, JVD, and muffled heart sounds. Pulsu
 
 > **Shelf Tip:** Both tamponade and tension PTX cause JVD + hypotension. The single discriminator is breath sounds: bilateral = tamponade, absent unilateral = PTX. This distinction appears on virtually every shelf exam.
 
-
 ## Slide 29: Clinical Decision Point
 
 type: MCQ
-
 
 This is a classic tension pneumothorax versus tamponade discrimination question. The patient has JVD and hypotension -- features of both conditions. But look at the breath sounds and tracheal position. Absent left breath sounds and tracheal deviation to the right are the key findings. What diagnosis does this pattern match?
 
@@ -500,11 +442,9 @@ Remember: tamponade has bilateral breath sounds and midline trachea. Tension PTX
 
 > **Shelf Tip:** Do not let the stab wound to the chest bias you toward tamponade. Read the physical exam findings carefully -- they tell you the diagnosis.
 
-
 ## Slide 30: Answer: B -- Absent Breath Sounds Plus Tracheal Deviation Equals Tension PTX, Not Tamponade
 
 type: MCQ_ANSWER
-
 
 The correct answer is B -- left needle decompression. This patient has the classic tension pneumothorax presentation: absent breath sounds on the affected side (left), tracheal deviation AWAY from the affected side (to the right), JVD (from impaired venous return due to mediastinal shift), and hypotension (obstructive shock).
 
@@ -520,11 +460,9 @@ Note that the stab wound mechanism is a deliberate distractor designed to make y
 
 > **Shelf Tip:** Mechanism suggests the injury, but physical exam makes the diagnosis. A stab wound CAN cause either tamponade or PTX. The breath sounds and tracheal position tell you which one.
 
-
 ## Slide 31: Positive FAST Plus Unstable Equals Laparotomy -- Splenic NOM Succeeds in 85% of Stable Patients
 
 type: DATA_TABLE
-
 
 The FAST exam and abdominal trauma management algorithm are among the most tested topics on the surgery shelf. The decision tree is simple but must be applied rigidly: FAST positive plus hemodynamically unstable equals immediate laparotomy. No CT. No delay.
 
@@ -540,11 +478,9 @@ The seatbelt sign (ecchymosis across the abdomen in the pattern of a seatbelt) s
 
 > **Shelf Tip:** The FAST algorithm is tested as a flowchart. Memorize: FAST+ unstable = OR. FAST+ stable = CT. FAST- unstable = repeat/DPL. FAST- stable = observe.
 
-
 ## Slide 32: Gunshot Wounds Mandate Laparotomy While Stab Wounds Allow Selective Management
 
 type: CONTENT
-
 
 Penetrating abdominal trauma management differs fundamentally between gunshot wounds and stab wounds, and the shelf tests this distinction frequently.
 
@@ -558,11 +494,9 @@ Do not forget: anterior abdominal wall stab wounds that are clearly superficial 
 
 > **Shelf Tip:** "GSW abdomen" = laparotomy. "Stab wound abdomen + unstable" = laparotomy. "Stab wound abdomen + stable" = local wound exploration. "Evisceration" = laparotomy. These are algorithmic, not judgment calls.
 
-
 ## Slide 33: Neck Zones and Retroperitoneal Zones Each Have Specific Exploration Rules
 
 type: DATA_TABLE
-
 
 Neck zones and retroperitoneal zones are tested as management algorithms. Each zone has different anatomy and therefore different management strategies for penetrating injury.
 
@@ -574,11 +508,9 @@ Retroperitoneal zones are evaluated at the time of laparotomy. Zone 1 (central/m
 
 > **Shelf Tip:** Two absolute rules: (1) hard signs in ANY neck zone = OR, no imaging. (2) Zone 3 retroperitoneal hematoma at laparotomy = do NOT explore. These are pattern answers.
 
-
 ## Slide 34: Clinical Decision Point
 
 type: MCQ
-
 
 This is a straightforward FAST algorithm question. The patient is hemodynamically unstable (BP 70/40 despite blood products) with a positive FAST (free fluid in Morison's pouch). Apply the algorithm: what does FAST+ unstable equal?
 
@@ -586,11 +518,9 @@ Do not be distracted by the mechanism or think about pelvic injury first. The FA
 
 > **Shelf Tip:** When the question gives you FAST+ and unstable vitals in the same sentence, the answer is always laparotomy. No exceptions.
 
-
 ## Slide 35: Answer: C -- FAST Positive Plus Hemodynamically Unstable Equals Immediate Laparotomy
 
 type: MCQ_ANSWER
-
 
 The correct answer is C -- exploratory laparotomy. This is the single most tested and most reliable algorithm in trauma surgery: positive FAST plus hemodynamic instability equals immediate laparotomy. This patient has free fluid in Morison's pouch on FAST and remains hypotensive despite 2 units of packed red blood cells. He needs the OR, not the CT scanner.
 
@@ -604,11 +534,9 @@ This is perhaps the most important single algorithm on the trauma shelf. If you 
 
 > **Shelf Tip:** The only scenario where a positive FAST does NOT lead to laparotomy is when the patient is hemodynamically stable -- then you get a CT for surgical planning and consider NOM.
 
-
 ## Slide 36: Pelvic Fracture Algorithm Prioritizes Laparotomy Over Angio When FAST Is Positive
 
 type: DATA_TABLE
-
 
 Pelvic fracture management is tested because it involves a specific algorithm that prioritizes different interventions based on FAST results. The key teaching point: in an unstable patient with a pelvic fracture, the FAST result determines whether you go to the OR for laparotomy or to IR for angioembolization.
 
@@ -622,11 +550,9 @@ Blood at the urethral meatus suggests urethral injury. Perform a retrograde uret
 
 > **Shelf Tip:** The FAST determines the next step for unstable pelvic fractures. FAST+ = laparotomy (abdomen first). FAST- = angio/packing (pelvis is the source). The pelvic binder goes on regardless.
 
-
 ## Slide 37: Compartment Syndrome Has a Six-Hour Window and Passive Stretch Is the Earliest Sign
 
 type: CONTENT
-
 
 Compartment syndrome is a surgical emergency with a narrow time window. The key teaching point for the shelf is that PAIN WITH PASSIVE STRETCH is the earliest and most reliable finding -- do not wait for the classic "6 Ps" to develop.
 
@@ -642,11 +568,9 @@ The time window is approximately 6 hours from onset of ischemia. After 6 hours, 
 
 > **Shelf Tip:** "Pain with passive stretch" on the shelf = compartment syndrome = fasciotomy. Do not choose "check pulses" or "administer pain medication." Pulses are intact in early compartment syndrome.
 
-
 ## Slide 38: Gustilo IIIC Open Fractures Require Vascular Repair and Fat Embolism Presents 24-72 Hours Post-Fracture
 
 type: DATA_TABLE
-
 
 The Gustilo classification for open fractures is tested because each grade determines antibiotic coverage and the urgency of management. The shelf particularly likes to test the IIIC subtype because it involves vascular injury.
 
@@ -660,11 +584,9 @@ Treatment is supportive -- oxygen, mechanical ventilation if needed. Prevention 
 
 > **Shelf Tip:** Fat embolism triad = respiratory distress + confusion + petechial rash, appearing 24-72h after a fracture. The timing and the rash are the discriminators.
 
-
 ## Slide 39: Clinical Decision Point
 
 type: MCQ
-
 
 This question presents competing priorities: an open fracture with compartment syndrome AND hemodynamic instability with a positive FAST. You must decide between treating the limb-threatening condition (fasciotomy/fracture care) and the life-threatening condition (laparotomy for abdominal hemorrhage).
 
@@ -672,11 +594,9 @@ Consider the principle: life before limb. Which intervention addresses the more 
 
 > **Shelf Tip:** When competing priorities exist, always apply "life before limb." A dead patient does not benefit from a fasciotomy.
 
-
 ## Slide 40: Answer: B -- Life Before Limb Mandates Laparotomy First When the Abdomen Is the Life Threat
 
 type: MCQ_ANSWER
-
 
 The correct answer is B -- exploratory laparotomy. This question tests the principle of "life before limb," one of the most important prioritization rules in trauma surgery. The patient has two serious conditions: an open fracture with compartment syndrome (limb-threatening) and a positive FAST with hemodynamic instability (life-threatening). Life always takes priority.
 
@@ -692,11 +612,9 @@ The teaching pearl: when multiple injuries compete for attention, address life t
 
 > **Shelf Tip:** "Life before limb" is a pattern answer. Any question that presents a limb-threatening injury AND a life-threatening injury in the same patient, the life-threatening condition takes priority.
 
-
 ## Slide 41: Damage Control Surgery Uses Three Phases When the Lethal Triad Is Present
 
 type: CONTENT
-
 
 Damage control surgery is the paradigm shift that revolutionized trauma care. The concept is simple: in a severely injured, physiologically decompensated patient, attempting a complete definitive repair in a single prolonged operation will kill the patient. Instead, you abbreviate the initial surgery to address only immediate life threats, resuscitate in the ICU, and return for definitive repair once the physiology has normalized.
 
@@ -710,11 +628,9 @@ The indications for damage control include the lethal triad (hypothermia below 3
 
 > **Shelf Tip:** If the stem describes hypothermia, acidosis, and coagulopathy together, the answer is ALWAYS damage control surgery, not definitive repair. The lethal triad is the trigger.
 
-
 ## Slide 42: Pediatric, Geriatric, and Pregnancy Trauma Each Require Specific Management Modifications
 
 type: DATA_TABLE
-
 
 Special populations require modified management, and the shelf tests whether you know these modifications. Three populations are particularly high-yield: pediatric (especially non-accidental trauma), geriatric, and pregnancy.
 
@@ -728,11 +644,9 @@ Pregnancy trauma: The best treatment for the fetus is treating the mother. After
 
 > **Shelf Tip:** NAT presentation on the shelf: infant or toddler with injuries inconsistent with the history provided by the caretaker. Bilateral subdurals + retinal hemorrhages is essentially pathognomonic.
 
-
 ## Slide 43: Clinical Decision Point
 
 type: MCQ
-
 
 This is a classic NAT presentation. The triad of bilateral subdural hematomas, retinal hemorrhages, and metaphyseal corner fractures in an infant with an inconsistent mechanism (rolled off a couch) is essentially pathognomonic for non-accidental trauma.
 
@@ -740,11 +654,9 @@ Consider: can an 8-month-old rolling off a couch produce bilateral subdurals? Re
 
 > **Shelf Tip:** When the history does not match the injuries, non-accidental trauma is the answer. This is pattern recognition, not detective work.
 
-
 ## Slide 44: Answer: B -- Bilateral Subdurals Plus Retinal Hemorrhages Plus Inconsistent History Equals NAT
 
 type: MCQ_ANSWER
-
 
 The correct answer is B -- non-accidental trauma (child abuse). This is one of the most straightforward pattern-recognition questions on the shelf. The combination of bilateral subdural hematomas, retinal hemorrhages, metaphyseal corner fractures, and a history that does not match the injuries is essentially pathognomonic for NAT.
 
@@ -760,11 +672,9 @@ The next steps in management include: full skeletal survey (to look for fracture
 
 > **Shelf Tip:** The shelf will always make NAT an answer choice when it presents an infant with unexplained injuries. If the history does not match the findings, choose NAT. You are not being asked to prove abuse -- you are being asked to recognize the pattern.
 
-
 ## Slide 45: Ten Topics, Ten Discriminators -- The Complete Shelf Cheat Sheet
 
 type: TAKE_HOME
-
 
 These ten discriminators summarize the entire 45-minute review. Each one is a decision rule that, when applied correctly, will answer the vast majority of trauma questions on the shelf. Let me walk through each one as a final review.
 
@@ -792,8 +702,6 @@ Apply these ten rules and you will answer 90% of trauma shelf questions correctl
 
 > **Shelf Tip:** Print these 10 discriminators on a single notecard and review them the morning of the exam. Each one is a decision rule, not a fact to memorize.
 
-
 ## Slide 46: References
 
 type: REFERENCES
-

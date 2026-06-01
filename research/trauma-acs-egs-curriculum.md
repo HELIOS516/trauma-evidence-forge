@@ -1,6 +1,7 @@
 # Trauma/ACS/EGS Medical Student Curriculum
 
 ## ACS/ASE Medical Student Core Curriculum (21 Modules)
+
 1. Trauma I: Initial Trauma Evaluation
 2. Trauma II: Diagnosis and Management
 3. Abdominal Pain
@@ -24,6 +25,7 @@
 21. Endocrine Disease
 
 ## AAST Trauma Topics (37+)
+
 - TBI
 - Spine/SCI
 - Blunt Cerebrovascular
@@ -64,6 +66,7 @@
 - Ballistics
 
 ## AAST EGS Topics (35+)
+
 - Cholecystitis
 - Choledocholithiasis
 - Cholangitis
@@ -100,6 +103,7 @@
 - Special Populations: Unexpected Malignancy
 
 ## ABS General Surgery EPAs (18)
+
 All 18 EPAs, with ACS-relevant ones noted:
 
 1. EPA 1: History and Physical Examination
@@ -108,22 +112,23 @@ All 18 EPAs, with ACS-relevant ones noted:
 4. EPA 4: Laparoscopic Skills
 5. EPA 5: Open Abdominal Surgery
 6. EPA 6: Hernia Repair
-7. **EPA 7: Acute Abdomen** *(ACS-relevant)*
+7. **EPA 7: Acute Abdomen** _(ACS-relevant)_
 8. EPA 8: Biliary Surgery
-9. **EPA 9: Small Bowel Obstruction** *(ACS-relevant)*
+9. **EPA 9: Small Bowel Obstruction** _(ACS-relevant)_
 10. EPA 10: Colorectal Surgery
 11. EPA 11: Breast Surgery
-12. **EPA 12: Soft Tissue Infection** *(ACS-relevant)*
+12. **EPA 12: Soft Tissue Infection** _(ACS-relevant)_
 13. EPA 13: Endocrine Surgery
-14. **EPA 14: Pancreatitis** *(ACS-relevant)*
-15. **EPA 15: Perioperative Care of the Critically Ill** *(ACS-relevant)*
+14. **EPA 14: Pancreatitis** _(ACS-relevant)_
+15. **EPA 15: Perioperative Care of the Critically Ill** _(ACS-relevant)_
 16. EPA 16: Vascular Surgery Basics
-17. **EPA 17: Trauma Evaluation and Management** *(ACS-relevant)*
+17. **EPA 17: Trauma Evaluation and Management** _(ACS-relevant)_
 18. EPA 18: Endoscopy
 
 ## ABS Surgical Critical Care EPAs (13)
 
 ### Core EPAs (9)
+
 1. Hemorrhage and Resuscitation
 2. End-of-life Care in the ICU
 3. Shock and Cardiovascular Failure
@@ -135,6 +140,7 @@ All 18 EPAs, with ACS-relevant ones noted:
 9. Nutrition and Metabolic Support
 
 ### Optional EPAs (4)
+
 10. Critically Ill Child
 11. Critically Ill Elderly Patient
 12. Thermal Injury
@@ -143,18 +149,21 @@ All 18 EPAs, with ACS-relevant ones noted:
 ## ATLS Primary Survey (ABCDE)
 
 ### A — Airway (with C-spine protection)
+
 - Assess patency, identify obstruction
 - Chin lift/jaw thrust, suction, oral/nasal airway
 - Definitive airway if GCS ≤8 or unable to protect airway
 - Maintain C-spine immobilization throughout
 
 ### B — Breathing and Ventilation
+
 - Expose chest, inspect/palpate/percuss/auscultate
 - Identify and treat life threats: tension pneumothorax, open pneumothorax, massive hemothorax, flail chest
 - Supplemental O2 for all trauma patients
 - Needle decompression or chest tube as indicated
 
 ### C — Circulation with Hemorrhage Control
+
 - Assess pulse, skin color, capillary refill, mental status
 - Identify and control external hemorrhage (direct pressure, tourniquet)
 - Two large-bore IVs or IO access
@@ -162,33 +171,36 @@ All 18 EPAs, with ACS-relevant ones noted:
 - Initiate resuscitation; consider MTP activation
 
 ### D — Disability (Neurological Status)
+
 - GCS score (E+V+M)
 - Pupil size and reactivity
 - Lateralizing signs
 - Glucose check
 
 ### E — Exposure/Environment
+
 - Fully undress patient
 - Log roll with spine precautions
 - Prevent hypothermia (warm blankets, warm fluids, warm room)
 
 ## Hemorrhagic Shock Classification
 
-| Parameter | Class I | Class II | Class III | Class IV |
-|-----------|---------|----------|-----------|----------|
-| Blood Loss (mL) | <750 | 750-1500 | 1500-2000 | >2000 |
-| Blood Loss (%) | <15% | 15-30% | 30-40% | >40% |
-| Heart Rate | <100 | 100-120 | 120-140 | >140 |
-| Blood Pressure | Normal | Normal | Decreased | Decreased |
-| Pulse Pressure | Normal/increased | Decreased | Decreased | Decreased |
-| Respiratory Rate | 14-20 | 20-30 | 30-40 | >35 |
-| Mental Status | Slightly anxious | Mildly anxious | Anxious, confused | Confused, lethargic |
-| Urine Output (mL/hr) | >30 | 20-30 | 5-15 | Negligible |
-| Fluid Replacement | Crystalloid | Crystalloid | Blood products | Blood products + MTP |
+| Parameter            | Class I          | Class II       | Class III         | Class IV             |
+| -------------------- | ---------------- | -------------- | ----------------- | -------------------- |
+| Blood Loss (mL)      | <750             | 750-1500       | 1500-2000         | >2000                |
+| Blood Loss (%)       | <15%             | 15-30%         | 30-40%            | >40%                 |
+| Heart Rate           | <100             | 100-120        | 120-140           | >140                 |
+| Blood Pressure       | Normal           | Normal         | Decreased         | Decreased            |
+| Pulse Pressure       | Normal/increased | Decreased      | Decreased         | Decreased            |
+| Respiratory Rate     | 14-20            | 20-30          | 30-40             | >35                  |
+| Mental Status        | Slightly anxious | Mildly anxious | Anxious, confused | Confused, lethargic  |
+| Urine Output (mL/hr) | >30              | 20-30          | 5-15              | Negligible           |
+| Fluid Replacement    | Crystalloid      | Crystalloid    | Blood products    | Blood products + MTP |
 
 **Note:** Only 9.3% of trauma patients fit neatly into ATLS hemorrhagic shock classes. Clinical gestalt and response to resuscitation guide management more than rigid classification.
 
 ## Nationwide Survey Data (2021)
+
 - Only 16.4% of surgical training programs mandate ACS rotation for medical students
 - 69.1% offer ACS rotation as optional
 - 61.8% of program directors believe medical students should have a formal ACS rotation
@@ -196,6 +208,7 @@ All 18 EPAs, with ACS-relevant ones noted:
 - Only 3 published articles describe ACS-specific training at the medical student level
 
 ## Sources
+
 - ACS/ASE Medical Student Core Curriculum: https://learning.facs.org/content/acs-ase-medical-student-core-curriculum
 - ACS TEAM Course: https://www.facs.org/quality-programs/trauma/education/trauma-evaluation-and-management-course/
 - AAST Trauma Topics: https://www.aast.org/acute-care-surgery/education-resources

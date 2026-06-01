@@ -1,4 +1,5 @@
 # Trauma for the Shelf: Every Topic in 45 Minutes
+
 > **Template:** presentation-unified (45 slides)
 > **Duration:** 45 minutes
 > **Theme:** Marine (themeId: "marine", textMode: "preserve")
@@ -46,6 +47,7 @@ The single unifying principle across every trauma question on the shelf: stabili
 8. **Recognize** DCS triggers + peds/geri/pregnancy mods
 
 **Sources:**
+
 - [1] American 2018
 - [2] [Mott 2020](https://pubmed.ncbi.nlm.nih.gov/32389529/)
 
@@ -67,21 +69,21 @@ We will use 5 MCQ checkpoints to test your application of each section. Treat th
 
 **Gamma instruction: Table dominates 70%, key row X highlighted in red accent, title = assertion, Bottom Line box**
 
-| Step | Intervention |
-|------|-------------|
+| Step  | Intervention                  |
+| ----- | ----------------------------- |
 | **X** | **Tourniquet, pressure, MTP** |
-| **A** | Intubate if GCS ≤8 |
-| **B** | Needle decompress |
-| **C** | FAST, blood products |
-| **D** | GCS + pupils |
-| **E** | Log-roll, warm |
+| **A** | Intubate if GCS ≤8            |
+| **B** | Needle decompress             |
+| **C** | FAST, blood products          |
+| **D** | GCS + pupils                  |
+| **E** | Log-roll, warm                |
 
 **[KEY STAT: Unstable + CT offered = CT is always wrong]**
 
 > **Bottom Line:** Unstable patient offered CT -- answer is intervention first, not imaging
 
-
 **Sources:**
+
 - [1] American 2018
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 
@@ -103,19 +105,19 @@ The shelf trap is always the same: offering CT scan as an answer choice for an u
 
 **Gamma instruction: Table dominates 70%, Class III-IV rows highlighted red accent, full ATLS data, Bottom Line box**
 
-| | Class I | Class II | **Class III** | **Class IV** |
-|---|---------|----------|-----------|----------|
-| **Blood loss** | <15% | 15-30% | **30-40%** | **>40%** |
-| **HR** | <100 | 100-120 | **>120** | **>140** |
-| **BP** | Normal | Normal | **↓** | **↓↓** |
-| **Rx** | Monitor | Crystalloid | **Blood** | **MTP 1:1:1** |
+|                | Class I | Class II    | **Class III** | **Class IV**  |
+| -------------- | ------- | ----------- | ------------- | ------------- |
+| **Blood loss** | <15%    | 15-30%      | **30-40%**    | **>40%**      |
+| **HR**         | <100    | 100-120     | **>120**      | **>140**      |
+| **BP**         | Normal  | Normal      | **↓**         | **↓↓**        |
+| **Rx**         | Monitor | Crystalloid | **Blood**     | **MTP 1:1:1** |
 
 **[KEY STAT: BP doesn't drop until 30% lost — don't trust normal BP]**
 
 > **Bottom Line:** HR 130, BP 80 -- answer is blood products, not 2L NS
 
-
 **Sources:**
+
 - [1] American 2018
 - [4] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29262047/)
 - [5] [Holcomb 2015](https://pubmed.ncbi.nlm.nih.gov/25647203/)
@@ -148,8 +150,8 @@ Base deficit and lactate are better markers of shock severity than vital signs a
 
 > **Bottom Line:** Shock Index >1.0 -- answer is MTP, not crystalloid
 
-
 **Sources:**
+
 - [5] [Holcomb 2015](https://pubmed.ncbi.nlm.nih.gov/25647203/)
 - [6] [Mutschler 2013](https://pubmed.ncbi.nlm.nih.gov/23938104/)
 
@@ -183,8 +185,8 @@ Permissive hypotension targets SBP 80-90 until surgical hemorrhage control -- bu
 
 > **Bottom Line:** 2h post-injury -- give TXA; 4h post -- withhold
 
-
 **Sources:**
+
 - [7] [CRASH-2 2010](https://pubmed.ncbi.nlm.nih.gov/20554319/)
 - [8] [CRASH-2 2011](https://pubmed.ncbi.nlm.nih.gov/21439633/)
 
@@ -242,8 +244,8 @@ The key teaching point is that X comes before A in the updated sequence. Even th
 
 > **Bottom Line:** Exsanguinating hemorrhage (X) -- address before airway (A)
 
-
 **Sources:**
+
 - [1] American 2018
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 
@@ -272,20 +274,20 @@ The teaching pearl: when multiple life threats coexist, the xABCDE sequence tell
 ![EDH vs SDH CT comparison](images/01_edh_vs_sdh_lemon_banana.jpg)
 ![Subdural hematoma CT with annotations](images/02_subdural_ct_annotated.jpg)
 
-| Feature | Epidural | Subdural |
-|---------|----------|----------|
-| **Source** | MMA | Bridging veins |
-| **CT** | **Biconvex** | **Crescent** |
-| **History** | Lucid interval | Gradual decline |
-| **Population** | Young, temporal fx | Elderly, anticoag |
+| Feature          | Epidural             | Subdural           |
+| ---------------- | -------------------- | ------------------ |
+| **Source**       | MMA                  | Bridging veins     |
+| **CT**           | **Biconvex**         | **Crescent**       |
+| **History**      | Lucid interval       | Gradual decline    |
+| **Population**   | Young, temporal fx   | Elderly, anticoag  |
 | **OR threshold** | >1cm / >30mL / shift | >10mm / >5mm shift |
 
 **[KEY STAT: Biconvex + lucid interval = epidural]**
 
 > **Bottom Line:** Biconvex on CT -- answer is epidural, not subdural
 
-
 **Sources:**
+
 - [9] [Bullock 2006](https://pubmed.ncbi.nlm.nih.gov/16710967/)
 - [10] [Bullock 2006](https://pubmed.ncbi.nlm.nih.gov/16710968/)
 
@@ -321,8 +323,8 @@ The shelf will give you a CT description and ask you to identify the lesion and 
 
 > **Bottom Line:** Ipsilateral fixed dilated pupil -- answer is uncal herniation, not central
 
-
 **Sources:**
+
 - [9] [Bullock 2006](https://pubmed.ncbi.nlm.nih.gov/16710967/)
 - [10] [Bullock 2006](https://pubmed.ncbi.nlm.nih.gov/16710968/)
 - [11] [Carney 2017](https://pubmed.ncbi.nlm.nih.gov/27654000/)
@@ -349,18 +351,18 @@ Do not confuse herniation with the Monroe-Kellie doctrine, which explains WHY he
 
 **Gamma instruction: Table dominates 70%, Tier 3 row highlighted red accent, progressive escalation, Bottom Line box**
 
-| Tier | Interventions | Target |
-|------|--------------|--------|
-| **1** | HOB 30°, sedation, CSF drain | ICP <22 |
-| **2** | HTS 23.4% / mannitol | CPP 60-70 |
-| **3** | Craniectomy, barb coma | Refractory |
+| Tier  | Interventions                | Target     |
+| ----- | ---------------------------- | ---------- |
+| **1** | HOB 30°, sedation, CSF drain | ICP <22    |
+| **2** | HTS 23.4% / mannitol         | CPP 60-70  |
+| **3** | Craniectomy, barb coma       | Refractory |
 
 **[KEY STAT: ICP threshold <22 (BTF 4th Ed)]**
 
 > **Bottom Line:** Refractory ICP despite osmotherapy -- answer is craniectomy, not more mannitol
 
-
 **Sources:**
+
 - [11] [Carney 2017](https://pubmed.ncbi.nlm.nih.gov/27654000/)
 - [12] Brain 2016
 
@@ -395,8 +397,8 @@ The CPP target of 60-70 mmHg is calculated as MAP minus ICP. This is why hypoten
 
 > **Bottom Line:** TBI + BP 85/50 -- answer is raise MAP, not hyperventilate
 
-
 **Sources:**
+
 - [9] [Bullock 2006](https://pubmed.ncbi.nlm.nih.gov/16710967/)
 - [11] [Carney 2017](https://pubmed.ncbi.nlm.nih.gov/27654000/)
 - [12] Brain 2016
@@ -453,8 +455,8 @@ Consider each option: Is there time for conservative management? What does the m
 
 > **Bottom Line:** Epidural + midline shift + blown pupil = emergent craniotomy
 
-
 **Sources:**
+
 - [9] [Bullock 2006](https://pubmed.ncbi.nlm.nih.gov/16710967/)
 - [10] [Bullock 2006](https://pubmed.ncbi.nlm.nih.gov/16710968/)
 - [11] [Carney 2017](https://pubmed.ncbi.nlm.nih.gov/27654000/)
@@ -483,19 +485,19 @@ The prognosis for epidural hematoma with early evacuation is good -- this is one
 
 **Gamma instruction: Table dominates 70%, key diagnostic patterns highlighted accent, title = assertion, Bottom Line box**
 
-| Syndrome | Mechanism | Lost | Preserved |
-|----------|-----------|------|-----------|
-| **Anterior** | Burst fx / aortic | Motor, pain, temp | Proprio, vibration |
-| **Central** | Hyperextension (elderly) | Arms >> legs | Sacral sensation |
-| **Brown-Sequard** | Hemisection (penetrating) | Ipsi motor; contra pain | Opposite modalities |
-| **Cauda equina** | L1-L2 compression | Saddle, bowel/bladder | **Surgical emergency** |
+| Syndrome          | Mechanism                 | Lost                    | Preserved              |
+| ----------------- | ------------------------- | ----------------------- | ---------------------- |
+| **Anterior**      | Burst fx / aortic         | Motor, pain, temp       | Proprio, vibration     |
+| **Central**       | Hyperextension (elderly)  | Arms >> legs            | Sacral sensation       |
+| **Brown-Sequard** | Hemisection (penetrating) | Ipsi motor; contra pain | Opposite modalities    |
+| **Cauda equina**  | L1-L2 compression         | Saddle, bowel/bladder   | **Surgical emergency** |
 
 **[KEY STAT: Central cord = most common incomplete SCI]**
 
 > **Bottom Line:** Arms worse than legs in elderly -- answer is central cord, not anterior
 
-
 **Sources:**
+
 - [13] [Hoffman 2000](https://pubmed.ncbi.nlm.nih.gov/10891516/)
 - [14] [Stiell 2001](https://pubmed.ncbi.nlm.nih.gov/11597285/)
 
@@ -521,19 +523,19 @@ Cauda equina syndrome involves compression of the nerve roots below the conus me
 
 **Gamma instruction: Table dominates 70%, specificity difference highlighted accent, title = assertion, Bottom Line box**
 
-| Feature | NEXUS | CCR |
-|---------|-------|-----|
-| **Sensitivity** | 99.6% | 99.4-100% |
-| **Specificity** | 12.9% | **45.1%** |
-| **Criteria** | 5 low-risk | 3-step algorithm |
-| **Obtunded** | CT alone (NPV >99%) | CT alone (NPV >99%) |
+| Feature         | NEXUS               | CCR                 |
+| --------------- | ------------------- | ------------------- |
+| **Sensitivity** | 99.6%               | 99.4-100%           |
+| **Specificity** | 12.9%               | **45.1%**           |
+| **Criteria**    | 5 low-risk          | 3-step algorithm    |
+| **Obtunded**    | CT alone (NPV >99%) | CT alone (NPV >99%) |
 
 **[KEY STAT: CCR 3.5x more specific — fewer unnecessary CTs]**
 
 > **Bottom Line:** Alert stable trauma -- answer is apply CCR, not automatic CT
 
-
 **Sources:**
+
 - [13] [Hoffman 2000](https://pubmed.ncbi.nlm.nih.gov/10891516/)
 - [14] [Stiell 2001](https://pubmed.ncbi.nlm.nih.gov/11597285/)
 - [15] [Ryken 2013](https://pubmed.ncbi.nlm.nih.gov/23417179/)
@@ -568,8 +570,8 @@ The shelf question pattern is typically: alert, stable trauma patient with neck 
 
 > **Bottom Line:** Hypotension + bradycardia + warm -- answer is neurogenic, not hypovolemic
 
-
 **Sources:**
+
 - [13] [Hoffman 2000](https://pubmed.ncbi.nlm.nih.gov/10891516/)
 - [14] [Stiell 2001](https://pubmed.ncbi.nlm.nih.gov/11597285/)
 
@@ -625,8 +627,8 @@ This question presents the classic neurogenic shock triad: hypotension, bradycar
 
 > **Bottom Line:** Spinal injury + bradycardia + hypotension = neurogenic shock; give norepinephrine
 
-
 **Sources:**
+
 - [13] [Hoffman 2000](https://pubmed.ncbi.nlm.nih.gov/10891516/)
 - [14] [Stiell 2001](https://pubmed.ncbi.nlm.nih.gov/11597285/)
 
@@ -656,20 +658,20 @@ Norepinephrine is first-line because it provides both alpha-1 vasoconstriction (
 
 ![Burn depth classification diagram](images/10_burn_degree_diagram.svg)
 
-| Depth | Appearance | Sensation | Healing |
-|-------|------------|-----------|---------|
-| **Superficial** | Red, dry | Painful | 3-5 days |
-| **Partial** | Pink, blisters | Very painful | 2-3 wk |
-| **Deep partial** | Mottled | Reduced | 3-8 wk, scars |
-| **Full thickness** | **Leathery** | **PAINLESS** | **Graft required** |
-| **Subdermal** | Charred | Painless | Excision |
+| Depth              | Appearance     | Sensation    | Healing            |
+| ------------------ | -------------- | ------------ | ------------------ |
+| **Superficial**    | Red, dry       | Painful      | 3-5 days           |
+| **Partial**        | Pink, blisters | Very painful | 2-3 wk             |
+| **Deep partial**   | Mottled        | Reduced      | 3-8 wk, scars      |
+| **Full thickness** | **Leathery**   | **PAINLESS** | **Graft required** |
+| **Subdermal**      | Charred        | Painless     | Excision           |
 
 **[KEY STAT: Painless burn = full thickness (nerves destroyed)]**
 
 > **Bottom Line:** Painless leathery wound -- answer is full thickness, not deep partial
 
-
 **Sources:**
+
 - [16] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29489101/)
 - [17] [Jeschke 2020](https://pubmed.ncbi.nlm.nih.gov/32054846/)
 
@@ -701,12 +703,12 @@ The shelf question is typically: "a patient has a leathery, painless burn." The 
 
 ![Rule of Nines body diagram](images/11_rule_of_nines.svg)
 
-| Region | Adult | Pediatric |
-|--------|-------|-----------|
-| **Head** | 9% | **18%** |
-| **Each arm** | 9% | 9% |
+| Region               | Adult     | Pediatric |
+| -------------------- | --------- | --------- |
+| **Head**             | 9%        | **18%**   |
+| **Each arm**         | 9%        | 9%        |
 | **Trunk (ant/post)** | 18% / 18% | 18% / 18% |
-| **Each leg** | 18% | **14%** |
+| **Each leg**         | 18%       | **14%**   |
 
 - **Parkland:** 4 × kg × %TBSA; half in first 8h FROM BURN TIME
 
@@ -714,8 +716,8 @@ The shelf question is typically: "a patient has a leathery, painless burn." The 
 
 > **Bottom Line:** Calculate from 1400 burn time, not 1600 arrival
 
-
 **Sources:**
+
 - [16] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29489101/)
 - [17] [Jeschke 2020](https://pubmed.ncbi.nlm.nih.gov/32054846/)
 - [18] [Saffle 2007](https://pubmed.ncbi.nlm.nih.gov/17438489/)
@@ -752,8 +754,8 @@ Remember: superficial (first-degree) burns are NOT included in TBSA calculations
 
 > **Bottom Line:** Enclosed fire + carbonaceous sputum -- answer is intubate, not observe
 
-
 **Sources:**
+
 - [16] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29489101/)
 - [17] [Jeschke 2020](https://pubmed.ncbi.nlm.nih.gov/32054846/)
 
@@ -785,8 +787,8 @@ Cyanide poisoning should be suspected in fire victims with refractory lactic aci
 
 > **Bottom Line:** Circumferential burn + absent pulses -- answer is escharotomy, not fasciotomy
 
-
 **Sources:**
+
 - [16] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29489101/)
 - [17] [Jeschke 2020](https://pubmed.ncbi.nlm.nih.gov/32054846/)
 
@@ -848,8 +850,8 @@ Step 3: The first 8h window is 1400-2200. Patient arrives at 1600. How many hour
 
 > **Bottom Line:** Parkland: 4 x kg x %TBSA; half in first 8h from BURN time
 
-
 **Sources:**
+
 - [16] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29489101/)
 - [17] [Jeschke 2020](https://pubmed.ncbi.nlm.nih.gov/32054846/)
 - [18] [Saffle 2007](https://pubmed.ncbi.nlm.nih.gov/17438489/)
@@ -891,20 +893,20 @@ The teaching point remains: always calculate from burn time, not arrival time. T
 ![Hemothorax on CXR](images/05_hemothorax_cxr_plain.jpeg)
 ![Tension pneumothorax annotated](images/04_tension_ptx_annotated.jpeg)
 
-| Condition | Threshold | Action |
-|-----------|----------|--------|
-| **Simple** | <1500 mL | Chest tube |
-| **Massive** | **≥1500 mL or >200 mL/hr** | **Thoracotomy** |
-| **Retained** | Persistent post-tube | VATS 72h |
-| **Flail** | ≥3 ribs, ≥2 places | Epidural + PPV |
-| **Tension PTX** | Clinical diagnosis | **Needle decompress** |
+| Condition       | Threshold                  | Action                |
+| --------------- | -------------------------- | --------------------- |
+| **Simple**      | <1500 mL                   | Chest tube            |
+| **Massive**     | **≥1500 mL or >200 mL/hr** | **Thoracotomy**       |
+| **Retained**    | Persistent post-tube       | VATS 72h              |
+| **Flail**       | ≥3 ribs, ≥2 places         | Epidural + PPV        |
+| **Tension PTX** | Clinical diagnosis         | **Needle decompress** |
 
 **[KEY STAT: Tension PTX = clinical dx — never wait for CXR]**
 
 > **Bottom Line:** Chest tube drains 1800 mL -- answer is thoracotomy, not observe
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [19] StatPearls 2024
 - [20] [Mowery 2011](https://pubmed.ncbi.nlm.nih.gov/21307756/)
@@ -941,8 +943,8 @@ Open pneumothorax (sucking chest wound) is treated with a three-sided occlusive 
 
 > **Bottom Line:** High-speed MVC + wide mediastinum -- answer is CTA, not repeat CXR
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [19] StatPearls 2024
 
@@ -970,12 +972,12 @@ Treatment is endovascular repair (TEVAR) in most cases, which has replaced open 
 
 ![Cardiac tamponade on echo](images/08_echo_tamponade.gif)
 
-| | **Tamponade** | **Tension PTX** |
-|---|-------------|--------------|
-| **JVD** | Yes | Yes |
-| **Breath sounds** | **Bilateral** | **Absent unilateral** |
-| **Trachea** | Midline | Deviated |
-| **Rx** | Pericardiocentesis | Needle decompress |
+|                   | **Tamponade**      | **Tension PTX**       |
+| ----------------- | ------------------ | --------------------- |
+| **JVD**           | Yes                | Yes                   |
+| **Breath sounds** | **Bilateral**      | **Absent unilateral** |
+| **Trachea**       | Midline            | Deviated              |
+| **Rx**            | Pericardiocentesis | Needle decompress     |
 
 - **EDT:** penetrating cardiac ~15%; blunt ~1.5%
 
@@ -983,8 +985,8 @@ Treatment is endovascular repair (TEVAR) in most cases, which has replaced open 
 
 > **Bottom Line:** JVD + hypotension + bilateral BS -- answer is tamponade; absent unilateral BS -- answer is PTX
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [19] StatPearls 2024
 - [20] [Mowery 2011](https://pubmed.ncbi.nlm.nih.gov/21307756/)
@@ -1043,8 +1045,8 @@ Remember: tamponade has bilateral breath sounds and midline trachea. Tension PTX
 
 > **Bottom Line:** Absent unilateral BS + tracheal deviation = tension PTX; needle decompress NOW
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [19] StatPearls 2024
 
@@ -1074,12 +1076,12 @@ Note that the stab wound mechanism is a deliberate distractor designed to make y
 
 ![FAST exam Morison's pouch positive](images/07_fast_morrisons_labeled.png)
 
-| Scenario | Action |
-|----------|--------|
+| Scenario           | Action         |
+| ------------------ | -------------- |
 | **FAST+ unstable** | **Laparotomy** |
-| FAST+ stable | CT |
-| FAST- unstable | Repeat / DPL |
-| FAST- stable | Observe |
+| FAST+ stable       | CT             |
+| FAST- unstable     | Repeat / DPL   |
+| FAST- stable       | Observe        |
 
 - **Spleen NOM:** 85% (grade I-III); vaccinate post-splenectomy
 - **Liver NOM:** 92% (grade I-III)
@@ -1088,8 +1090,8 @@ Note that the stab wound mechanism is a deliberate distractor designed to make y
 
 > **Bottom Line:** Positive FAST + hypotension -- answer is laparotomy, not CT
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [21] StatPearls 2024
 - [22] [Como 2010](https://pubmed.ncbi.nlm.nih.gov/20220426/)
@@ -1126,8 +1128,8 @@ The seatbelt sign (ecchymosis across the abdomen in the pattern of a seatbelt) s
 
 > **Bottom Line:** GSW abdomen -- answer is laparotomy, not CT
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [21] StatPearls 2024
 
@@ -1153,25 +1155,25 @@ Do not forget: anterior abdominal wall stab wounds that are clearly superficial 
 
 **Gamma instruction: Table dominates 70%, hard signs row highlighted red, title = assertion, Bottom Line box**
 
-| Neck Zone | Anatomy | Management |
-|-----------|---------|------------|
-| **I** | Clavicles → cricoid | CTA |
-| **II** | Cricoid → mandible | Selective CTA |
-| **III** | Above mandible | Angiography/IR |
-| **Hard signs** | Any zone | **Immediate OR** |
+| Neck Zone      | Anatomy             | Management       |
+| -------------- | ------------------- | ---------------- |
+| **I**          | Clavicles → cricoid | CTA              |
+| **II**         | Cricoid → mandible  | Selective CTA    |
+| **III**        | Above mandible      | Angiography/IR   |
+| **Hard signs** | Any zone            | **Immediate OR** |
 
-| Retro Zone | Blunt | Penetrating |
-|-----------|-------|-------------|
-| **1 (central)** | Explore | Explore |
-| **2 (lateral)** | Observe | Explore |
-| **3 (pelvic)** | **NEVER explore** | Explore |
+| Retro Zone      | Blunt             | Penetrating |
+| --------------- | ----------------- | ----------- |
+| **1 (central)** | Explore           | Explore     |
+| **2 (lateral)** | Observe           | Explore     |
+| **3 (pelvic)**  | **NEVER explore** | Explore     |
 
 **[KEY STAT: Zone 3 blunt = never open (releases tamponade)]**
 
 > **Bottom Line:** Hard signs any zone -- answer is OR; Zone 3 hematoma -- leave it alone
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [21] StatPearls 2024
 - [22] [Como 2010](https://pubmed.ncbi.nlm.nih.gov/20220426/)
@@ -1228,8 +1230,8 @@ Do not be distracted by the mechanism or think about pelvic injury first. The FA
 
 > **Bottom Line:** FAST positive + unstable = laparotomy; never CT an unstable patient
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [21] StatPearls 2024
 - [22] [Como 2010](https://pubmed.ncbi.nlm.nih.gov/20220426/)
@@ -1258,11 +1260,11 @@ This is perhaps the most important single algorithm on the trauma shelf. If you 
 
 ![Pelvic fracture annotated](images/09_pelvic_annotated.jpeg)
 
-| Type | Mechanism | Mortality |
-|------|-----------|-----------|
-| **APC** | Head-on MVC | Moderate |
-| **LC** | Side-impact | **Lowest** (most common) |
-| **VS** | Fall from height | **Highest** |
+| Type    | Mechanism        | Mortality                |
+| ------- | ---------------- | ------------------------ |
+| **APC** | Head-on MVC      | Moderate                 |
+| **LC**  | Side-impact      | **Lowest** (most common) |
+| **VS**  | Fall from height | **Highest**              |
 
 - **Binder** at trochanters → then FAST
 - **FAST+ = laparotomy** (not pelvic packing first)
@@ -1272,8 +1274,8 @@ This is perhaps the most important single algorithm on the trauma shelf. If you 
 
 > **Bottom Line:** Unstable pelvis + positive FAST -- answer is laparotomy, not angio
 
-
 **Sources:**
+
 - [23] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30855803/)
 - [24] Tile 2003
 
@@ -1308,8 +1310,8 @@ Blood at the urethral meatus suggests urethral injury. Perform a retrograde uret
 
 > **Bottom Line:** Pain with passive stretch -- answer is fasciotomy, not pain meds
 
-
 **Sources:**
+
 - [25] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29261869/)
 - [26] [Schmidt 2016](https://pubmed.ncbi.nlm.nih.gov/27241376/)
 
@@ -1337,12 +1339,12 @@ The time window is approximately 6 hours from onset of ischemia. After 6 hours, 
 
 **Gamma instruction: Table dominates 70%, IIIC row highlighted red, title = assertion, Bottom Line box**
 
-| Gustilo | Wound | Antibiotics |
-|---------|-------|-------------|
-| **I** | <1 cm | Cefazolin |
-| **II** | 1-10 cm | Cefazolin |
-| **IIIA** | >10 cm, covered | + aminoglycoside |
-| **IIIB** | >10 cm, uncovered | + flap |
+| Gustilo  | Wound               | Antibiotics           |
+| -------- | ------------------- | --------------------- |
+| **I**    | <1 cm               | Cefazolin             |
+| **II**   | 1-10 cm             | Cefazolin             |
+| **IIIA** | >10 cm, covered     | + aminoglycoside      |
+| **IIIB** | >10 cm, uncovered   | + flap                |
 | **IIIC** | **Vascular injury** | **+ vascular repair** |
 
 - **Fat embolism:** 24-72h; dyspnea + confusion + petechiae
@@ -1351,8 +1353,8 @@ The time window is approximately 6 hours from onset of ischemia. After 6 hours, 
 
 > **Bottom Line:** Open fracture + absent pulses -- answer is IIIC, needs vascular repair
 
-
 **Sources:**
+
 - [25] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29261869/)
 - [26] [Schmidt 2016](https://pubmed.ncbi.nlm.nih.gov/27241376/)
 - [27] [Gustilo 1984](https://pubmed.ncbi.nlm.nih.gov/6471139/)
@@ -1411,8 +1413,8 @@ Consider the principle: life before limb. Which intervention addresses the more 
 
 > **Bottom Line:** Life before limb -- FAST+ unstable = laparotomy before fasciotomy
 
-
 **Sources:**
+
 - [3] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/30480800/)
 - [21] StatPearls 2024
 - [25] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29261869/)
@@ -1450,8 +1452,8 @@ The teaching pearl: when multiple injuries compete for attention, address life t
 
 > **Bottom Line:** Temp 34, pH 7.18, INR 2.1 -- answer is damage control, not definitive repair
 
-
 **Sources:**
+
 - [4] [StatPearls 2024](https://pubmed.ncbi.nlm.nih.gov/29262047/)
 - [5] [Holcomb 2015](https://pubmed.ncbi.nlm.nih.gov/25647203/)
 - [28] [Rotondo 1993](https://pubmed.ncbi.nlm.nih.gov/8371295/)
@@ -1478,19 +1480,19 @@ The indications for damage control include the lethal triad (hypothermia below 3
 
 **Gamma instruction: Table dominates 70%, NAT row highlighted red, title = assertion, Bottom Line box**
 
-| Feature | Pediatric | Geriatric | Pregnancy |
-|---------|-----------|-----------|-----------|
-| **#1 mechanism** | MVC | Falls | MVC |
-| **Key pearl** | Rib fx = abuse | Beta-blockers mask tachy | Left lateral >20 wk |
-| **Pathognomonic** | Retinal hemorrhages = NAT | Chronic subdural | KB test |
-| **Resuscitation** | 20 mL/kg boluses | Lower threshold | Treat mother = treat fetus |
+| Feature           | Pediatric                 | Geriatric                | Pregnancy                  |
+| ----------------- | ------------------------- | ------------------------ | -------------------------- |
+| **#1 mechanism**  | MVC                       | Falls                    | MVC                        |
+| **Key pearl**     | Rib fx = abuse            | Beta-blockers mask tachy | Left lateral >20 wk        |
+| **Pathognomonic** | Retinal hemorrhages = NAT | Chronic subdural         | KB test                    |
+| **Resuscitation** | 20 mL/kg boluses          | Lower threshold          | Treat mother = treat fetus |
 
 **[KEY STAT: Pediatric rib fx = high force = suspect abuse]**
 
 > **Bottom Line:** Infant + subdurals + retinal hemorrhages -- answer is NAT, not accidental fall
 
-
 **Sources:**
+
 - [29] [Maguire 2013](https://pubmed.ncbi.nlm.nih.gov/23079747/)
 - [30] [Kemp 2008](https://pubmed.ncbi.nlm.nih.gov/18832412/)
 - [31] [Petrone 2019](https://pubmed.ncbi.nlm.nih.gov/30361735/)
@@ -1549,8 +1551,8 @@ Consider: can an 8-month-old rolling off a couch produce bilateral subdurals? Re
 
 > **Bottom Line:** Inconsistent history + subdurals + retinal hemorrhages = non-accidental trauma
 
-
 **Sources:**
+
 - [29] [Maguire 2013](https://pubmed.ncbi.nlm.nih.gov/23079747/)
 - [30] [Kemp 2008](https://pubmed.ncbi.nlm.nih.gov/18832412/)
 
@@ -1625,37 +1627,37 @@ Apply these ten rules and you will answer 90% of trauma shelf questions correctl
 
 **Gamma instruction: 2-column small text 12pt, no images, dense but clean, dark bg**
 
-1. American College of Surgeons. *Advanced Trauma Life Support (ATLS) Student Course Manual.* 10th ed. Chicago: ACS; 2018.
-2. Mott TF, Gallagher JA, Bontempo LJ. Predicting Surgery Shelf Exam Performance: A Retrospective Analysis of Shelf Quiz Scores. *J Surg Educ.* 2020;77(5):1127-1133. PMID: [32389529](https://pubmed.ncbi.nlm.nih.gov/32389529/) (PMC7391907).
-3. StatPearls. Trauma Primary Survey. *StatPearls Publishing.* 2024. PMID: [30480800](https://pubmed.ncbi.nlm.nih.gov/30480800/) (NBK430800).
-4. StatPearls. Hemorrhagic Shock. *StatPearls Publishing.* 2024. PMID: [29262047](https://pubmed.ncbi.nlm.nih.gov/29262047/) (NBK470382).
-5. Holcomb JB, Tilley BC, Baraniuk S, et al. Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio and mortality in patients with severe trauma: the PROPPR randomized clinical trial. *JAMA.* 2015;313(5):471-482. PMID: [25647203](https://pubmed.ncbi.nlm.nih.gov/25647203/).
-6. Mutschler M, Nienaber U, Munzberg M, et al. The Shock Index revisited -- a fast guide to transfusion requirement? A retrospective analysis on 21,853 patients. *Crit Care.* 2013;17(4):R172. PMID: [23938104](https://pubmed.ncbi.nlm.nih.gov/23938104/).
-7. CRASH-2 Trial Collaborators. Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial. *Lancet.* 2010;376(9734):23-32. PMID: [20554319](https://pubmed.ncbi.nlm.nih.gov/20554319/).
-8. CRASH-2 Collaborators. The importance of early treatment with tranexamic acid in bleeding trauma patients: an exploratory analysis of the CRASH-2 randomised controlled trial. *Lancet.* 2011;377(9771):1096-1101. PMID: [21439633](https://pubmed.ncbi.nlm.nih.gov/21439633/).
-9. Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute epidural hematomas. *Neurosurgery.* 2006;58(3 Suppl):S7-S15. PMID: [16710967](https://pubmed.ncbi.nlm.nih.gov/16710967/).
-10. Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute subdural hematomas. *Neurosurgery.* 2006;58(3 Suppl):S16-S24. PMID: [16710968](https://pubmed.ncbi.nlm.nih.gov/16710968/).
-11. Carney N, Totten AM, O'Reilly C, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. *Neurosurgery.* 2017;80(1):6-15. PMID: [27654000](https://pubmed.ncbi.nlm.nih.gov/27654000/).
+1. American College of Surgeons. _Advanced Trauma Life Support (ATLS) Student Course Manual._ 10th ed. Chicago: ACS; 2018.
+2. Mott TF, Gallagher JA, Bontempo LJ. Predicting Surgery Shelf Exam Performance: A Retrospective Analysis of Shelf Quiz Scores. _J Surg Educ._ 2020;77(5):1127-1133. PMID: [32389529](https://pubmed.ncbi.nlm.nih.gov/32389529/) (PMC7391907).
+3. StatPearls. Trauma Primary Survey. _StatPearls Publishing._ 2024. PMID: [30480800](https://pubmed.ncbi.nlm.nih.gov/30480800/) (NBK430800).
+4. StatPearls. Hemorrhagic Shock. _StatPearls Publishing._ 2024. PMID: [29262047](https://pubmed.ncbi.nlm.nih.gov/29262047/) (NBK470382).
+5. Holcomb JB, Tilley BC, Baraniuk S, et al. Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio and mortality in patients with severe trauma: the PROPPR randomized clinical trial. _JAMA._ 2015;313(5):471-482. PMID: [25647203](https://pubmed.ncbi.nlm.nih.gov/25647203/).
+6. Mutschler M, Nienaber U, Munzberg M, et al. The Shock Index revisited -- a fast guide to transfusion requirement? A retrospective analysis on 21,853 patients. _Crit Care._ 2013;17(4):R172. PMID: [23938104](https://pubmed.ncbi.nlm.nih.gov/23938104/).
+7. CRASH-2 Trial Collaborators. Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial. _Lancet._ 2010;376(9734):23-32. PMID: [20554319](https://pubmed.ncbi.nlm.nih.gov/20554319/).
+8. CRASH-2 Collaborators. The importance of early treatment with tranexamic acid in bleeding trauma patients: an exploratory analysis of the CRASH-2 randomised controlled trial. _Lancet._ 2011;377(9771):1096-1101. PMID: [21439633](https://pubmed.ncbi.nlm.nih.gov/21439633/).
+9. Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute epidural hematomas. _Neurosurgery._ 2006;58(3 Suppl):S7-S15. PMID: [16710967](https://pubmed.ncbi.nlm.nih.gov/16710967/).
+10. Bullock MR, Chesnut R, Ghajar J, et al. Surgical management of acute subdural hematomas. _Neurosurgery._ 2006;58(3 Suppl):S16-S24. PMID: [16710968](https://pubmed.ncbi.nlm.nih.gov/16710968/).
+11. Carney N, Totten AM, O'Reilly C, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. _Neurosurgery._ 2017;80(1):6-15. PMID: [27654000](https://pubmed.ncbi.nlm.nih.gov/27654000/).
 12. Brain Trauma Foundation. Guidelines for the Management of Severe TBI. 4th ed. 2016. Available at: braintrauma.org.
-13. Hoffman JR, Mower WR, Wolfson AB, et al. Validity of a set of clinical criteria to rule out injury to the cervical spine (NEXUS). *N Engl J Med.* 2000;343(2):94-99. PMID: [10891516](https://pubmed.ncbi.nlm.nih.gov/10891516/).
-14. Stiell IG, Wells GA, Vandemheen KL, et al. The Canadian C-Spine Rule for Radiography in Alert and Stable Trauma Patients. *JAMA.* 2001;286(15):1841-1848. PMID: [11597285](https://pubmed.ncbi.nlm.nih.gov/11597285/).
-15. Ryken TC, Hadley MN, Walters BC, et al. Radiographic assessment of the cervical spine in symptomatic trauma patients. *Neurosurgery.* 2013;72 Suppl 2:54-72. PMID: [23417179](https://pubmed.ncbi.nlm.nih.gov/23417179/).
-16. StatPearls. Burn Management. *StatPearls Publishing.* 2024. PMID: [29489101](https://pubmed.ncbi.nlm.nih.gov/29489101/) (NBK430741).
-17. Jeschke MG, van Baar ME, Choudhry MA, et al. Burn injury. *Nat Rev Dis Primers.* 2020;6(1):11. PMID: [32054846](https://pubmed.ncbi.nlm.nih.gov/32054846/).
-18. Saffle JR. The phenomenon of "fluid creep" in acute burn resuscitation. *J Burn Care Res.* 2007;28(3):382-395. PMID: [17438489](https://pubmed.ncbi.nlm.nih.gov/17438489/).
-19. StatPearls. Pneumothorax, Tension and Traumatic. *StatPearls Publishing.* 2024.
-20. Mowery NT, Gunter OL, Collier BR, et al. Practice management guidelines for management of hemothorax and occult pneumothorax. *J Trauma.* 2011;70(2):510-518. PMID: [21307756](https://pubmed.ncbi.nlm.nih.gov/21307756/).
-21. StatPearls. Abdominal Trauma, Blunt. *StatPearls Publishing.* 2024.
-22. Como JJ, Bokhari F, Chiu WC, et al. Practice management guidelines for selective nonoperative management of penetrating abdominal trauma. *J Trauma.* 2010;68(3):721-733. PMID: [20220426](https://pubmed.ncbi.nlm.nih.gov/20220426/).
-23. StatPearls. Pelvic Trauma. *StatPearls Publishing.* 2024. PMID: [30855803](https://pubmed.ncbi.nlm.nih.gov/30855803/) (NBK556070).
-24. Tile M, Helfet DL, Kellam JF. *Fractures of the Pelvis and Acetabulum.* 3rd ed. Philadelphia: Lippincott Williams & Wilkins; 2003.
-25. StatPearls. Compartment Syndrome. *StatPearls Publishing.* 2024. PMID: [29261869](https://pubmed.ncbi.nlm.nih.gov/29261869/) (NBK430773).
-26. Schmidt AH. Acute Compartment Syndrome. *Orthop Clin North Am.* 2016;47(3):517-525. PMID: [27241376](https://pubmed.ncbi.nlm.nih.gov/27241376/).
-27. Gustilo RB, Mendoza RM, Williams DN. Problems in the management of type III (severe) open fractures: a new classification of type III open fractures. *J Trauma.* 1984;24(8):742-746. PMID: [6471139](https://pubmed.ncbi.nlm.nih.gov/6471139/).
-28. Rotondo MF, Schwab CW, McGonigal MD, et al. 'Damage control': an approach for improved survival in exsanguinating penetrating abdominal injury. *J Trauma.* 1993;35(3):375-383. PMID: [8371295](https://pubmed.ncbi.nlm.nih.gov/8371295/).
-29. Maguire SA, Watts PO, Shaw AD, et al. Retinal haemorrhages and related findings in abusive and non-abusive head trauma: a systematic review. *Eye.* 2013;27(1):28-36. PMID: [23079747](https://pubmed.ncbi.nlm.nih.gov/23079747/).
-30. Kemp AM, Dunstan F, Harrison S, et al. Patterns of skeletal fractures in child abuse: systematic review. *BMJ.* 2008;337:a1518. PMID: [18832412](https://pubmed.ncbi.nlm.nih.gov/18832412/).
-31. Petrone P, Jimenez-Morillas P, Axelrad A, Marini CP. Traumatic injuries to the pregnant patient: a critical literature review. *Eur J Trauma Emerg Surg.* 2019;45(3):383-392. PMID: [30361735](https://pubmed.ncbi.nlm.nih.gov/30361735/).
+13. Hoffman JR, Mower WR, Wolfson AB, et al. Validity of a set of clinical criteria to rule out injury to the cervical spine (NEXUS). _N Engl J Med._ 2000;343(2):94-99. PMID: [10891516](https://pubmed.ncbi.nlm.nih.gov/10891516/).
+14. Stiell IG, Wells GA, Vandemheen KL, et al. The Canadian C-Spine Rule for Radiography in Alert and Stable Trauma Patients. _JAMA._ 2001;286(15):1841-1848. PMID: [11597285](https://pubmed.ncbi.nlm.nih.gov/11597285/).
+15. Ryken TC, Hadley MN, Walters BC, et al. Radiographic assessment of the cervical spine in symptomatic trauma patients. _Neurosurgery._ 2013;72 Suppl 2:54-72. PMID: [23417179](https://pubmed.ncbi.nlm.nih.gov/23417179/).
+16. StatPearls. Burn Management. _StatPearls Publishing._ 2024. PMID: [29489101](https://pubmed.ncbi.nlm.nih.gov/29489101/) (NBK430741).
+17. Jeschke MG, van Baar ME, Choudhry MA, et al. Burn injury. _Nat Rev Dis Primers._ 2020;6(1):11. PMID: [32054846](https://pubmed.ncbi.nlm.nih.gov/32054846/).
+18. Saffle JR. The phenomenon of "fluid creep" in acute burn resuscitation. _J Burn Care Res._ 2007;28(3):382-395. PMID: [17438489](https://pubmed.ncbi.nlm.nih.gov/17438489/).
+19. StatPearls. Pneumothorax, Tension and Traumatic. _StatPearls Publishing._ 2024.
+20. Mowery NT, Gunter OL, Collier BR, et al. Practice management guidelines for management of hemothorax and occult pneumothorax. _J Trauma._ 2011;70(2):510-518. PMID: [21307756](https://pubmed.ncbi.nlm.nih.gov/21307756/).
+21. StatPearls. Abdominal Trauma, Blunt. _StatPearls Publishing._ 2024.
+22. Como JJ, Bokhari F, Chiu WC, et al. Practice management guidelines for selective nonoperative management of penetrating abdominal trauma. _J Trauma._ 2010;68(3):721-733. PMID: [20220426](https://pubmed.ncbi.nlm.nih.gov/20220426/).
+23. StatPearls. Pelvic Trauma. _StatPearls Publishing._ 2024. PMID: [30855803](https://pubmed.ncbi.nlm.nih.gov/30855803/) (NBK556070).
+24. Tile M, Helfet DL, Kellam JF. _Fractures of the Pelvis and Acetabulum._ 3rd ed. Philadelphia: Lippincott Williams & Wilkins; 2003.
+25. StatPearls. Compartment Syndrome. _StatPearls Publishing._ 2024. PMID: [29261869](https://pubmed.ncbi.nlm.nih.gov/29261869/) (NBK430773).
+26. Schmidt AH. Acute Compartment Syndrome. _Orthop Clin North Am._ 2016;47(3):517-525. PMID: [27241376](https://pubmed.ncbi.nlm.nih.gov/27241376/).
+27. Gustilo RB, Mendoza RM, Williams DN. Problems in the management of type III (severe) open fractures: a new classification of type III open fractures. _J Trauma._ 1984;24(8):742-746. PMID: [6471139](https://pubmed.ncbi.nlm.nih.gov/6471139/).
+28. Rotondo MF, Schwab CW, McGonigal MD, et al. 'Damage control': an approach for improved survival in exsanguinating penetrating abdominal injury. _J Trauma._ 1993;35(3):375-383. PMID: [8371295](https://pubmed.ncbi.nlm.nih.gov/8371295/).
+29. Maguire SA, Watts PO, Shaw AD, et al. Retinal haemorrhages and related findings in abusive and non-abusive head trauma: a systematic review. _Eye._ 2013;27(1):28-36. PMID: [23079747](https://pubmed.ncbi.nlm.nih.gov/23079747/).
+30. Kemp AM, Dunstan F, Harrison S, et al. Patterns of skeletal fractures in child abuse: systematic review. _BMJ._ 2008;337:a1518. PMID: [18832412](https://pubmed.ncbi.nlm.nih.gov/18832412/).
+31. Petrone P, Jimenez-Morillas P, Axelrad A, Marini CP. Traumatic injuries to the pregnant patient: a critical literature review. _Eur J Trauma Emerg Surg._ 2019;45(3):383-392. PMID: [30361735](https://pubmed.ncbi.nlm.nih.gov/30361735/).
 
 ---
 

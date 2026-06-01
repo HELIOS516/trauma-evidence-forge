@@ -320,15 +320,15 @@ Now we move to C for Circulation. The first task is to identify where the patien
 
 ## Class III and IV Hemorrhagic Shock Demand Immediate Blood Product Resuscitation
 
-| Parameter | Class I | Class II | Class III | Class IV |
-|-----------|---------|----------|-----------|----------|
-| **Blood loss** | <750 mL (<15%) | 750-1,500 mL (15-30%) | 1,500-2,000 mL (30-40%) | >2,000 mL (>40%) |
-| **Heart rate** | <100 | 100-120 | **120-140** | **>140** |
-| **Blood pressure** | Normal | Normal | **Decreased** | **Markedly decreased** |
-| **Respiratory rate** | 14-20 | 20-30 | 30-40 | >35 |
-| **Urine output** | >30 mL/h | 20-30 mL/h | 5-15 mL/h | Negligible |
-| **GCS** | 15 | 14-15 | 12-14 | <12 |
-| **Treatment** | Monitor | Possible transfusion | **Blood products** | **MTP activate; emergent OR** |
+| Parameter            | Class I        | Class II              | Class III               | Class IV                      |
+| -------------------- | -------------- | --------------------- | ----------------------- | ----------------------------- |
+| **Blood loss**       | <750 mL (<15%) | 750-1,500 mL (15-30%) | 1,500-2,000 mL (30-40%) | >2,000 mL (>40%)              |
+| **Heart rate**       | <100           | 100-120               | **120-140**             | **>140**                      |
+| **Blood pressure**   | Normal         | Normal                | **Decreased**           | **Markedly decreased**        |
+| **Respiratory rate** | 14-20          | 20-30                 | 30-40                   | >35                           |
+| **Urine output**     | >30 mL/h       | 20-30 mL/h            | 5-15 mL/h               | Negligible                    |
+| **GCS**              | 15             | 14-15                 | 12-14                   | <12                           |
+| **Treatment**        | Monitor        | Possible transfusion  | **Blood products**      | **MTP activate; emergent OR** |
 
 > **Bottom Line:** Our patient (HR 130, BP 80/50, GCS 8) fits Class III-IV -- activate MTP now.
 
@@ -397,7 +397,7 @@ Once MTP is activated, what do you give? The landmark trial is PROPPR, which sta
 - TXA = tranexamic acid (antifibrinolytic drug)
 - CRASH-2 (2010): n=20,211, largest trauma RCT ever conducted
 - <1 hour: 32% reduction in hemorrhagic death (RR 0.68)
-- >3 hours: 44% INCREASE in death (RR 1.44, 95% CI 1.12-1.84)
+- > 3 hours: 44% INCREASE in death (RR 1.44, 95% CI 1.12-1.84)
 - Dose: 1g IV bolus over 10 min, then 1g IV over 8 hours
 - **[KEY STAT: TXA >3h post-injury INCREASES mortality (RR 1.44)]**
 
@@ -676,7 +676,6 @@ University of Virginia
 <!-- Speaker Notes:
 Thank you for your attention. I hope this lecture gave you a framework that makes the trauma bay feel organized rather than chaotic. The xABCDE sequence is your roadmap. When you are standing in the trauma bay for the first time and it feels overwhelming, remember: X, A, B, C, D, E. Treat first what kills first. Everything flows from that principle. I encourage you to review the shock classification table before your next shift. Calculate the Shock Index on every trauma patient you see. And when that trauma pager goes off, go to the trauma bay. Show up, stand at the foot of the bed, and watch. You will learn more from one trauma activation than from an hour of reading. I am available by email or in the trauma bay if you have questions during your rotation. Good luck on your clerkship.
 -->
-
 
 <!-- GAMMA SUBMISSION PARAMETERS (not a slide -- metadata only)
 {

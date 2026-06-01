@@ -1,11 +1,9 @@
 ---
-
 ## xABCDE: Hemorrhage Kills First, So Treat It First
 
 Evan DeCan, MD
 Division of Acute Care Surgery | University of Virginia
 March 2026
-
 ---
 
 ## Learning Objectives
@@ -32,8 +30,8 @@ March 2026
 
 > **Shelf exam tip:** Questions often test whether you know the correct sequence. X before A before B before C.
 
-
 **Sources:**
+
 - [18] American 2025
 
 ---
@@ -62,8 +60,8 @@ March 2026
 
 > **Shelf exam tip:** "Leading cause of preventable trauma death" = hemorrhage. One of the most commonly tested facts.
 
-
 **Sources:**
+
 - [11] [Eastridge 2001](https://pubmed.ncbi.nlm.nih.gov/23192066/)
 - [18] American 2025
 
@@ -79,8 +77,8 @@ March 2026
 
 > **Bottom Line:** In exsanguination, stop the bleeding before managing the airway.
 
-
 **Sources:**
+
 - [5] [Holcomb 2015](https://pubmed.ncbi.nlm.nih.gov/25647203/)
 - [11] [Eastridge 2001](https://pubmed.ncbi.nlm.nih.gov/23192066/)
 - [18] American 2025
@@ -99,8 +97,8 @@ March 2026
 
 > **Shelf exam tip:** RSI drugs = sedative (ketamine or etomidate) + paralytic (succinylcholine or rocuronium). Know them.
 
-
 **Sources:**
+
 - [10] [Hatchimonji 2021](https://pubmed.ncbi.nlm.nih.gov/32382780/)
 - [15] [Mayglothling 2012](https://pubmed.ncbi.nlm.nih.gov/23114490/)
 - [16] [Brown 2020](https://pubmed.ncbi.nlm.nih.gov/33083558/)
@@ -129,8 +127,8 @@ March 2026
 
 > **Bottom Line:** Treat first what kills first -- hemorrhage before airway in the exsanguinating patient.
 
-
 **Sources:**
+
 - [11] [Eastridge 2001](https://pubmed.ncbi.nlm.nih.gov/23192066/)
 - [18] American 2025
 
@@ -148,8 +146,8 @@ March 2026
 
 > **Shelf exam tip:** Tension PTX = clinical diagnosis + immediate needle decompression. One of the most tested emergency procedures.
 
-
 **Sources:**
+
 - [17] [de 2022](https://pubmed.ncbi.nlm.nih.gov/34538823/)
 
 ---
@@ -167,8 +165,8 @@ March 2026
 
 > **Shelf exam tip:** Memorize all five. Beck's triad (hypotension, JVD, muffled heart sounds) = tamponade.
 
-
 **Sources:**
+
 - [17] [de 2022](https://pubmed.ncbi.nlm.nih.gov/34538823/)
 - [18] American 2025
 
@@ -196,8 +194,8 @@ March 2026
 
 > **Bottom Line:** Tension pneumothorax is diagnosed clinically and treated immediately -- never image first.
 
-
 **Sources:**
+
 - [17] [de 2022](https://pubmed.ncbi.nlm.nih.gov/34538823/)
 - [18] American 2025
 
@@ -213,8 +211,8 @@ March 2026
 
 > **Bottom Line:** Identify the bleeding source to direct surgical or interventional control.
 
-
 **Sources:**
+
 - [1] [Netherton 2019](https://pubmed.ncbi.nlm.nih.gov/31317856/)
 - [18] American 2025
 
@@ -222,22 +220,22 @@ March 2026
 
 ## Class III and IV Hemorrhagic Shock Demand Immediate Blood Product Resuscitation
 
-| Parameter | Class I | Class II | Class III | Class IV |
-|-----------|---------|----------|-----------|----------|
-| **Blood loss** | <750 mL (<15%) | 750-1,500 mL (15-30%) | 1,500-2,000 mL (30-40%) | >2,000 mL (>40%) |
-| **Heart rate** | <100 | 100-120 | **120-140** | **>140** |
-| **Blood pressure** | Normal | Normal | **Decreased** | **Markedly decreased** |
-| **Respiratory rate** | 14-20 | 20-30 | 30-40 | >35 |
-| **Urine output** | >30 mL/h | 20-30 mL/h | 5-15 mL/h | Negligible |
-| **GCS** | 15 | 14-15 | 12-14 | <12 |
-| **Treatment** | Monitor | Possible transfusion | **Blood products** | **MTP activate; emergent OR** |
+| Parameter            | Class I        | Class II              | Class III               | Class IV                      |
+| -------------------- | -------------- | --------------------- | ----------------------- | ----------------------------- |
+| **Blood loss**       | <750 mL (<15%) | 750-1,500 mL (15-30%) | 1,500-2,000 mL (30-40%) | >2,000 mL (>40%)              |
+| **Heart rate**       | <100           | 100-120               | **120-140**             | **>140**                      |
+| **Blood pressure**   | Normal         | Normal                | **Decreased**           | **Markedly decreased**        |
+| **Respiratory rate** | 14-20          | 20-30                 | 30-40                   | >35                           |
+| **Urine output**     | >30 mL/h       | 20-30 mL/h            | 5-15 mL/h               | Negligible                    |
+| **GCS**              | 15             | 14-15                 | 12-14                   | <12                           |
+| **Treatment**        | Monitor        | Possible transfusion  | **Blood products**      | **MTP activate; emergent OR** |
 
 > **Bottom Line:** Our patient (HR 130, BP 80/50, GCS 8) fits Class III-IV -- activate MTP now.
 
 > **Shelf exam tip:** This table is one of the most tested on the surgery shelf. Know the class boundaries and treatments cold.
 
-
 **Sources:**
+
 - [18] American 2025
 
 ---
@@ -252,8 +250,8 @@ March 2026
 
 > **Bottom Line:** Activate MTP on clinical criteria -- do not wait for a hemoglobin result.
 
-
 **Sources:**
+
 - [2] [Vang 2022](https://pubmed.ncbi.nlm.nih.gov/35258641/)
 - [5] [Holcomb 2015](https://pubmed.ncbi.nlm.nih.gov/25647203/)
 - [8] [Nunez 2009](https://pubmed.ncbi.nlm.nih.gov/19204506/)
@@ -273,8 +271,8 @@ March 2026
 
 > **Shelf exam tip:** "2 liters normal saline" is almost always wrong in hemorrhagic shock. Choose blood products.
 
-
 **Sources:**
+
 - [5] [Holcomb 2015](https://pubmed.ncbi.nlm.nih.gov/25647203/)
 - [12] [Cannon 2017](https://pubmed.ncbi.nlm.nih.gov/28225743/)
 - [13] [LaGrone 2024](https://pubmed.ncbi.nlm.nih.gov/37697470/)
@@ -286,7 +284,7 @@ March 2026
 - TXA = tranexamic acid (antifibrinolytic drug)
 - CRASH-2 (2010): n=20,211, largest trauma RCT ever conducted
 - <1 hour: 32% reduction in hemorrhagic death (RR 0.68)
-- >3 hours: 44% INCREASE in death (RR 1.44, 95% CI 1.12-1.84)
+- > 3 hours: 44% INCREASE in death (RR 1.44, 95% CI 1.12-1.84)
 - Dose: 1g IV bolus over 10 min, then 1g IV over 8 hours
 - **[KEY STAT: TXA >3h post-injury INCREASES mortality (RR 1.44)]**
 
@@ -294,8 +292,8 @@ March 2026
 
 > **Shelf exam tip:** Know CRASH-2 by name, the 3-hour window, the dose, and that late TXA causes harm. Extremely high yield.
 
-
 **Sources:**
+
 - [3] [Shakur 2010](https://pubmed.ncbi.nlm.nih.gov/20554319/)
 - [4] [Roberts 2011](https://pubmed.ncbi.nlm.nih.gov/21439633/)
 
@@ -314,8 +312,8 @@ March 2026
 
 > **Shelf exam tip:** FAST is a "rule-in" test, not a "rule-out" test. The 74% sensitivity is frequently tested.
 
-
 **Sources:**
+
 - [1] [Netherton 2019](https://pubmed.ncbi.nlm.nih.gov/31317856/)
 
 ---
@@ -342,8 +340,8 @@ March 2026
 
 > **Bottom Line:** Positive FAST plus hemodynamic instability equals the operating room.
 
-
 **Sources:**
+
 - [1] [Netherton 2019](https://pubmed.ncbi.nlm.nih.gov/31317856/)
 - [12] [Cannon 2017](https://pubmed.ncbi.nlm.nih.gov/28225743/)
 - [13] [LaGrone 2024](https://pubmed.ncbi.nlm.nih.gov/37697470/)
@@ -363,8 +361,8 @@ March 2026
 
 > **Shelf exam tip:** Know each GCS component and its scoring range. Motor score is the single best predictor of outcome.
 
-
 **Sources:**
+
 - [10] [Hatchimonji 2021](https://pubmed.ncbi.nlm.nih.gov/32382780/)
 - [18] American 2025
 
@@ -380,8 +378,8 @@ March 2026
 
 > **Bottom Line:** Undress the patient to find injuries, then actively prevent hypothermia.
 
-
 **Sources:**
+
 - [12] [Cannon 2017](https://pubmed.ncbi.nlm.nih.gov/28225743/)
 - [13] [LaGrone 2024](https://pubmed.ncbi.nlm.nih.gov/37697470/)
 
@@ -399,8 +397,8 @@ March 2026
 
 > **Shelf exam tip:** "Permissive hypotension is contraindicated in TBI" is a frequently tested exception.
 
-
 **Sources:**
+
 - [18] American 2025
 
 ---
@@ -416,8 +414,8 @@ March 2026
 
 > **Bottom Line:** You belong in the trauma bay -- learn the framework, stay calm, be useful, speak up.
 
-
 **Sources:**
+
 - [18] American 2025
 
 ---
@@ -444,8 +442,8 @@ March 2026
 
 > **Bottom Line:** The lethal triad must be recognized and corrected as a syndrome, not as isolated lab values.
 
-
 **Sources:**
+
 - [12] [Cannon 2017](https://pubmed.ncbi.nlm.nih.gov/28225743/)
 - [13] [LaGrone 2024](https://pubmed.ncbi.nlm.nih.gov/37697470/)
 
@@ -491,4 +489,3 @@ March 2026
 
 Evan DeCan, MD | Division of Acute Care Surgery
 University of Virginia
-

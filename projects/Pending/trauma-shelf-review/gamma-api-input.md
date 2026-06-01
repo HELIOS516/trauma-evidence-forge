@@ -1,12 +1,9 @@
 ---
-
-
 ## Trauma for the Shelf: Every Topic in 45 Minutes
 
 Evan DeCan, MD
 Division of Acute Care Surgery | University of Virginia
 2026-03-23
-
 ---
 
 ## Eight Objectives Across Ten Trauma Domains
@@ -63,12 +60,12 @@ Division of Acute Care Surgery | University of Virginia
 
 ## Class III Is the Inflection Point — That's When You Give Blood
 
-| | Class I | Class II | **Class III** | **Class IV** |
-|---|---------|----------|-----------|----------|
-| Blood loss | <15% | 15-30% | **30-40%** | **>40%** |
-| HR | <100 | 100-120 | **>120** | **>140** |
-| BP | Normal | Normal | **↓** | **↓↓** |
-| Rx | Monitor | Crystalloid | **Blood** | **MTP 1:1:1** |
+|            | Class I | Class II    | **Class III** | **Class IV**  |
+| ---------- | ------- | ----------- | ------------- | ------------- |
+| Blood loss | <15%    | 15-30%      | **30-40%**    | **>40%**      |
+| HR         | <100    | 100-120     | **>120**      | **>140**      |
+| BP         | Normal  | Normal      | **↓**         | **↓↓**        |
+| Rx         | Monitor | Crystalloid | **Blood**     | **MTP 1:1:1** |
 
 - BP doesn't drop until 30% is lost — young patients compensate then crash
 
@@ -101,7 +98,7 @@ Division of Acute Care Surgery | University of Virginia
 - CRASH-2: largest trauma RCT ever (n=20,211)
 - <1 hour: **32%** reduction in hemorrhagic death
 - 1-3 hours: **21%** reduction
-- >3 hours: **44% INCREASE** — actively harmful
+- > 3 hours: **44% INCREASE** — actively harmful
 - Dose: 1g IV bolus then 1g over 8h
 
 **3 hours from injury — not from arrival**
@@ -172,12 +169,12 @@ First step?
 
 ![Subdural hematoma CT with annotations](https://raw.githubusercontent.com/HELIOS516/trauma-evidence-forge-v3/main/projects/Pending/trauma-shelf-review/images/02_subdural_ct_annotated.jpg)
 
-| Feature | Epidural | Subdural |
-|---------|----------|----------|
-| Source | MMA (arterial) | Bridging veins |
-| CT shape | **Biconvex** | **Crescent** |
-| History | Lucid interval | Gradual decline |
-| Population | Young, temporal fx | Elderly, anticoag |
+| Feature      | Epidural             | Subdural           |
+| ------------ | -------------------- | ------------------ |
+| Source       | MMA (arterial)       | Bridging veins     |
+| CT shape     | **Biconvex**         | **Crescent**       |
+| History      | Lucid interval       | Gradual decline    |
+| Population   | Young, temporal fx   | Elderly, anticoag  |
 | OR threshold | >1cm / >30mL / shift | >10mm / >5mm shift |
 
 **Epidural with early evacuation = good prognosis**
@@ -207,11 +204,11 @@ First step?
 
 ## ICP Management Escalates in Three Tiers — Know When to Move Up
 
-| Tier | What you do | Target |
-|------|------------|--------|
-| 1 | HOB 30°, sedation, CSF drain | ICP <22 |
-| 2 | Hypertonic saline / mannitol | CPP 60-70 |
-| 3 | Craniectomy, barbiturate coma | Refractory |
+| Tier | What you do                   | Target     |
+| ---- | ----------------------------- | ---------- |
+| 1    | HOB 30°, sedation, CSF drain  | ICP <22    |
+| 2    | Hypertonic saline / mannitol  | CPP 60-70  |
+| 3    | Craniectomy, barbiturate coma | Refractory |
 
 - Tier 1 fails → Tier 2 (osmotherapy) → Tier 3 (surgery)
 - "More mannitol" is never the answer for refractory ICP
@@ -269,12 +266,12 @@ Next step?
 
 ## Match the Deficit to the Syndrome — The Pattern Is the Diagnosis
 
-| Syndrome | Mechanism | Lost | Preserved |
-|----------|-----------|------|-----------|
-| Anterior | Burst fx / aortic | Motor, pain, temp | Proprio, vibration |
-| Central | Hyperextension (elderly) | Arms >> legs | Sacral sensation |
+| Syndrome      | Mechanism                 | Lost                         | Preserved           |
+| ------------- | ------------------------- | ---------------------------- | ------------------- |
+| Anterior      | Burst fx / aortic         | Motor, pain, temp            | Proprio, vibration  |
+| Central       | Hyperextension (elderly)  | Arms >> legs                 | Sacral sensation    |
 | Brown-Sequard | Hemisection (penetrating) | Ipsi motor; contra pain/temp | Opposite modalities |
-| Cauda equina | L1-L2 compression | Saddle, bowel/bladder | Surgical emergency |
+| Cauda equina  | L1-L2 compression         | Saddle, bowel/bladder        | Surgical emergency  |
 
 **Central cord = most common incomplete SCI**
 
@@ -286,13 +283,13 @@ Next step?
 
 ## Two Rules Clear the C-Spine — CCR Is More Specific
 
-| | NEXUS | CCR |
-|---|-------|-----|
-| Sensitivity | 99.6% | 99.4-100% |
-| Specificity | 12.9% | **45.1%** |
-| Criteria | 5 low-risk items | 3-step algorithm |
-| Best for | Universal, quick | Alert, stable, ≥16 yo |
-| Obtunded | CT alone (NPV >99%) | CT alone (NPV >99%) |
+|             | NEXUS               | CCR                   |
+| ----------- | ------------------- | --------------------- |
+| Sensitivity | 99.6%               | 99.4-100%             |
+| Specificity | 12.9%               | **45.1%**             |
+| Criteria    | 5 low-risk items    | 3-step algorithm      |
+| Best for    | Universal, quick    | Alert, stable, ≥16 yo |
+| Obtunded    | CT alone (NPV >99%) | CT alone (NPV >99%)   |
 
 - Both near-perfect sensitivity — the difference is unnecessary CTs
 
@@ -367,13 +364,13 @@ Best initial vasopressor?
 
 ![Burn depth classification diagram](https://raw.githubusercontent.com/HELIOS516/trauma-evidence-forge-v3/main/projects/Pending/trauma-shelf-review/images/10_burn_degree_diagram.svg)
 
-| Depth | Appearance | Sensation | Healing |
-|-------|------------|-----------|---------|
-| Superficial | Red, dry | Painful | 3-5 days |
-| Partial | Pink, blisters | Very painful | 2-3 weeks |
-| Deep partial | Mottled | Reduced | 3-8 wk, scars |
+| Depth          | Appearance                | Sensation    | Healing            |
+| -------------- | ------------------------- | ------------ | ------------------ |
+| Superficial    | Red, dry                  | Painful      | 3-5 days           |
+| Partial        | Pink, blisters            | Very painful | 2-3 weeks          |
+| Deep partial   | Mottled                   | Reduced      | 3-8 wk, scars      |
 | Full thickness | **Leathery, white/brown** | **Painless** | **Graft required** |
-| Subdermal | Charred | Painless | Excision |
+| Subdermal      | Charred                   | Painless     | Excision           |
 
 > **Bottom Line:** Painless + leathery = full thickness = requires grafting, not conservative management
 
@@ -385,12 +382,12 @@ Best initial vasopressor?
 
 ![Rule of Nines body diagram](https://raw.githubusercontent.com/HELIOS516/trauma-evidence-forge-v3/main/projects/Pending/trauma-shelf-review/images/11_rule_of_nines.svg)
 
-| Region | Adult | Pediatric |
-|--------|-------|-----------|
-| Head | 9% | **18%** |
-| Each arm | 9% | 9% |
+| Region           | Adult     | Pediatric |
+| ---------------- | --------- | --------- |
+| Head             | 9%        | **18%**   |
+| Each arm         | 9%        | 9%        |
 | Trunk (ant/post) | 18% / 18% | 18% / 18% |
-| Each leg | 18% | **14%** |
+| Each leg         | 18%       | **14%**   |
 
 - Parkland: 4 × kg × %TBSA = 24h total (LR only)
 - **Half in first 8 hours from BURN time** — not arrival
@@ -465,13 +462,13 @@ Parkland formula with LR — how much fluid between 1600h and 2200h?
 
 **Interactive CT scroll:** [Open CT Viewer](https://helios516.github.io/trauma-evidence-forge-v3/projects/Pending/trauma-shelf-review/dicom-viewer/?case=hemothorax)
 
-| Condition | Threshold | Action |
-|-----------|----------|--------|
-| Simple hemothorax | <1,500 mL | Chest tube |
-| **Massive hemothorax** | **≥1,500 mL or >200/hr** | **Thoracotomy** |
-| Retained hemothorax | Persistent post-tube | VATS 72h |
-| Flail chest | ≥3 ribs, ≥2 places | Epidural + PPV |
-| **Tension PTX** | Clinical diagnosis | **Needle decompress NOW** |
+| Condition              | Threshold                | Action                    |
+| ---------------------- | ------------------------ | ------------------------- |
+| Simple hemothorax      | <1,500 mL                | Chest tube                |
+| **Massive hemothorax** | **≥1,500 mL or >200/hr** | **Thoracotomy**           |
+| Retained hemothorax    | Persistent post-tube     | VATS 72h                  |
+| Flail chest            | ≥3 ribs, ≥2 places       | Epidural + PPV            |
+| **Tension PTX**        | Clinical diagnosis       | **Needle decompress NOW** |
 
 > **Bottom Line:** Tension PTX = clinical diagnosis — never wait for CXR; ≥1,500 mL = OR
 
@@ -498,13 +495,13 @@ Parkland formula with LR — how much fluid between 1600h and 2200h?
 
 ![Cardiac tamponade on echo](https://raw.githubusercontent.com/HELIOS516/trauma-evidence-forge-v3/main/projects/Pending/trauma-shelf-review/images/08_echo_tamponade.gif)
 
-| Finding | Tamponade | Tension PTX |
-|---------|-----------|-------------|
-| JVD | Yes | Yes |
-| Hypotension | Yes | Yes |
+| Finding           | Tamponade              | Tension PTX           |
+| ----------------- | ---------------------- | --------------------- |
+| JVD               | Yes                    | Yes                   |
+| Hypotension       | Yes                    | Yes                   |
 | **Breath sounds** | **Bilateral (normal)** | **Absent unilateral** |
-| Trachea | Midline | Deviated away |
-| Treatment | Pericardiocentesis | Needle decompress |
+| Trachea           | Midline                | Deviated away         |
+| Treatment         | Pericardiocentesis     | Needle decompress     |
 
 - EDT: penetrating cardiac ~15% survival; blunt ~1.5%
 
@@ -548,12 +545,12 @@ Most appropriate first step?
 
 ![FAST exam Morison's pouch positive](https://raw.githubusercontent.com/HELIOS516/trauma-evidence-forge-v3/main/projects/Pending/trauma-shelf-review/images/07_fast_morrisons_labeled.png)
 
-| FAST | Hemodynamics | Action |
-|------|-------------|--------|
+| FAST         | Hemodynamics | Action         |
+| ------------ | ------------ | -------------- |
 | **Positive** | **Unstable** | **Laparotomy** |
-| Positive | Stable | CT abdomen |
-| Negative | Unstable | Repeat / DPL |
-| Negative | Stable | Observe |
+| Positive     | Stable       | CT abdomen     |
+| Negative     | Unstable     | Repeat / DPL   |
+| Negative     | Stable       | Observe        |
 
 - Spleen NOM: 85% (grade I-III) — vaccinate post-splenectomy
 - Liver NOM: 92% (grade I-III)
@@ -582,18 +579,18 @@ Most appropriate first step?
 
 ## Two Zone Systems Every Surgeon Must Know — Neck and Retroperitoneum
 
-| Neck Zone | Landmarks | Management |
-|-----------|-----------|------------|
-| I | Clavicles → cricoid | CTA |
-| II | Cricoid → mandible angle | Selective CTA |
-| III | Above mandible | Angiography / IR |
-| **Hard signs** | **Any zone** | **Immediate OR** |
+| Neck Zone      | Landmarks                | Management       |
+| -------------- | ------------------------ | ---------------- |
+| I              | Clavicles → cricoid      | CTA              |
+| II             | Cricoid → mandible angle | Selective CTA    |
+| III            | Above mandible           | Angiography / IR |
+| **Hard signs** | **Any zone**             | **Immediate OR** |
 
-| Retro Zone | Blunt | Penetrating |
-|-----------|-------|-------------|
-| 1 (central) | Explore | Explore |
-| 2 (lateral) | Observe | Explore |
-| **3 (pelvic)** | **NEVER explore** | Explore |
+| Retro Zone     | Blunt             | Penetrating |
+| -------------- | ----------------- | ----------- |
+| 1 (central)    | Explore           | Explore     |
+| 2 (lateral)    | Observe           | Explore     |
+| **3 (pelvic)** | **NEVER explore** | Explore     |
 
 > **Bottom Line:** Hard signs any neck zone = OR; Zone 3 pelvic hematoma at laparotomy = leave it alone
 
@@ -633,11 +630,11 @@ Next step?
 
 ![Pelvic fracture annotated](https://raw.githubusercontent.com/HELIOS516/trauma-evidence-forge-v3/main/projects/Pending/trauma-shelf-review/images/09_pelvic_annotated.jpeg)
 
-| Type | Mechanism | Mortality |
-|------|-----------|-----------|
-| APC (open book) | Head-on MVC | Moderate |
-| LC (lateral compression) | Side-impact | Lowest (most common) |
-| VS (vertical shear) | Fall from height | **Highest** |
+| Type                     | Mechanism        | Mortality            |
+| ------------------------ | ---------------- | -------------------- |
+| APC (open book)          | Head-on MVC      | Moderate             |
+| LC (lateral compression) | Side-impact      | Lowest (most common) |
+| VS (vertical shear)      | Fall from height | **Highest**          |
 
 - Binder at trochanters → FAST → decide
 - FAST+ = laparotomy first (not pelvic packing)
@@ -669,12 +666,12 @@ Next step?
 
 ## Open Fracture Grade Drives Antibiotics — IIIC Means Vascular Emergency
 
-| Gustilo | Wound | Antibiotics |
-|---------|-------|-------------|
-| I | <1 cm, clean | Cefazolin |
-| II | 1-10 cm | Cefazolin |
-| IIIA | >10 cm, covered | + aminoglycoside |
-| IIIB | >10 cm, uncovered | + flap coverage |
+| Gustilo  | Wound               | Antibiotics           |
+| -------- | ------------------- | --------------------- |
+| I        | <1 cm, clean        | Cefazolin             |
+| II       | 1-10 cm             | Cefazolin             |
+| IIIA     | >10 cm, covered     | + aminoglycoside      |
+| IIIB     | >10 cm, uncovered   | + flap coverage       |
 | **IIIC** | **Vascular injury** | **+ vascular repair** |
 
 - All open fractures: tetanus + antibiotics within 1 hour + debridement
@@ -734,13 +731,13 @@ Priority?
 
 ## Three Populations That Break the Standard Algorithms
 
-| | Pediatric | Geriatric | Pregnancy |
-|---|-----------|-----------|-----------|
-| #1 mechanism | MVC | Falls | MVC |
-| Key pearl | Rib fx = **abuse** | Beta-blockers **mask tachy** | **Left lateral** >20 wk |
-| Pathognomonic | Retinal hemorrhages = NAT | Chronic subdural wks post-fall | KB test for Rh |
-| Resuscitation | 20 mL/kg boluses | Lower threshold for everything | Treat mother = treat fetus |
-| Critical action | Skeletal survey | Low threshold CT on anticoag | C-section <5 min if >24 wk |
+|                 | Pediatric                 | Geriatric                      | Pregnancy                  |
+| --------------- | ------------------------- | ------------------------------ | -------------------------- |
+| #1 mechanism    | MVC                       | Falls                          | MVC                        |
+| Key pearl       | Rib fx = **abuse**        | Beta-blockers **mask tachy**   | **Left lateral** >20 wk    |
+| Pathognomonic   | Retinal hemorrhages = NAT | Chronic subdural wks post-fall | KB test for Rh             |
+| Resuscitation   | 20 mL/kg boluses          | Lower threshold for everything | Treat mother = treat fetus |
+| Critical action | Skeletal survey           | Low threshold CT on anticoag   | C-section <5 min if >24 wk |
 
 > **Bottom Line:** Infant + bilateral subdurals + retinal hemorrhages — answer is NAT, not accidental fall
 

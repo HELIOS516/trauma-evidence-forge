@@ -49,6 +49,7 @@
 **Speaker Notes — Shelf Tip Format:**
 
 Speaker notes follow standard V3 format (150-250 words narrative) and include:
+
 ```
 > **Shelf Tip:** [How the shelf tests this concept — question stem pattern, common distractors, or "most commonly tested fact"]
 ```
@@ -115,12 +116,12 @@ topics already covered there. (~150 words)
 
 ## [Assertion: Key Classification or Comparison — Sentence With Distinguishing Feature]
 
-| [Category] | [Type A] | [Type B] | [Type C] |
-|------------|----------|----------|----------|
-| [Feature 1] | [Value] | [Value] | [Value] |
-| [Feature 2] | [Value] | **[Key value]** | [Value] |
-| [Feature 3] | [Value] | [Value] | [Value] |
-| **Management** | [Action] | **[Action]** | [Action] |
+| [Category]     | [Type A] | [Type B]        | [Type C] |
+| -------------- | -------- | --------------- | -------- |
+| [Feature 1]    | [Value]  | [Value]         | [Value]  |
+| [Feature 2]    | [Value]  | **[Key value]** | [Value]  |
+| [Feature 3]    | [Value]  | [Value]         | [Value]  |
+| **Management** | [Action] | **[Action]**    | [Action] |
 
 > **Bottom Line:** [Max 12 words — the discriminating feature for the exam]
 
@@ -221,11 +222,11 @@ in this section. Explain the specific shelf testing pattern.
 
 ## [N] Shelf Pearls: One Fact, One Question Pattern
 
-| Pearl | How It's Tested |
-|-------|----------------|
+| Pearl    | How It's Tested         |
+| -------- | ----------------------- |
 | [Fact 1] | [Question stem pattern] |
 | [Fact 2] | [Question stem pattern] |
-| ... | ... |
+| ...      | ...                     |
 
 ---
 

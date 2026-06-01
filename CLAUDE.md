@@ -12,24 +12,24 @@
 
 ## Model Selection
 
-| Task | Model | Rationale |
-|------|-------|-----------|
-| PubMed search, citation verification | sonnet | Fast, repetitive |
-| Evidence synthesis, slide authoring | sonnet | Good balance |
-| GRADE rating decisions | opus | Nuanced clinical judgment |
-| Slide design audit (scripts) | sonnet | Deterministic |
-| Guideline comparison tables | sonnet | Structured extraction |
-| Statistical reporting validation | opus | Study design implications |
-| Citation format conversion | haiku | Mechanical transformation |
+| Task                                 | Model  | Rationale                 |
+| ------------------------------------ | ------ | ------------------------- |
+| PubMed search, citation verification | sonnet | Fast, repetitive          |
+| Evidence synthesis, slide authoring  | sonnet | Good balance              |
+| GRADE rating decisions               | opus   | Nuanced clinical judgment |
+| Slide design audit (scripts)         | sonnet | Deterministic             |
+| Guideline comparison tables          | sonnet | Structured extraction     |
+| Statistical reporting validation     | opus   | Study design implications |
+| Citation format conversion           | haiku  | Mechanical transformation |
 
 ## Subagent Definitions
 
-| Agent | Model | Purpose |
-|-------|-------|---------|
+| Agent               | Model  | Purpose                                      |
+| ------------------- | ------ | -------------------------------------------- |
 | evidence-researcher | sonnet | PubMed search, GRADE rating, landmark trials |
-| slide-designer | sonnet | 5-script Gamma pipeline, design audit |
-| methodology-critic | opus | Study design assessment, bias evaluation |
-| citation-validator | haiku | PMID/DOI verification |
+| slide-designer      | sonnet | 5-script Gamma pipeline, design audit        |
+| methodology-critic  | opus   | Study design assessment, bias evaluation     |
+| citation-validator  | haiku  | PMID/DOI verification                        |
 
 ## Team: Grand Rounds Pipeline
 
@@ -72,6 +72,7 @@ Lead: Orchestrator (sonnet)
 ## Gamma Optimization Notes
 
 When authoring slides, enforce these rules:
+
 1. **Title = assertion** with a verb (not a topic label)
 2. **Body = keyword bullets** (3-7 words each, max 3-4 bullets)
 3. **Bold one KEY STAT** per content slide
@@ -101,19 +102,20 @@ python scripts/verify_citations.py projects/Pending/{topic}/evidence-synthesis.m
 
 Evidence wiki pages for rapid topic lookup during presentation authoring:
 
-| Wiki Page | Presentation Domain | Key Evidence |
-|-----------|---------------------|--------------|
-| [BCVI Management](../second-brain/wiki/bcvi-management.md) | Vascular trauma | BIFFL grading, antithrombotic selection, SEH coexistence |
-| [DVT Prophylaxis](../second-brain/wiki/dvt-prophylaxis-trauma.md) | ICU/VTE | 2025 meta-analysis N=87K; early initiation reduces VTE 62% |
-| [Antibiotic Prophylaxis](../second-brain/wiki/antibiotic-prophylaxis-trauma.md) | Perioperative | Universal ≤24h rule; agent selection by site/flora |
-| [Hemorrhage + Resuscitation](../second-brain/wiki/hemorrhage-resuscitation.md) | Trauma resus | xABCDE, DCR, DCS, TXA timing window, 1:1:1 ratio |
-| [Stress Ulcer Prophylaxis](../second-brain/wiki/stress-ulcer-prophylaxis.md) | ICU | REVISE trial: PPI reduces GI bleeding 70%, NNT=40 |
-| [Spinal Cord Injury](../second-brain/wiki/spinal-cord-injury.md) | Neuro-critical | MAP >85 x7 days, early decompression <24h |
-| [PSH Management](../second-brain/wiki/psh-management.md) | Neuro-critical | Meyfroidt 2017 (Lancet Neurol), EIR model, propranolol + clonidine |
-| [Rib Fracture Fixation](../second-brain/wiki/rib-fracture-fixation.md) | Thoracic trauma | VATS vs open ORIF equivalent outcomes, 2025 landmark study |
-| [Pancreaticoduodenal Trauma](../second-brain/wiki/pancreaticoduodenal-trauma.md) | Abdominal trauma | AAST grading, DCS approach, Kocher/Cattell-Braasch anatomy |
+| Wiki Page                                                                        | Presentation Domain | Key Evidence                                                       |
+| -------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------ |
+| [BCVI Management](../second-brain/wiki/bcvi-management.md)                       | Vascular trauma     | BIFFL grading, antithrombotic selection, SEH coexistence           |
+| [DVT Prophylaxis](../second-brain/wiki/dvt-prophylaxis-trauma.md)                | ICU/VTE             | 2025 meta-analysis N=87K; early initiation reduces VTE 62%         |
+| [Antibiotic Prophylaxis](../second-brain/wiki/antibiotic-prophylaxis-trauma.md)  | Perioperative       | Universal ≤24h rule; agent selection by site/flora                 |
+| [Hemorrhage + Resuscitation](../second-brain/wiki/hemorrhage-resuscitation.md)   | Trauma resus        | xABCDE, DCR, DCS, TXA timing window, 1:1:1 ratio                   |
+| [Stress Ulcer Prophylaxis](../second-brain/wiki/stress-ulcer-prophylaxis.md)     | ICU                 | REVISE trial: PPI reduces GI bleeding 70%, NNT=40                  |
+| [Spinal Cord Injury](../second-brain/wiki/spinal-cord-injury.md)                 | Neuro-critical      | MAP >85 x7 days, early decompression <24h                          |
+| [PSH Management](../second-brain/wiki/psh-management.md)                         | Neuro-critical      | Meyfroidt 2017 (Lancet Neurol), EIR model, propranolol + clonidine |
+| [Rib Fracture Fixation](../second-brain/wiki/rib-fracture-fixation.md)           | Thoracic trauma     | VATS vs open ORIF equivalent outcomes, 2025 landmark study         |
+| [Pancreaticoduodenal Trauma](../second-brain/wiki/pancreaticoduodenal-trauma.md) | Abdominal trauma    | AAST grading, DCS approach, Kocher/Cattell-Braasch anatomy         |
 
 Pressure-test a slide claim against vault evidence:
+
 ```bash
 /vault-challenge "claim to test"
 ```

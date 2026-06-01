@@ -10,17 +10,20 @@
 ## V3 Rules Summary (embed in every session)
 
 **Keyword-only slides:**
+
 - Max 50 words/slide body, 3-7 words per bullet
 - No full sentences in slide body — sentences go in speaker notes only
 - Assertion titles with verbs (not topic labels)
 
 **Required elements on every content slide:**
+
 - `> **Bottom Line:** [max 12 words]`
 - `**[KEY STAT: ...]**` — one bold number
 - `**Sources:** [N][M]` at bottom
 - Speaker notes in `<!-- Speaker Notes: ... -->` (150-250 words)
 
 **Gamma:**
+
 - Marine theme locked: `themeId: "marine"`
 - `textMode: "preserve"`, `cardSplit: "auto"`, `imagen-4-pro`
 - Per-slide-type Gamma instructions (see templates)
@@ -28,6 +31,7 @@
 **MCQs:** 2 per presentation (medium), 4 per presentation (long)
 
 **Pipeline (5 scripts, run in order):**
+
 ```bash
 cd ~/claude-skills  # or repo root
 python skills/trauma-evidence-forge-v3/scripts/format_citations.py <input.md>
@@ -36,14 +40,17 @@ python skills/trauma-evidence-forge-v3/scripts/audit_slide_design.py <output>
 python skills/trauma-evidence-forge-v3/scripts/validate_gamma_ready.py <output>
 python skills/trauma-evidence-forge-v3/scripts/generate_gamma_params.py <output>
 ```
+
 Fix any FAIL issues and re-run until all checks pass.
 
 **Templates (copy structure exactly):**
+
 - Medium: `skills/trauma-evidence-forge-v3/templates/presentation-medium.md` (18-22 slides)
 - Long: `skills/trauma-evidence-forge-v3/templates/presentation-long.md` (24-30 slides)
 - Evidence: `skills/trauma-evidence-forge-v3/templates/evidence-synthesis.md` (11 modules)
 
 **Reference files to read first:**
+
 - `skills/trauma-evidence-forge-v3/SKILL.md`
 - `skills/trauma-evidence-forge-v3/CLAUDE.md`
 - `skills/trauma-evidence-forge-v3/references/slide-design-principles.md`
@@ -61,6 +68,7 @@ Fix any FAIL issues and re-run until all checks pass.
 **Priority:** Highest (most content exists, closest to completion)
 
 **Source material (REUSE — do NOT start from scratch):**
+
 - Branch `origin/claude/setup-trauma-forge-8P07M` contains:
   - `evidence-synthesis.md` (226 lines, real PMIDs, real trial data for PROPPR/CRASH-2/PAMPer/Bickell)
   - `presentation-medium.md` (361 lines, V2-ish format — needs V3 keyword conversion)
@@ -73,6 +81,7 @@ Fix any FAIL issues and re-run until all checks pass.
 1. **Read V3 references first:** SKILL.md, CLAUDE.md, templates/presentation-medium.md, templates/presentation-long.md, references/slide-design-principles.md, config/gamma-medical-profile.json
 
 2. **Cherry-pick evidence from branch:**
+
    ```bash
    cd ~/claude-skills
    git show origin/claude/setup-trauma-forge-8P07M:skills/trauma-evidence-forge-v3/projects/Pending/hemorrhagic-shock-resuscitation/evidence-synthesis.md > /tmp/hs-evidence-branch.md
@@ -100,6 +109,7 @@ Fix any FAIL issues and re-run until all checks pass.
 7. **Git add, commit with message `[TEFv3] hemorrhagic-shock: evidence + medium + long presentations`, push.**
 
 ### Validation targets
+
 - evidence-synthesis.md: ≥20 verified PMIDs, all 11 modules populated, GRADE ratings on all treatment recs
 - presentation-medium.md: 20-22 slides, avg ≤45 words/slide body, 2 MCQs, all checks pass
 - presentation-long.md: 28-30 slides, avg ≤45 words/slide body, 4 MCQs, all checks pass
@@ -111,6 +121,7 @@ Fix any FAIL issues and re-run until all checks pass.
 **Priority:** High (rich evidence exists on branch, needs V3 migration)
 
 **Source material (REUSE):**
+
 - Branch `origin/claude/setup-spinal-injuries-project-v7idJ` contains:
   - `skills/trauma-evidence-forge/projects/Pending/spinal-injuries-shock-fractures/README.md` (134 lines — rich outline with NEXUS, CCR, ASIA, TLICS frameworks)
   - `skills/trauma-evidence-forge/projects/Pending/spinal-injuries-shock-fractures/evidence-synthesis.md` (283 lines — verified PMIDs for NEXUS 10891516, CCR 14695411, Stiell 11597285, EAST obtunded 25757133, Panczykowski 21619408, etc.)
@@ -124,6 +135,7 @@ Fix any FAIL issues and re-run until all checks pass.
 1. **Read V3 references first** (same as Handoff 1).
 
 2. **Create project directory and extract branch content:**
+
    ```bash
    cd ~/claude-skills
    mkdir -p skills/trauma-evidence-forge-v3/projects/Pending/spinal-injuries-shock-fractures/
@@ -139,7 +151,7 @@ Fix any FAIL issues and re-run until all checks pass.
    - Obtunded patient clearance (Patel 2015, PMID 25757133)
    - TLICS scoring (Vaccaro 2005)
    - Neurogenic shock management
-   Expand to fill all 11 modules. Do web-search-backed PubMed verification for any new PMIDs.
+     Expand to fill all 11 modules. Do web-search-backed PubMed verification for any new PMIDs.
 
 5. **Author presentation-medium.md** (20-22 slides, 30-35 min). V3 keyword-only format. Subtopics: c-spine clearance (NEXUS vs CCR), obtunded patient clearance, neurogenic shock vs spinal shock, ASIA scale, TLICS scoring, thoracolumbar fracture management. 2 MCQ checkpoints.
 
@@ -156,6 +168,7 @@ Fix any FAIL issues and re-run until all checks pass.
 **Priority:** Medium (V2 content exists with real slides, needs V3 conversion + citation renumber)
 
 **Source material (REUSE):**
+
 - On main branch at `skills/trauma-evidence-forge-v2/projects/Pending/spinal-cord-injury-management/`:
   - `spinal-cord-injury-management.md` — 24-slide LONG version with clinical content and citations [32]-[36]
   - `README.md`
@@ -175,12 +188,14 @@ Fix any FAIL issues and re-run until all checks pass.
 1. **Read V3 references first** (same as Handoff 1).
 
 2. **Read source material:**
+
    ```bash
    cat skills/trauma-evidence-forge-v2/projects/Pending/spinal-cord-injury-management/spinal-cord-injury-management.md
    cat skills/trauma-evidence-forge-v2/projects/Pending/spinal-cord-injury-management/README.md
    ```
 
 3. **Create project directory:**
+
    ```bash
    mkdir -p skills/trauma-evidence-forge-v3/projects/Pending/spinal-cord-injury-management/
    ```
@@ -197,7 +212,7 @@ Fix any FAIL issues and re-run until all checks pass.
    - DVT prophylaxis in SCI
    - Autonomic dysreflexia
    - Rehabilitation and prognostication
-   Target ≥25 verified PMIDs.
+     Target ≥25 verified PMIDs.
 
 6. **Author presentation-medium.md** (20-22 slides, 35 min). V3 keyword-only. Resident/fellow depth — include more nuanced vasopressor dosing, MAP augmentation trial data, surgical timing evidence, and complications management. 2 MCQ checkpoints.
 
@@ -214,6 +229,7 @@ Fix any FAIL issues and re-run until all checks pass.
 **Priority:** Medium (V3 stub exists but evidence-synthesis.md is empty scaffold)
 
 **Source material:**
+
 - V3 main has: `projects/Pending/thoracic-trauma/README.md` (60 lines — full outline with learning objectives, slide outline for 20 slides)
 - V3 main has: `projects/Pending/thoracic-trauma/evidence-synthesis.md` (empty scaffold — headers only)
 - Branch `origin/claude/review-documentation-YXNIt` has: only a V1-format README.md (21 lines) — minimal value, V3 README is better
@@ -226,6 +242,7 @@ Fix any FAIL issues and re-run until all checks pass.
 1. **Read V3 references first** (same as Handoff 1).
 
 2. **Read existing README.md for slide outline and learning objectives:**
+
    ```bash
    cat skills/trauma-evidence-forge-v3/projects/Pending/thoracic-trauma/README.md
    ```
@@ -239,7 +256,7 @@ Fix any FAIL issues and re-run until all checks pass.
    - ED thoracotomy indications (EAST guidelines, survival by mechanism)
    - Chest tube management (size, placement, removal criteria)
    - Rib fracture scoring and elderly mortality
-   Key PMIDs to find/verify: EAST EDT guidelines, AAST aortic grading, EAST chest tube guidelines. Target ≥20 verified PMIDs.
+     Key PMIDs to find/verify: EAST EDT guidelines, AAST aortic grading, EAST chest tube guidelines. Target ≥20 verified PMIDs.
 
 4. **Author presentation-medium.md** (20-22 slides, 35 min). Follow V3 keyword-only format. Use the README slide outline as guide. MS3 level. 2 MCQ checkpoints.
 
@@ -256,6 +273,7 @@ Fix any FAIL issues and re-run until all checks pass.
 **Priority:** Standard (V3 stub exists but evidence-synthesis.md is empty scaffold)
 
 **Source material:**
+
 - V3 main has: `projects/Pending/traumatic-brain-injury/README.md` (64 lines — full outline with learning objectives, slide outline for 22 slides)
 - V3 main has: `projects/Pending/traumatic-brain-injury/evidence-synthesis.md` (empty scaffold — headers only)
 - A prior cloud session attempted a full clone-and-build from `HELIOS516/trauma-evidence-forge-v3` repo — status unknown, likely incomplete
@@ -268,6 +286,7 @@ Fix any FAIL issues and re-run until all checks pass.
 1. **Read V3 references first** (same as Handoff 1).
 
 2. **Read existing README.md for slide outline and learning objectives:**
+
    ```bash
    cat skills/trauma-evidence-forge-v3/projects/Pending/traumatic-brain-injury/README.md
    ```
@@ -282,7 +301,7 @@ Fix any FAIL issues and re-run until all checks pass.
    - Secondary injury prevention (hypotension SBP <90 doubles mortality, hypoxia)
    - Anticoagulation reversal in TBI
    - Concussion and return-to-play guidelines
-   Key PMIDs to find/verify: BTF 4th Edition (Carney 2017), DECRA trial, RESCUEicp trial, BEST-TRIP trial. Target ≥20 verified PMIDs.
+     Key PMIDs to find/verify: BTF 4th Edition (Carney 2017), DECRA trial, RESCUEicp trial, BEST-TRIP trial. Target ≥20 verified PMIDs.
 
 4. **Author presentation-medium.md** (20-22 slides, 40 min). V3 keyword-only. Use README slide outline as guide. MS3 level. Include GCS component scoring table slide, epidural vs subdural comparison table slide. 2 MCQ checkpoints.
 
@@ -297,16 +316,20 @@ Fix any FAIL issues and re-run until all checks pass.
 ## Branch Strategy
 
 All 5 handoffs should work on a single feature branch from main:
+
 ```bash
 git checkout main && git pull
 git checkout -b feature/v3-five-presentations
 ```
+
 Commit after each topic completes. When all 5 are done, merge to main.
 
 Alternatively, each cloud session can create its own branch:
+
 ```bash
 git checkout -b claude/v3-{topic-slug}
 ```
+
 Then merge sequentially after each completes.
 
 ## Gamma Submission (after all pipeline checks pass)
@@ -325,6 +348,7 @@ The `generate_gamma_params.py` script produces the API JSON. Always verify Marin
 ## Post-Completion
 
 After all 5 topics complete:
+
 1. Move completed projects from `Pending/` to `Complete/`
 2. Update `SKILL.md` and `CLAUDE.md` project tables
 3. Delete stale remote branches:

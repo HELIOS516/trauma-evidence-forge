@@ -23,7 +23,9 @@ Here’s a critical architect-level review of **trauma-evidence-forge-v3** based
 ## Top 5 Strengths
 
 ### 1. Strong product thesis with measurable optimization target
+
 `SKILL.md` is unusually clear about the core value proposition:
+
 - keyword-only slides
 - full speaker notes
 - Marine theme lock
@@ -32,6 +34,7 @@ Here’s a critical architect-level review of **trauma-evidence-forge-v3** based
 That is a solid systems objective, not just a formatting preference. The before/after table in `SKILL.md` gives the project a concrete success metric.
 
 ### 2. Good separation of concerns between content, orchestration, and rendering
+
 There is a sensible layering:
 
 - **Product/workflow spec:** `SKILL.md`
@@ -44,7 +47,9 @@ There is a sensible layering:
 This is architecturally healthier than monolithic prompt-only systems.
 
 ### 3. Gamma-specific design thinking is more mature than most slide generators
+
 `config/gamma-medical-profile.json` shows real awareness of Gamma behavior:
+
 - `textMode: "preserve"`
 - explicit `slideTypeDirectives`
 - image suppression for data-heavy slides
@@ -54,7 +59,9 @@ This is architecturally healthier than monolithic prompt-only systems.
 This is exactly the kind of deterministic “render contract” needed to reduce downstream manual correction.
 
 ### 4. Template structure is pedagogically strong
+
 `templates/presentation-medium.md` is well designed for medical education:
+
 - opening case
 - concept build-up
 - algorithm/data slide
@@ -67,6 +74,7 @@ This is exactly the kind of deterministic “render contract” needed to reduce
 That sequencing supports both learning science and shelf-prep utility.
 
 ### 5. Topic portfolio is high-yield and coherent
+
 The 10 topics in `SKILL.md` are well chosen. The trauma + EGS split maps cleanly to shelf relevance and clerkship utility. The xABCDE topic definition in `projects/Pending/xabcde-primary-survey/README.md` is especially good: practical, teachable, and operationally scoped.
 
 ---
@@ -74,9 +82,11 @@ The 10 topics in `SKILL.md` are well chosen. The trauma + EGS split maps cleanly
 ## Top 5 Weaknesses
 
 ### 1. The architecture is underspecified where reliability matters most: evidence provenance and pipeline state
+
 The docs talk about a “5-script Gamma pipeline,” audits, validations, and evidence synthesis, but what is shown lacks a concrete machine-readable workflow model.
 
 Problems:
+
 - No visible canonical schema for a presentation artifact
 - No visible state machine for `Pending -> Complete`
 - No visible manifest tying evidence, citations, slides, validation results, and Gamma submission together
@@ -87,9 +97,11 @@ As a result, this feels partly spec-driven rather than truly pipeline-driven.
 **Affected files:** `SKILL.md`, `CLAUDE.md`
 
 ### 2. Validation philosophy is stronger than validation implementation
+
 `SKILL.md` advertises 13 audits and 19 validations, but the visible code in `scripts/card_utils.py` only shows threshold constants and heuristic classification. That’s useful, but it is not sufficient to support the confidence implied by the docs.
 
 What’s missing from the evidence shown:
+
 - formal test suite
 - parser robustness guarantees
 - golden file tests for markdown-to-card classification
@@ -101,7 +113,9 @@ Right now, the project appears to have **validation intentions**, not demonstrat
 **Affected files:** `SKILL.md`, `scripts/card_utils.py`
 
 ### 3. Card classification appears brittle and likely to misclassify real-world decks
+
 `scripts/card_utils.py` relies on content heuristics:
+
 - title by position
 - disclosures by keywords
 - MCQ by regex on A-D options plus “question/mcq/knowledge check”
@@ -111,6 +125,7 @@ Right now, the project appears to have **validation intentions**, not demonstrat
 That will work on idealized templates, but not reliably on organically authored presentations.
 
 Risks:
+
 - “Case resolution” slides may be misclassified
 - MCQ answer reveal slides may not be recognized distinctly
 - backup slides may be misclassified as content
@@ -122,7 +137,9 @@ For a formatting pipeline whose goal is low-edit output, parser brittleness is a
 **Affected file:** `scripts/card_utils.py`
 
 ### 4. Template-policy mismatch around density and note burden
+
 The project is trying to optimize for faster post-Gamma editing, but it imposes heavy authoring burdens:
+
 - every content slide has speaker notes
 - notes are 150–250 words each
 - every content slide requires key stat, bottom line, and sources
@@ -130,15 +147,18 @@ The project is trying to optimize for faster post-Gamma editing, but it imposes 
 - keyword bullets only
 
 That is excellent for quality, but expensive upstream. The likely result is one of two failure modes:
+
 1. authors cut corners and produce inconsistent decks, or
 2. the LLM produces bloated/overstructured markdown that still needs cleanup
 
-This is a classic local optimization risk: reducing *downstream* editing while increasing *upstream* generation complexity.
+This is a classic local optimization risk: reducing _downstream_ editing while increasing _upstream_ generation complexity.
 
 **Affected files:** `SKILL.md`, `CLAUDE.md`, `templates/presentation-medium.md`
 
 ### 5. Topic definitions are strong, but production readiness of the sample project is low
+
 `projects/Pending/xabcde-primary-survey/README.md` is a good planning artifact, but it is still largely a human-readable outline. There is no visible:
+
 - evidence manifest
 - source list
 - generated presentation markdown
@@ -155,6 +175,7 @@ So the repository demonstrates a compelling framework, but not enough completed 
 ## Recommendations
 
 ### 1. Introduce a canonical presentation manifest
+
 Add a machine-readable artifact per topic, e.g. `presentation.manifest.json`:
 
 ```json
@@ -178,11 +199,14 @@ This would make the pipeline inspectable, resumable, and automatable.
 **Relevant files:** `SKILL.md`, `CLAUDE.md`, `projects/Pending/...`
 
 ### 2. Replace heuristic card classification with explicit frontmatter or slide tags
+
 Do not infer slide types from content if you can avoid it. Require each slide to carry an explicit marker, for example:
 
 ```md
 <!-- slide:type=Content -->
+
 ## Permissive hypotension improves survival
+
 ...
 ```
 
@@ -197,7 +221,9 @@ This would dramatically improve audit/validation reliability.
 **Relevant file:** `scripts/card_utils.py`
 
 ### 3. Add a schema and linter for authored markdown
+
 Define a schema for:
+
 - slide title
 - slide type
 - bullet count
@@ -211,7 +237,9 @@ Then build a proper linter instead of mostly regex heuristics. Even a lightweigh
 **Relevant files:** `scripts/card_utils.py`, templates
 
 ### 4. Create golden test fixtures for each slide type
+
 You need a `/tests` directory with:
+
 - valid and invalid examples for each slide type
 - edge cases for MCQ answer slides
 - table-heavy guideline slides
@@ -223,7 +251,9 @@ Without this, your audit layer is not trustworthy enough for a production educat
 **Relevant files:** `scripts/card_utils.py`, all pipeline scripts not shown
 
 ### 5. Make the “<15 min editing” claim empirically measurable
+
 Right now this is a product aspiration. Make it a benchmark:
+
 - sample 10 generated decks
 - record editing time after Gamma import
 - classify edits: formatting, image replacement, citation fixes, layout fixes, content fixes
@@ -234,7 +264,9 @@ Then feed failures back into template/profile rules.
 **Relevant files:** `SKILL.md`, `config/gamma-medical-profile.json`
 
 ### 6. Tighten naming and versioning consistency
+
 There is some version drift:
+
 - project name is `trauma-evidence-forge-v3`
 - gamma profile is `medical-grand-rounds-v1`
 
@@ -243,7 +275,9 @@ That’s not fatal, but it suggests configuration evolution may be loose. Versio
 **Relevant file:** `config/gamma-medical-profile.json`
 
 ### 7. Treat evidence quality as first-class structured data
+
 `CLAUDE.md` mentions GRADE and society comparisons, but these should not live only in prose markdown. Add structured evidence extraction:
+
 - study type
 - population
 - intervention/comparator
@@ -257,7 +291,9 @@ This would support automatic trial/guideline slide generation and consistency ch
 **Relevant files:** `CLAUDE.md`, evidence synthesis outputs implied by `SKILL.md`
 
 ### 8. Separate “authoring guidance” from “hard constraints”
+
 Some rules are product constraints; others are style preferences. Distinguish:
+
 - **must-pass**: theme, citation preservation, sources block, slide type tags
 - **should-pass**: 3–7 word bullets, one key stat, 150–250 note words
 
@@ -272,6 +308,7 @@ Otherwise validation becomes either too rigid or inconsistently enforced.
 Based on the visible code/config, here are likely or actual issues.
 
 ### 1. Truncated/possibly broken implementation in `scripts/card_utils.py`
+
 The file ends mid-line in the excerpt:
 
 ```python
@@ -283,7 +320,9 @@ If representative of the actual file, that is a syntax/runtime bug. If only trun
 **File:** `scripts/card_utils.py`
 
 ### 2. Markdown table detection is too narrow
+
 Detection checks for strings like:
+
 - `|---|`
 - `|:--|`
 - `|--:|`
@@ -292,7 +331,7 @@ Many valid markdown tables won’t match these exact tokens because separator ro
 
 ```md
 | Col1 | Col2 |
-|------|------|
+| ---- | ---- |
 ```
 
 This likely causes under-detection of `Data/Table`, `Trial`, and `Guideline` slides.
@@ -300,7 +339,9 @@ This likely causes under-detection of `Data/Table`, `Trial`, and `Guideline` sli
 **File:** `scripts/card_utils.py`
 
 ### 3. MCQ answer slides are not clearly represented in classification rules
+
 The template includes:
+
 - `MCQ #1`
 - `MCQ Answer`
 - `MCQ #2`
@@ -311,7 +352,9 @@ But the classifier only visibly identifies `"MCQ"` based on option patterns and 
 **Files:** `templates/presentation-medium.md`, `scripts/card_utils.py`
 
 ### 4. Potential inconsistency between slide constraints and template examples
+
 `CLAUDE.md` says:
+
 - body max 3–4 bullets
 - no full sentences in slide body
 
@@ -320,7 +363,9 @@ But `scripts/card_utils.py` allows for `Content.bullets_max = 6`, and some templ
 **Files:** `CLAUDE.md`, `scripts/card_utils.py`, `templates/presentation-medium.md`
 
 ### 5. `additionalInstructionsMaxChars: 2000` may be too small for rich per-slide directives
+
 Given:
+
 - marine theme lock
 - safety constraints
 - slide-type directives
@@ -332,12 +377,15 @@ You may hit prompt-budget pressure when combining deck-specific instructions wit
 **File:** `config/gamma-medical-profile.json`
 
 ### 6. “NO_IMAGE” is a convention, not an enforceable schema
+
 In `typeImageStyles`, values like `"NO_IMAGE — ..."` are human-readable strings. Unless downstream code explicitly interprets this sentinel, Gamma may still generate imagery or the pipeline may fail to suppress images consistently.
 
 **File:** `config/gamma-medical-profile.json`
 
 ### 7. Status model is too binary for a multi-step pipeline
+
 `CLAUDE.md` says status is `Pending/` or `Complete/`, but the pipeline has many intermediate states:
+
 - evidence synthesis
 - slide authoring
 - citation formatting
@@ -356,10 +404,13 @@ Binary status at directory level is too coarse and can cause operational ambigui
 ## Can the <15 min post-Gamma editing target be achieved?
 
 ### Short answer:
+
 **Yes, for disciplined template-conforming decks; not yet convincingly across the system as a whole.**
 
 ### Why it’s plausible
+
 The project does several things right:
+
 - locks theme in `config/gamma-medical-profile.json`
 - uses `textMode: "preserve"`
 - defines slide-type-specific directives
@@ -369,7 +420,9 @@ The project does several things right:
 These are exactly the levers that reduce post-import cleanup.
 
 ### Why I’m not fully convinced yet
+
 The weak links are not in design intent; they are in execution reliability:
+
 - heuristic card typing in `scripts/card_utils.py`
 - no visible formal test suite
 - no visible completed deck proving the full pipeline
@@ -394,6 +447,7 @@ In practice, the <15 min target will depend on three failure classes:
    - image-heavy content requires manual substitution
 
 ### My judgment
+
 - **For “easy” talks** using the medium template with minimal tables and highly structured authorship: **likely yes**
 - **For evidence-dense talks** with guideline comparisons, trial summaries, and multiple tables: **probably closer to 15–30 min**
 - **For less disciplined authors or non-template decks:** **no**
@@ -414,5 +468,6 @@ If I were signing off as an architect, I’d say:
 - **Most important next step:** replace inference-heavy pipeline behavior with explicit schemas, manifests, and tests
 
 If you want, I can also turn this into:
-1. a **red/yellow/green engineering review**, or  
+
+1. a **red/yellow/green engineering review**, or
 2. a **PR-style remediation plan prioritized by impact vs effort**.

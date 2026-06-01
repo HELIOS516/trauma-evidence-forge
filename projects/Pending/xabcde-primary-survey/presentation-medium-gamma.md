@@ -1,11 +1,9 @@
 ---
-
 ## xABCDE: Hemorrhage Kills First, So Treat It First
 
 Evan DeCan, MD
 Division of Acute Care Surgery | University of Virginia
 March 2026
-
 ---
 
 ## Learning Objectives
@@ -37,8 +35,8 @@ March 2026
 
 > **Bottom Line:** The X in xABCDE exists because hemorrhage kills fastest.
 
-
 **Sources:**
+
 - [11] [Eastridge 2001](https://pubmed.ncbi.nlm.nih.gov/23192066/)
 - [18] American 2025
 
@@ -53,8 +51,8 @@ March 2026
 
 > **Bottom Line:** In exsanguination, stop the bleeding before managing the airway.
 
-
 **Sources:**
+
 - [11] [Eastridge 2001](https://pubmed.ncbi.nlm.nih.gov/23192066/)
 - [18] American 2025
 
@@ -69,8 +67,8 @@ March 2026
 
 > **Bottom Line:** Assess, protect, then secure the airway using a stepwise algorithm.
 
-
 **Sources:**
+
 - [15] [Mayglothling 2012](https://pubmed.ncbi.nlm.nih.gov/23114490/)
 - [16] [Brown 2020](https://pubmed.ncbi.nlm.nih.gov/33083558/)
 
@@ -85,8 +83,8 @@ March 2026
 
 > **Bottom Line:** GCS is one factor; clinical context determines the airway decision.
 
-
 **Sources:**
+
 - [10] [Hatchimonji 2021](https://pubmed.ncbi.nlm.nih.gov/32382780/)
 - [15] [Mayglothling 2012](https://pubmed.ncbi.nlm.nih.gov/23114490/)
 - [16] [Brown 2020](https://pubmed.ncbi.nlm.nih.gov/33083558/)
@@ -115,8 +113,8 @@ March 2026
 
 > **Bottom Line:** Treat first what kills first -- hemorrhage before airway in the exsanguinating patient.
 
-
 **Sources:**
+
 - [11] [Eastridge 2001](https://pubmed.ncbi.nlm.nih.gov/23192066/)
 - [18] American 2025
 
@@ -131,8 +129,8 @@ March 2026
 
 > **Bottom Line:** Suspected tension pneumothorax is treated, not imaged.
 
-
 **Sources:**
+
 - [17] [de 2022](https://pubmed.ncbi.nlm.nih.gov/34538823/)
 
 ---
@@ -146,8 +144,8 @@ March 2026
 
 > **Bottom Line:** Identify the bleeding source to direct surgical or interventional control.
 
-
 **Sources:**
+
 - [1] [Netherton 2019](https://pubmed.ncbi.nlm.nih.gov/31317856/)
 - [18] American 2025
 
@@ -162,8 +160,8 @@ March 2026
 
 > **Bottom Line:** Activate MTP on clinical criteria -- do not wait for a hemoglobin.
 
-
 **Sources:**
+
 - [2] [Vang 2022](https://pubmed.ncbi.nlm.nih.gov/35258641/)
 - [5] [Holcomb 2015](https://pubmed.ncbi.nlm.nih.gov/25647203/)
 - [8] [Nunez 2009](https://pubmed.ncbi.nlm.nih.gov/19204506/)
@@ -173,20 +171,20 @@ March 2026
 
 ## Class III and IV Hemorrhagic Shock Demand Immediate Blood Product Resuscitation
 
-| Parameter | Class I | Class II | Class III | Class IV |
-|-----------|---------|----------|-----------|----------|
-| **Blood loss** | <750 mL (<15%) | 750-1,500 mL (15-30%) | 1,500-2,000 mL (30-40%) | >2,000 mL (>40%) |
-| **Heart rate** | <100 | 100-120 | 120-140 | >140 |
-| **Blood pressure** | Normal | Normal | **Decreased** | **Decreased** |
-| **Respiratory rate** | 14-20 | 20-30 | 30-40 | >35 |
-| **Urine output** | >30 mL/h | 20-30 mL/h | 5-15 mL/h | Negligible |
-| **GCS** | 15 | 14-15 | 12-14 | <12 |
-| **Treatment** | Monitor | Possible transfusion | **Blood products** | **Massive transfusion** |
+| Parameter            | Class I        | Class II              | Class III               | Class IV                |
+| -------------------- | -------------- | --------------------- | ----------------------- | ----------------------- |
+| **Blood loss**       | <750 mL (<15%) | 750-1,500 mL (15-30%) | 1,500-2,000 mL (30-40%) | >2,000 mL (>40%)        |
+| **Heart rate**       | <100           | 100-120               | 120-140                 | >140                    |
+| **Blood pressure**   | Normal         | Normal                | **Decreased**           | **Decreased**           |
+| **Respiratory rate** | 14-20          | 20-30                 | 30-40                   | >35                     |
+| **Urine output**     | >30 mL/h       | 20-30 mL/h            | 5-15 mL/h               | Negligible              |
+| **GCS**              | 15             | 14-15                 | 12-14                   | <12                     |
+| **Treatment**        | Monitor        | Possible transfusion  | **Blood products**      | **Massive transfusion** |
 
 > **Bottom Line:** Our patient (HR 130, BP 80/50, GCS 8) fits Class III-IV -- activate MTP.
 
-
 **Sources:**
+
 - [18] American 2025
 
 ---
@@ -200,8 +198,8 @@ March 2026
 
 > **Bottom Line:** FAST rules in; it does not rule out -- a negative FAST demands further workup.
 
-
 **Sources:**
+
 - [1] [Netherton 2019](https://pubmed.ncbi.nlm.nih.gov/31317856/)
 
 ---
@@ -228,8 +226,8 @@ March 2026
 
 > **Bottom Line:** Positive FAST plus hemodynamic instability equals the operating room.
 
-
 **Sources:**
+
 - [1] [Netherton 2019](https://pubmed.ncbi.nlm.nih.gov/31317856/)
 - [12] [Cannon 2017](https://pubmed.ncbi.nlm.nih.gov/28225743/)
 - [13] [LaGrone 2024](https://pubmed.ncbi.nlm.nih.gov/37697470/)
@@ -245,8 +243,8 @@ March 2026
 
 > **Bottom Line:** Report GCS by components (E/V/M), not just the total -- motor matters most.
 
-
 **Sources:**
+
 - [10] [Hatchimonji 2021](https://pubmed.ncbi.nlm.nih.gov/32382780/)
 - [18] American 2025
 
@@ -261,8 +259,8 @@ March 2026
 
 > **Bottom Line:** Undress the patient to find injuries, then actively prevent hypothermia.
 
-
 **Sources:**
+
 - [12] [Cannon 2017](https://pubmed.ncbi.nlm.nih.gov/28225743/)
 - [13] [LaGrone 2024](https://pubmed.ncbi.nlm.nih.gov/37697470/)
 
@@ -301,5 +299,6 @@ March 2026
 17. de Moya M, Brasel KJ, Brown CVR, et al. Evaluation and management of traumatic pneumothorax: WTA critical decisions algorithm. J Trauma Acute Care Surg. 2022;92(1):103-107. PMID: [34538823](https://pubmed.ncbi.nlm.nih.gov/34538823/)
 18. American College of Surgeons Committee on Trauma. Advanced Trauma Life Support (ATLS) 11th Edition. Chicago, IL: ACS; 2025
 
+```
 
 ```

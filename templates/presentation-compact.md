@@ -147,13 +147,13 @@ in practical language the audience can remember.
 
 ## [Trial Name] [Changed/Showed/Established] [Key Finding]
 
-| Element | Detail |
-|---------|--------|
-| **Population** | [Brief description] |
-| **Intervention** | [Brief description] |
-| **Comparator** | [Brief description] |
+| Element             | Detail               |
+| ------------------- | -------------------- |
+| **Population**      | [Brief description]  |
+| **Intervention**    | [Brief description]  |
+| **Comparator**      | [Brief description]  |
 | **Primary Outcome** | **[Result with CI]** |
-| **NNT/NNH** | [Value] |
+| **NNT/NNH**         | [Value]              |
 
 > **Bottom Line:** [Max 12 words]
 
@@ -175,11 +175,11 @@ What changed in practice as a result?
 
 ## [Assertion About What the Data Shows — Complete Sentence]
 
-| [Column 1] | [Column 2] | [Column 3] | [Column 4] |
-|-------------|-------------|-------------|-------------|
-| [Data] | [Data] | [Data] | [Data] |
-| [Data] | [Data] | **[Key value]** | [Data] |
-| [Data] | [Data] | [Data] | [Data] |
+| [Column 1] | [Column 2] | [Column 3]      | [Column 4] |
+| ---------- | ---------- | --------------- | ---------- |
+| [Data]     | [Data]     | [Data]          | [Data]     |
+| [Data]     | [Data]     | **[Key value]** | [Data]     |
+| [Data]     | [Data]     | [Data]          | [Data]     |
 
 > **Bottom Line:** [Max 12 words]
 
@@ -246,11 +246,11 @@ represents. Reinforce the key principle being tested.
 
 ## [Assertion: What Guidelines Agree/Disagree On — Complete Sentence]
 
-| Recommendation | [Society 1] | [Society 2] | [Society 3] |
-|----------------|-------------|-------------|-------------|
-| [Topic 1] | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
-| [Topic 2] | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
-| [Topic 3] | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
+| Recommendation | [Society 1]   | [Society 2]   | [Society 3]   |
+| -------------- | ------------- | ------------- | ------------- |
+| [Topic 1]      | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
+| [Topic 2]      | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
+| [Topic 3]      | [Rec + Grade] | [Rec + Grade] | [Rec + Grade] |
 
 > **Bottom Line:** [Max 12 words]
 

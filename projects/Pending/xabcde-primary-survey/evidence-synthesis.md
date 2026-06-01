@@ -72,20 +72,21 @@ Tension pneumothorax develops via a one-way valve mechanism: air enters the pleu
 
 ### 4A. Comparison Matrix
 
-| Domain | ATLS 11th Ed (2025) | EAST | WEST | ACS-TQIP | TCCC/CoTCCC |
-|--------|---------------------|------|------|----------|-------------|
-| **Survey sequence** | xABCDE in penetrating; ABCDE retained for blunt without external hemorrhage | Supports xABCDE; hemorrhage emphasis throughout | Supports xABCDE universally | Aligned with ATLS 11th | MARCH (Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia) — X-equivalent universal |
-| **Hemorrhage control** | Tourniquet + wound packing first; pelvic binder for suspected pelvic fracture | Tourniquet for compressible extremity hemorrhage (Strong rec) | Tourniquet and wound packing; junctional tourniquet for groin/axilla | STOP THE BLEED framework; prehospital tourniquet | Tourniquet mandatory for extremity; junctional tourniquet for groin/axilla |
-| **Airway threshold** | GCS ≤8 + clinical assessment; RSI preferred | GCS ≤8 or inability to protect airway | GCS ≤8; early intubation for trajectory concerns | GCS ≤8 as standard threshold | Airway after hemorrhage control; surgical airway if RSI not feasible |
-| **Tension PTX** | Clinical diagnosis; needle decompression 2nd ICS MCL or 4th/5th ICS AAL | Clinical dx; do not delay for imaging | Clinical dx; some centers prefer finger thoracostomy over needle | Aligned with ATLS | Bilateral needle decompression in penetrating arrest |
-| **MTP activation** | ABC score ≥2 or shock index >1 or clinical gestalt | Validated scoring (ABC, shock index); no single gold standard | ABC score ≥2 as primary trigger | ABC score ≥2; clinical judgment paramount | Prehospital activation via radio; whole blood preferred |
-| **TXA** | Within 3 hours of injury; 1g IV over 10 min then 1g over 8 hours | Within 3 hours (Conditional; Moderate evidence) | Within 3 hours; warns against use >3h | Within 3 hours — aligned | Within 3 hours; high priority in hemorrhagic shock |
-| **Resuscitation fluid** | 1:1:1 balanced products preferred; limit crystalloid | 1:1:1 (Strong rec, High evidence) | 1:1:1; permissive hypotension SBP 80-90 until hemorrhage control | 1:1:1 standard; minimize crystalloid | Whole blood preferred; 1:1:1 as component alternative |
-| **Prehospital plasma** | Consider if transport >30 min | Insufficient evidence for strong rec | Supports prehospital plasma if available (PAMPer data) | Aligned with EAST | Prehospital whole blood or plasma if available |
+| Domain                  | ATLS 11th Ed (2025)                                                           | EAST                                                          | WEST                                                                 | ACS-TQIP                                         | TCCC/CoTCCC                                                                                        |
+| ----------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| **Survey sequence**     | xABCDE in penetrating; ABCDE retained for blunt without external hemorrhage   | Supports xABCDE; hemorrhage emphasis throughout               | Supports xABCDE universally                                          | Aligned with ATLS 11th                           | MARCH (Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia) — X-equivalent universal |
+| **Hemorrhage control**  | Tourniquet + wound packing first; pelvic binder for suspected pelvic fracture | Tourniquet for compressible extremity hemorrhage (Strong rec) | Tourniquet and wound packing; junctional tourniquet for groin/axilla | STOP THE BLEED framework; prehospital tourniquet | Tourniquet mandatory for extremity; junctional tourniquet for groin/axilla                         |
+| **Airway threshold**    | GCS ≤8 + clinical assessment; RSI preferred                                   | GCS ≤8 or inability to protect airway                         | GCS ≤8; early intubation for trajectory concerns                     | GCS ≤8 as standard threshold                     | Airway after hemorrhage control; surgical airway if RSI not feasible                               |
+| **Tension PTX**         | Clinical diagnosis; needle decompression 2nd ICS MCL or 4th/5th ICS AAL       | Clinical dx; do not delay for imaging                         | Clinical dx; some centers prefer finger thoracostomy over needle     | Aligned with ATLS                                | Bilateral needle decompression in penetrating arrest                                               |
+| **MTP activation**      | ABC score ≥2 or shock index >1 or clinical gestalt                            | Validated scoring (ABC, shock index); no single gold standard | ABC score ≥2 as primary trigger                                      | ABC score ≥2; clinical judgment paramount        | Prehospital activation via radio; whole blood preferred                                            |
+| **TXA**                 | Within 3 hours of injury; 1g IV over 10 min then 1g over 8 hours              | Within 3 hours (Conditional; Moderate evidence)               | Within 3 hours; warns against use >3h                                | Within 3 hours — aligned                         | Within 3 hours; high priority in hemorrhagic shock                                                 |
+| **Resuscitation fluid** | 1:1:1 balanced products preferred; limit crystalloid                          | 1:1:1 (Strong rec, High evidence)                             | 1:1:1; permissive hypotension SBP 80-90 until hemorrhage control     | 1:1:1 standard; minimize crystalloid             | Whole blood preferred; 1:1:1 as component alternative                                              |
+| **Prehospital plasma**  | Consider if transport >30 min                                                 | Insufficient evidence for strong rec                          | Supports prehospital plasma if available (PAMPer data)               | Aligned with EAST                                | Prehospital whole blood or plasma if available                                                     |
 
 ### 4B. Guideline Details
 
 **ATLS 11th Edition (2025) — ACS Committee on Trauma**
+
 - Key change from ATLS 10th: Formal adoption of xABCDE sequence — eXsanguination before Airway
 - "Treat first what kills first" — recognizes hemorrhage as more immediately lethal than airway obstruction in penetrating trauma with compressible external bleeding
 - Retains ABCDE for blunt trauma without obvious external hemorrhage; xABCDE for penetrating
@@ -93,17 +94,20 @@ Tension pneumothorax develops via a one-way valve mechanism: air enters the pleu
 - Citation: ATLS Student Course Manual, 11th Edition. American College of Surgeons, 2025. [Textbook — no PMID]
 
 **EAST Practice Management Guidelines**
+
 - "Damage Control Resuscitation in the Management of Traumatic Hemorrhagic Shock" — recommends 1:1:1 balanced resuscitation (Strong recommendation, High-quality evidence)
 - TXA within 3 hours (Conditional recommendation, Moderate-quality evidence)
 - MTP activation: validated scoring tools recommended; ABC score ≥2 is widely cited threshold
 - Available at east.org [individual guideline PMIDs require specific title search — PMID UNVERIFIED]
 
 **Western Trauma Association (WTA)**
+
 - WTA Critical Decisions Algorithm for Damage Control Resuscitation supports permissive hypotension (MAP 50 or SBP 80-90) in penetrating trauma until surgical hemorrhage control
 - Supports prehospital plasma based on PAMPer trial
 - WTA algorithms published in Journal of Trauma Acute Care Surg — [PMID UNVERIFIED without specific algorithm title]
 
 **ACS-TQIP Best Practices Guidelines**
+
 - Hemorrhage control: tourniquet, wound packing, pelvic binder, REBOA as bridge to OR
 - MTP: activate on ABC ≥2 or clinical judgment; target 1:1:1
 - Available at tqip.facs.org [institutional document — no PMID]
@@ -111,6 +115,7 @@ Tension pneumothorax develops via a one-way valve mechanism: air enters the pleu
 ### 4C. Consensus vs. Conflict
 
 **Strong consensus across all societies:**
+
 1. Hemorrhage is the leading cause of preventable trauma death
 2. External compressible hemorrhage must be controlled before or concurrent with airway management
 3. GCS ≤8 mandates definitive airway consideration
@@ -119,6 +124,7 @@ Tension pneumothorax develops via a one-way valve mechanism: air enters the pleu
 6. Balanced 1:1:1 resuscitation is preferred over crystalloid in hemorrhagic shock
 
 **Remaining areas of disagreement:**
+
 1. Whether xABCDE applies universally or only to penetrating trauma (ATLS 11th limits xABCDE to penetrating; MARCH/TCCC applies universally)
 2. Optimal prehospital fluid strategy: whole blood vs. plasma vs. component therapy
 3. REBOA vs. resuscitative thoracotomy thresholds and timing
@@ -130,30 +136,30 @@ Tension pneumothorax develops via a one-way valve mechanism: air enters the pleu
 
 ### 5A. Key Studies Table
 
-| # | Study | Year | Design | N | Key Finding | Effect Size (95% CI) | p-value | NNT | GRADE | Tier | PMID |
-|---|-------|------|--------|---|-------------|----------------------|---------|-----|-------|------|------|
-| 1 | CRASH-2 (Roberts et al.) | 2010 | RCT, multinational | 20,211 | TXA within 3h reduced hemorrhagic death; effect greatest <1h (RR 0.68) | All-cause mortality: RR 0.91 (0.85-0.97); Hemorrhagic death: RR 0.85 (0.76-0.96) | p=0.0035 (all-cause) | NNT ~67 all-cause; ~39 hemorrhagic death | High | 1B | **20554319** |
-| 2 | PROPPR (Holcomb et al.) | 2015 | RCT, 12 US Level 1 centers | 680 | 1:1:1 vs 1:1:2 pRBC:plasma:platelet — 1:1:1 improved 24h hemostasis and reduced 24h mortality | Hemostasis at 24h: 86% vs 78% (p=0.006); 30-day mortality: 22.4% vs 26.1% (OR 0.80, 95% CI 0.55-1.16) | p=0.006 (hemostasis) | NNT ~13 for hemostasis achievement | Moderate | 1B | **25647203** |
-| 3 | PAMPer (Sperry et al.) | 2018 | RCT, 9 helicopter EMS systems | 501 | Prehospital plasma vs. standard care — 30-day mortality reduced in patients with hemorrhagic shock | OR 0.55 (0.31-0.96) for 30-day mortality | p=0.03 | NNT ~15 | Moderate | 1B | **29443568** |
-| 4 | CRASH-3 (Collaborators) | 2019 | RCT, multinational | 12,737 | TXA in TBI within 3h reduced head injury death in mild-moderate TBI (GCS 9-15) | RR 0.78 (0.64-0.95) for mild-moderate TBI head injury death | p=0.013 | NNT ~42 mild-moderate TBI | Moderate | 1B | 31623894 [PMID UNVERIFIED] |
-| 5 | Holcomb/Cotton ABC Score | 2010 | Prospective cohort derivation + validation | 596 + 405 | ABC score ≥2 predicts MTP need; AUC 0.87 | Sensitivity 75%, Specificity 86%, AUC 0.87 (0.83-0.91) | p<0.001 | — | Moderate | 2B | PMID UNVERIFIED |
-| 6 | Vandromme (Shock Index) | 2011 | Retrospective cohort | 7,638 | Shock index >1.0 at triage predicts MTP need | OR 4.5 (3.3-6.2) for MTP requirement | p<0.001 | — | Low | 2B | PMID UNVERIFIED |
-| 7 | Eastridge et al. (preventable death) | 2012 | Retrospective registry (JTTR) | 4,596 | 24.3% of combat fatalities potentially survivable; 90.9% of those died from hemorrhage | — | — | — | Low | 2B | 23192066 [PMID UNVERIFIED] |
-| 8 | CRASH-2 timing subgroup | 2011 | Pre-specified subgroup of CRASH-2 | 20,211 | TXA benefit is time-dependent: <1h greatest benefit; >3h potential harm (RR 1.44 for hemorrhagic death) | <1h: RR 0.68 (0.57-0.82); >3h: RR 1.44 (1.12-1.84) | p<0.001 | — | High | 1B | PMID UNVERIFIED (Roberts 2011 Lancet) |
-| 9 | Stengel et al. (FAST meta-analysis) | 2018 | Systematic review/meta-analysis | Multiple RCTs/cohorts | FAST sensitivity 72.6%, specificity 93.8% for thoracoabdominal injuries | Sensitivity 72.6% (65.8-78.5%); Specificity 93.8% (91.1-95.8%) | — | — | Moderate | 1A | PMID UNVERIFIED |
-| 10 | MATTERs (Morrison et al.) | 2012 | Observational, combat | 896 | TXA in combat trauma with MTP reduced mortality; OR 0.46 | OR 0.46 (0.24-0.87) in MTP cohort | p=0.017 | NNT ~8 in MTP cohort | Low | 2B | 22006111 [PMID UNVERIFIED] |
+| #   | Study                                | Year | Design                                     | N                     | Key Finding                                                                                             | Effect Size (95% CI)                                                                                  | p-value              | NNT                                      | GRADE    | Tier | PMID                                  |
+| --- | ------------------------------------ | ---- | ------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------- | -------- | ---- | ------------------------------------- |
+| 1   | CRASH-2 (Roberts et al.)             | 2010 | RCT, multinational                         | 20,211                | TXA within 3h reduced hemorrhagic death; effect greatest <1h (RR 0.68)                                  | All-cause mortality: RR 0.91 (0.85-0.97); Hemorrhagic death: RR 0.85 (0.76-0.96)                      | p=0.0035 (all-cause) | NNT ~67 all-cause; ~39 hemorrhagic death | High     | 1B   | **20554319**                          |
+| 2   | PROPPR (Holcomb et al.)              | 2015 | RCT, 12 US Level 1 centers                 | 680                   | 1:1:1 vs 1:1:2 pRBC:plasma:platelet — 1:1:1 improved 24h hemostasis and reduced 24h mortality           | Hemostasis at 24h: 86% vs 78% (p=0.006); 30-day mortality: 22.4% vs 26.1% (OR 0.80, 95% CI 0.55-1.16) | p=0.006 (hemostasis) | NNT ~13 for hemostasis achievement       | Moderate | 1B   | **25647203**                          |
+| 3   | PAMPer (Sperry et al.)               | 2018 | RCT, 9 helicopter EMS systems              | 501                   | Prehospital plasma vs. standard care — 30-day mortality reduced in patients with hemorrhagic shock      | OR 0.55 (0.31-0.96) for 30-day mortality                                                              | p=0.03               | NNT ~15                                  | Moderate | 1B   | **29443568**                          |
+| 4   | CRASH-3 (Collaborators)              | 2019 | RCT, multinational                         | 12,737                | TXA in TBI within 3h reduced head injury death in mild-moderate TBI (GCS 9-15)                          | RR 0.78 (0.64-0.95) for mild-moderate TBI head injury death                                           | p=0.013              | NNT ~42 mild-moderate TBI                | Moderate | 1B   | 31623894 [PMID UNVERIFIED]            |
+| 5   | Holcomb/Cotton ABC Score             | 2010 | Prospective cohort derivation + validation | 596 + 405             | ABC score ≥2 predicts MTP need; AUC 0.87                                                                | Sensitivity 75%, Specificity 86%, AUC 0.87 (0.83-0.91)                                                | p<0.001              | —                                        | Moderate | 2B   | PMID UNVERIFIED                       |
+| 6   | Vandromme (Shock Index)              | 2011 | Retrospective cohort                       | 7,638                 | Shock index >1.0 at triage predicts MTP need                                                            | OR 4.5 (3.3-6.2) for MTP requirement                                                                  | p<0.001              | —                                        | Low      | 2B   | PMID UNVERIFIED                       |
+| 7   | Eastridge et al. (preventable death) | 2012 | Retrospective registry (JTTR)              | 4,596                 | 24.3% of combat fatalities potentially survivable; 90.9% of those died from hemorrhage                  | —                                                                                                     | —                    | —                                        | Low      | 2B   | 23192066 [PMID UNVERIFIED]            |
+| 8   | CRASH-2 timing subgroup              | 2011 | Pre-specified subgroup of CRASH-2          | 20,211                | TXA benefit is time-dependent: <1h greatest benefit; >3h potential harm (RR 1.44 for hemorrhagic death) | <1h: RR 0.68 (0.57-0.82); >3h: RR 1.44 (1.12-1.84)                                                    | p<0.001              | —                                        | High     | 1B   | PMID UNVERIFIED (Roberts 2011 Lancet) |
+| 9   | Stengel et al. (FAST meta-analysis)  | 2018 | Systematic review/meta-analysis            | Multiple RCTs/cohorts | FAST sensitivity 72.6%, specificity 93.8% for thoracoabdominal injuries                                 | Sensitivity 72.6% (65.8-78.5%); Specificity 93.8% (91.1-95.8%)                                        | —                    | —                                        | Moderate | 1A   | PMID UNVERIFIED                       |
+| 10  | MATTERs (Morrison et al.)            | 2012 | Observational, combat                      | 896                   | TXA in combat trauma with MTP reduced mortality; OR 0.46                                                | OR 0.46 (0.24-0.87) in MTP cohort                                                                     | p=0.017              | NNT ~8 in MTP cohort                     | Low      | 2B   | 22006111 [PMID UNVERIFIED]            |
 
 ### 5B. PMID Confidence Classification
 
-| PMID | Study | Confidence Level |
-|------|-------|-----------------|
-| **20554319** | CRASH-2 (Lancet, 2010) | HIGH — confirmed landmark trial |
-| **25647203** | PROPPR (JAMA, 2015) | HIGH — confirmed landmark trial |
-| **29443568** | PAMPer (NEJM, 2018) | HIGH — confirmed landmark trial |
-| 31623894 | CRASH-3 (Lancet, 2019) | [PMID UNVERIFIED] |
-| 23192066 | Eastridge 2012 (J Trauma) | [PMID UNVERIFIED] |
-| 22006111 | MATTERs (Arch Surg, 2012) | [PMID UNVERIFIED] |
-| All others | — | [PMID UNVERIFIED] |
+| PMID         | Study                     | Confidence Level                |
+| ------------ | ------------------------- | ------------------------------- |
+| **20554319** | CRASH-2 (Lancet, 2010)    | HIGH — confirmed landmark trial |
+| **25647203** | PROPPR (JAMA, 2015)       | HIGH — confirmed landmark trial |
+| **29443568** | PAMPer (NEJM, 2018)       | HIGH — confirmed landmark trial |
+| 31623894     | CRASH-3 (Lancet, 2019)    | [PMID UNVERIFIED]               |
+| 23192066     | Eastridge 2012 (J Trauma) | [PMID UNVERIFIED]               |
+| 22006111     | MATTERs (Arch Surg, 2012) | [PMID UNVERIFIED]               |
+| All others   | —                         | [PMID UNVERIFIED]               |
 
 Run `python scripts/verify_citations.py` before any slide is authored.
 
@@ -223,28 +229,29 @@ REASSESSMENT + SECONDARY SURVEY (after life threats controlled)
 
 ### 6B. ABC Score (Assessment of Blood Consumption)
 
-| Criterion | Points |
-|-----------|--------|
-| Penetrating mechanism | 1 |
-| SBP ≤90 mmHg on arrival | 1 |
-| HR ≥120 bpm on arrival | 1 |
-| Positive FAST (free fluid) | 1 |
+| Criterion                  | Points |
+| -------------------------- | ------ |
+| Penetrating mechanism      | 1      |
+| SBP ≤90 mmHg on arrival    | 1      |
+| HR ≥120 bpm on arrival     | 1      |
+| Positive FAST (free fluid) | 1      |
 
 **Score ≥2 → Activate MTP** (Sensitivity 75%, Specificity 86%, AUC 0.87)
 
 Also use: **Shock Index = HR / SBP**
+
 - Normal: 0.5-0.7 | Elevated: >1.0 | Critical: >1.4
 
 ### 6C. ATLS Hemorrhagic Shock Classification (ATLS 11th Edition)
 
-| Class | Blood Loss | HR (bpm) | SBP | Pulse Pressure | RR | GCS | Urine Output | Treatment |
-|-------|------------|----------|-----|---------------|-----|-----|-------------|-----------|
-| I | <750 mL (<15%) | <100 | Normal | Normal or increased | 14-20 | 15 | >30 mL/hr | Observation; crystalloid if needed |
-| II | 750-1500 mL (15-30%) | 100-120 | Normal | Decreased | 20-30 | 13-14 | 20-30 mL/hr | Crystalloid; type and screen |
-| III | 1500-2000 mL (30-40%) | 120-140 | Decreased | Decreased | 30-40 | 11-12 | 5-15 mL/hr | Blood products; consider MTP |
-| IV | >2000 mL (>40%) | >140 | Markedly decreased | Markedly decreased | >40 | <11 | <5 mL/hr | MTP activate; emergent OR |
+| Class | Blood Loss            | HR (bpm) | SBP                | Pulse Pressure      | RR    | GCS   | Urine Output | Treatment                          |
+| ----- | --------------------- | -------- | ------------------ | ------------------- | ----- | ----- | ------------ | ---------------------------------- |
+| I     | <750 mL (<15%)        | <100     | Normal             | Normal or increased | 14-20 | 15    | >30 mL/hr    | Observation; crystalloid if needed |
+| II    | 750-1500 mL (15-30%)  | 100-120  | Normal             | Decreased           | 20-30 | 13-14 | 20-30 mL/hr  | Crystalloid; type and screen       |
+| III   | 1500-2000 mL (30-40%) | 120-140  | Decreased          | Decreased           | 30-40 | 11-12 | 5-15 mL/hr   | Blood products; consider MTP       |
+| IV    | >2000 mL (>40%)       | >140     | Markedly decreased | Markedly decreased  | >40   | <11   | <5 mL/hr     | MTP activate; emergent OR          |
 
-*Clinical pearl: Healthy young adults maintain SBP until 30-40% blood loss. Use shock index and GCS trend — do not rely on SBP alone for early shock detection.*
+_Clinical pearl: Healthy young adults maintain SBP until 30-40% blood loss. Use shock index and GCS trend — do not rely on SBP alone for early shock detection._
 
 ### 6D. Special Populations
 
@@ -259,14 +266,14 @@ Also use: **Shock Index = HR / SBP**
 
 ## MODULE 7: COMPLICATIONS AND MANAGEMENT
 
-| Complication | Incidence | Mortality Impact | Prevention | Management | PMID |
-|-------------|-----------|-----------------|------------|------------|------|
-| Unrecognized tension PTX | ~1-3% of intubated trauma | ~4-fold increase in in-hospital death | Clinical exam before imaging; bilateral decomp in arrest | Immediate needle decompression + chest tube | PMID UNVERIFIED |
-| Failed/missed airway | ~1-2% of trauma intubations | High — hypoxic arrest | Video laryngoscopy as first-line; pre-planned surgical airway | Surgical cricothyrotomy; cannot intubate cannot oxygenate protocol | PMID UNVERIFIED |
-| Dilutional coagulopathy from crystalloid overload | Common pre-2010; reduced with DCR | Worsens coagulopathy, increases ARDS, abdominal compartment syndrome | 1:1:1 protocol; limit crystalloid <1L before blood | FFP + platelet correction; reassess 1:1:1 ratio | PMID UNVERIFIED |
-| Hypothermia (<35°C) | 12-66% of major trauma | OR ~2-3 for mortality; strongly worsens coagulopathy | Warm OR, warm fluids, forced-air warming blankets from arrival | Active rewarming; warm blood products; remove wet clothing immediately | PMID UNVERIFIED |
-| TXA given >3 hours post-injury | Variable — may increase if not enforced | Potential harm: RR 1.44 (1.12-1.84) for hemorrhagic death (CRASH-2 subgroup) | Strict 3-hour window; use injury time not arrival time | Do not administer if >3h from injury onset | 20554319 |
-| False-negative FAST | ~27% of significant hemoperitoneum | Delayed operative hemorrhage control | Sensitivity only 73% — FAST does not exclude injury | Serial abdominal exams; CT if hemodynamically stable; ex-lap if unstable + high suspicion | PMID UNVERIFIED |
+| Complication                                      | Incidence                               | Mortality Impact                                                             | Prevention                                                     | Management                                                                                | PMID            |
+| ------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------- |
+| Unrecognized tension PTX                          | ~1-3% of intubated trauma               | ~4-fold increase in in-hospital death                                        | Clinical exam before imaging; bilateral decomp in arrest       | Immediate needle decompression + chest tube                                               | PMID UNVERIFIED |
+| Failed/missed airway                              | ~1-2% of trauma intubations             | High — hypoxic arrest                                                        | Video laryngoscopy as first-line; pre-planned surgical airway  | Surgical cricothyrotomy; cannot intubate cannot oxygenate protocol                        | PMID UNVERIFIED |
+| Dilutional coagulopathy from crystalloid overload | Common pre-2010; reduced with DCR       | Worsens coagulopathy, increases ARDS, abdominal compartment syndrome         | 1:1:1 protocol; limit crystalloid <1L before blood             | FFP + platelet correction; reassess 1:1:1 ratio                                           | PMID UNVERIFIED |
+| Hypothermia (<35°C)                               | 12-66% of major trauma                  | OR ~2-3 for mortality; strongly worsens coagulopathy                         | Warm OR, warm fluids, forced-air warming blankets from arrival | Active rewarming; warm blood products; remove wet clothing immediately                    | PMID UNVERIFIED |
+| TXA given >3 hours post-injury                    | Variable — may increase if not enforced | Potential harm: RR 1.44 (1.12-1.84) for hemorrhagic death (CRASH-2 subgroup) | Strict 3-hour window; use injury time not arrival time         | Do not administer if >3h from injury onset                                                | 20554319        |
+| False-negative FAST                               | ~27% of significant hemoperitoneum      | Delayed operative hemorrhage control                                         | Sensitivity only 73% — FAST does not exclude injury            | Serial abdominal exams; CT if hemodynamically stable; ex-lap if unstable + high suspicion | PMID UNVERIFIED |
 
 ---
 
@@ -304,38 +311,43 @@ Also use: **Shock Index = HR / SBP**
 
 ### Top 10 Clinical Pearls for xABCDE
 
-| # | Pearl | Evidence | PMID |
-|---|-------|----------|------|
-| 1 | Hemorrhage kills faster than airway obstruction in penetrating trauma — apply tourniquet before laryngoscope | Military preventable death data; ATLS 11th xABCDE | 23192066 [UNVERIFIED] |
-| 2 | TXA has a hard 3-hour window — late TXA (>3h) trends toward increased hemorrhagic death (RR 1.44) | CRASH-2 time-sensitivity analysis | 20554319 |
-| 3 | FAST is a rule-IN tool only — sensitivity ~73%; negative FAST cannot exclude hemoperitoneum | SR: sensitivity 72.6%, specificity 93.8% | PMID UNVERIFIED |
-| 4 | Tension PTX is a clinical diagnosis — needle decompression before any imaging | ATLS standard; imaging delay has caused preventable deaths | ATLS 11th Ed |
-| 5 | GCS ≤8 = strongly consider intubation; motor score is the most predictive single component | ATLS threshold; validated in TBI cohort literature | PMID UNVERIFIED |
-| 6 | Shock index >1 at triage is associated with 4.5-fold increase in MTP need | Vandromme et al. n=7,638 retrospective cohort | PMID UNVERIFIED |
-| 7 | 1:1:1 resuscitation achieves hemostasis in 86% vs 78% with 1:1:2 at 24h (p=0.006) | PROPPR RCT n=680 | 25647203 |
-| 8 | Permissive hypotension (SBP 80-90) is appropriate in penetrating until hemorrhage control — NEVER in TBI | WTA algorithm; TBI autoregulation physiology | PMID UNVERIFIED |
-| 9 | Hypothermia <35°C worsens coagulopathy catastrophically — warm aggressively from the moment of arrival | Lethal triad pathophysiology; operative mortality data | PMID UNVERIFIED |
-| 10 | Prehospital plasma for transports >20 min reduces 30-day mortality ~45% (NNT ~15, OR 0.55) | PAMPer RCT | 29443568 |
+| #   | Pearl                                                                                                        | Evidence                                                   | PMID                  |
+| --- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | --------------------- |
+| 1   | Hemorrhage kills faster than airway obstruction in penetrating trauma — apply tourniquet before laryngoscope | Military preventable death data; ATLS 11th xABCDE          | 23192066 [UNVERIFIED] |
+| 2   | TXA has a hard 3-hour window — late TXA (>3h) trends toward increased hemorrhagic death (RR 1.44)            | CRASH-2 time-sensitivity analysis                          | 20554319              |
+| 3   | FAST is a rule-IN tool only — sensitivity ~73%; negative FAST cannot exclude hemoperitoneum                  | SR: sensitivity 72.6%, specificity 93.8%                   | PMID UNVERIFIED       |
+| 4   | Tension PTX is a clinical diagnosis — needle decompression before any imaging                                | ATLS standard; imaging delay has caused preventable deaths | ATLS 11th Ed          |
+| 5   | GCS ≤8 = strongly consider intubation; motor score is the most predictive single component                   | ATLS threshold; validated in TBI cohort literature         | PMID UNVERIFIED       |
+| 6   | Shock index >1 at triage is associated with 4.5-fold increase in MTP need                                    | Vandromme et al. n=7,638 retrospective cohort              | PMID UNVERIFIED       |
+| 7   | 1:1:1 resuscitation achieves hemostasis in 86% vs 78% with 1:1:2 at 24h (p=0.006)                            | PROPPR RCT n=680                                           | 25647203              |
+| 8   | Permissive hypotension (SBP 80-90) is appropriate in penetrating until hemorrhage control — NEVER in TBI     | WTA algorithm; TBI autoregulation physiology               | PMID UNVERIFIED       |
+| 9   | Hypothermia <35°C worsens coagulopathy catastrophically — warm aggressively from the moment of arrival       | Lethal triad pathophysiology; operative mortality data     | PMID UNVERIFIED       |
+| 10  | Prehospital plasma for transports >20 min reduces 30-day mortality ~45% (NNT ~15, OR 0.55)                   | PAMPer RCT                                                 | 29443568              |
 
 ### Common Pitfalls
 
 **Pitfall 1: Proceeding to RSI before controlling obvious arterial hemorrhage**
+
 - Why it is wrong: RSI setup takes 3-5 minutes. A femoral arterial bleed at 300 mL/min produces >1 liter loss during intubation. The X step (tourniquet application) takes 15-30 seconds.
 - Correct approach: Tourniquet or wound packing FIRST for any visible extremity or junctional hemorrhage, then move to airway.
 
 **Pitfall 2: Giving TXA after the 3-hour window**
+
 - Why it is wrong: CRASH-2 subgroup showed RR 1.44 (95% CI 1.12-1.84) for hemorrhagic death when TXA was given >3 hours after injury. Fibrinolysis largely resolves after 3 hours and TXA may promote pathologic clot.
 - Correct approach: Strictly enforce the 3-hour cutoff based on injury time, not arrival time. When uncertain, give early rather than wait.
 
 **Pitfall 3: Using negative FAST to rule out intra-abdominal injury**
+
 - Why it is wrong: FAST sensitivity is only ~73% for hemoperitoneum. Up to 27% of patients with significant bleeding — especially early (<500 mL) or retroperitoneal — will have a false-negative FAST.
 - Correct approach: Negative FAST + hemodynamic instability = CT scan if stable, or empiric operative exploration if unstable. Never downgrade based on negative FAST alone.
 
 **Pitfall 4: Relying on blood pressure alone to screen for hemorrhagic shock**
+
 - Why it is wrong: Young healthy adults compensate and maintain near-normal SBP until 30-40% blood volume loss (Class III). By the time SBP drops, the patient is already in Class III-IV shock.
 - Correct approach: Use shock index (HR/SBP), HR trend, GCS, and skin signs. A patient with HR 120 and normal BP has Class II shock.
 
 **Pitfall 5: Treating hypothermia as a late concern**
+
 - Why it is wrong: Hypothermia <35°C is part of the lethal triad and independently doubles mortality through impaired coagulation enzyme kinetics. Patients resuscitated with cold IV fluids and left uncovered enter the triad rapidly.
 - Correct approach: Active warming from arrival: warm IV fluids, forced-air warming blanket, warm OR (>24°C ambient), warm blood products. Do not wait for hypothermia to develop.
 
@@ -343,20 +355,20 @@ Also use: **Shock Index = HR / SBP**
 
 ## MODULE 10: GRADE RATINGS SUMMARY
 
-| Recommendation | Evidence Base | GRADE Certainty | Strength |
-|---------------|---------------|-----------------|---------|
-| TXA within 3 hours of injury for bleeding trauma | CRASH-2 RCT n=20,211; Tier 1B | **High** | Strong |
-| 1:1:1 balanced blood product resuscitation | PROPPR RCT n=680; Tier 1B | **Moderate** | Strong |
-| Prehospital plasma for transports >20-30 min | PAMPer RCT n=501; Tier 1B | **Moderate** | Conditional |
-| MTP activation at ABC score ≥2 | Prospective cohort n=1,001; Tier 2B | **Moderate** | Strong (within context) |
-| Tourniquet for compressible extremity hemorrhage | Military/civilian retrospective cohorts; Tier 2B | **Low** (RCT not feasible) | Strong (clinical necessity) |
-| Clinical diagnosis of tension PTX (no imaging delay) | Expert consensus + case series; Tier 4 | **Low** (but harm of delay is unambiguous) | Strong |
-| GCS ≤8 as intubation consideration threshold | Observational cohorts; Tier 2B | **Moderate** | Strong |
-| Permissive hypotension SBP 80-90 in penetrating (without TBI) | Observational cohorts; Tier 2B | **Low** | Conditional — TBI is absolute contraindication |
-| xABCDE sequence (X before A) in penetrating | Military registry + observational; Tier 2B | **Low** (no RCT feasible) | Strong — ATLS 11th standard of care |
-| FAST for initial hemoperitoneum detection | SR/meta-analysis; Tier 1A | **Moderate** | Strong as initial screening tool; sensitivity limitations acknowledged |
-| TXA for mild-moderate TBI within 3 hours | CRASH-3 RCT n=12,737; Tier 1B | **Moderate** | Conditional |
-| Do NOT administer TXA >3 hours after injury | CRASH-2 timing subgroup; Tier 1B subgroup | **Moderate** | Strong (potential harm demonstrated) |
+| Recommendation                                                | Evidence Base                                    | GRADE Certainty                            | Strength                                                               |
+| ------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------ | ---------------------------------------------------------------------- |
+| TXA within 3 hours of injury for bleeding trauma              | CRASH-2 RCT n=20,211; Tier 1B                    | **High**                                   | Strong                                                                 |
+| 1:1:1 balanced blood product resuscitation                    | PROPPR RCT n=680; Tier 1B                        | **Moderate**                               | Strong                                                                 |
+| Prehospital plasma for transports >20-30 min                  | PAMPer RCT n=501; Tier 1B                        | **Moderate**                               | Conditional                                                            |
+| MTP activation at ABC score ≥2                                | Prospective cohort n=1,001; Tier 2B              | **Moderate**                               | Strong (within context)                                                |
+| Tourniquet for compressible extremity hemorrhage              | Military/civilian retrospective cohorts; Tier 2B | **Low** (RCT not feasible)                 | Strong (clinical necessity)                                            |
+| Clinical diagnosis of tension PTX (no imaging delay)          | Expert consensus + case series; Tier 4           | **Low** (but harm of delay is unambiguous) | Strong                                                                 |
+| GCS ≤8 as intubation consideration threshold                  | Observational cohorts; Tier 2B                   | **Moderate**                               | Strong                                                                 |
+| Permissive hypotension SBP 80-90 in penetrating (without TBI) | Observational cohorts; Tier 2B                   | **Low**                                    | Conditional — TBI is absolute contraindication                         |
+| xABCDE sequence (X before A) in penetrating                   | Military registry + observational; Tier 2B       | **Low** (no RCT feasible)                  | Strong — ATLS 11th standard of care                                    |
+| FAST for initial hemoperitoneum detection                     | SR/meta-analysis; Tier 1A                        | **Moderate**                               | Strong as initial screening tool; sensitivity limitations acknowledged |
+| TXA for mild-moderate TBI within 3 hours                      | CRASH-3 RCT n=12,737; Tier 1B                    | **Moderate**                               | Conditional                                                            |
+| Do NOT administer TXA >3 hours after injury                   | CRASH-2 timing subgroup; Tier 1B subgroup        | **Moderate**                               | Strong (potential harm demonstrated)                                   |
 
 ---
 
@@ -365,43 +377,50 @@ Also use: **Shock Index = HR / SBP**
 ### PubMed Search Strings Used (Trauma Domain Template Applied)
 
 **Search 1 — Guidelines:**
+
 ```
-(xABCDE OR "primary survey" OR ATLS) AND (guidelines OR "practice management") 
+(xABCDE OR "primary survey" OR ATLS) AND (guidelines OR "practice management")
 AND (EAST OR WEST OR ATLS OR "ACS-TQIP" OR "Committee on Trauma")
 ```
 
 **Search 2 — RCTs (TXA):**
+
 ```
 "tranexamic acid" AND (randomized controlled trial[pt] OR RCT) AND (trauma OR hemorrhage OR injury)
 Filters: humans, English
 ```
 
 **Search 3 — RCTs (Resuscitation):**
+
 ```
 ("massive transfusion" OR "damage control resuscitation" OR "balanced resuscitation")
 AND randomized controlled trial AND trauma
 ```
 
 **Search 4 — MTP Activation:**
+
 ```
-("massive transfusion protocol" OR "ABC score" OR "shock index") AND trauma 
+("massive transfusion protocol" OR "ABC score" OR "shock index") AND trauma
 AND (prediction OR activation OR criteria OR validation)
 ```
 
 **Search 5 — Prehospital:**
+
 ```
-("prehospital plasma" OR "pre-hospital plasma" OR "prehospital blood") AND trauma 
+("prehospital plasma" OR "pre-hospital plasma" OR "prehospital blood") AND trauma
 AND (mortality OR outcomes OR randomized)
 ```
 
 **Search 6 — Landmark Studies:**
+
 ```
 ("CRASH-2" OR "PROPPR" OR "PAMPer" OR "CRASH-3") AND trauma
 ```
 
 **Search 7 — FAST Accuracy:**
+
 ```
-FAST AND (trauma OR hemoperitoneum) AND (sensitivity OR specificity OR accuracy) 
+FAST AND (trauma OR hemoperitoneum) AND (sensitivity OR specificity OR accuracy)
 AND (meta-analysis OR systematic review)
 ```
 
@@ -413,35 +432,35 @@ AND (meta-analysis OR systematic review)
 
 ### Tier 1B — High-Quality RCTs
 
-[1] CRASH-2 trial collaborators; Shakur H, Roberts I, et al. Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial. *Lancet.* 2010;376(9734):23-32. **PMID: 20554319**
+[1] CRASH-2 trial collaborators; Shakur H, Roberts I, et al. Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial. _Lancet._ 2010;376(9734):23-32. **PMID: 20554319**
 
-[2] Holcomb JB, Tilley BC, Baraniuk S, et al. Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio and mortality in patients with severe trauma: the PROPPR randomized clinical trial. *JAMA.* 2015;313(5):471-482. **PMID: 25647203**
+[2] Holcomb JB, Tilley BC, Baraniuk S, et al. Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio and mortality in patients with severe trauma: the PROPPR randomized clinical trial. _JAMA._ 2015;313(5):471-482. **PMID: 25647203**
 
-[3] Sperry JL, Guyette FX, Brown JB, et al. Prehospital plasma during air medical transport in trauma patients at risk for hemorrhagic shock. *N Engl J Med.* 2018;379(4):315-326. **PMID: 29443568**
+[3] Sperry JL, Guyette FX, Brown JB, et al. Prehospital plasma during air medical transport in trauma patients at risk for hemorrhagic shock. _N Engl J Med._ 2018;379(4):315-326. **PMID: 29443568**
 
-[4] CRASH-3 trial collaborators. Effects of tranexamic acid on death, disability, vascular occlusive events and other morbidities in patients with acute traumatic brain injury (CRASH-3). *Lancet.* 2019;394(10210):1713-1723. **PMID: 31623894** [PMID UNVERIFIED — must confirm]
+[4] CRASH-3 trial collaborators. Effects of tranexamic acid on death, disability, vascular occlusive events and other morbidities in patients with acute traumatic brain injury (CRASH-3). _Lancet._ 2019;394(10210):1713-1723. **PMID: 31623894** [PMID UNVERIFIED — must confirm]
 
 ### Tier 2B — Cohort Studies and Observational Evidence
 
-[5] Eastridge BJ, Mabry RL, Seguin P, et al. Death on the battlefield (2001-2011): implications for the future of combat casualty care. *J Trauma Acute Care Surg.* 2012;73(6 Suppl 5):S431-7. **PMID: 23192066** [PMID UNVERIFIED — must confirm]
+[5] Eastridge BJ, Mabry RL, Seguin P, et al. Death on the battlefield (2001-2011): implications for the future of combat casualty care. _J Trauma Acute Care Surg._ 2012;73(6 Suppl 5):S431-7. **PMID: 23192066** [PMID UNVERIFIED — must confirm]
 
-[6] Morrison JJ, Dubose JJ, Rasmussen TE, Midwinter MJ. Military Application of Tranexamic Acid in Trauma Emergency Resuscitation (MATTERs) Study. *Arch Surg.* 2012;147(2):113-119. **PMID: 22006111** [PMID UNVERIFIED — must confirm]
+[6] Morrison JJ, Dubose JJ, Rasmussen TE, Midwinter MJ. Military Application of Tranexamic Acid in Trauma Emergency Resuscitation (MATTERs) Study. _Arch Surg._ 2012;147(2):113-119. **PMID: 22006111** [PMID UNVERIFIED — must confirm]
 
-[7] Roberts I, Shakur H, Afolabi A, et al. The importance of early treatment with tranexamic acid in bleeding trauma patients: an exploratory analysis of the CRASH-2 randomised controlled trial. *Lancet.* 2011;377(9771):1096-1101. **PMID UNVERIFIED** (Roberts 2011 timing subgroup)
+[7] Roberts I, Shakur H, Afolabi A, et al. The importance of early treatment with tranexamic acid in bleeding trauma patients: an exploratory analysis of the CRASH-2 randomised controlled trial. _Lancet._ 2011;377(9771):1096-1101. **PMID UNVERIFIED** (Roberts 2011 timing subgroup)
 
-[8] Vandromme MJ, Griffin RL, Kerby JD, et al. Identifying risk for massive transfusion in the relatively normotensive patient: utility of the prehospital shock index. *J Trauma.* 2011;70(2):384-390. **PMID UNVERIFIED**
+[8] Vandromme MJ, Griffin RL, Kerby JD, et al. Identifying risk for massive transfusion in the relatively normotensive patient: utility of the prehospital shock index. _J Trauma._ 2011;70(2):384-390. **PMID UNVERIFIED**
 
-[9] Stengel D, Leisterer J, Ferrada P, et al. Point-of-care ultrasonography for diagnosing thoracoabdominal injuries in patients with blunt trauma. *Cochrane Database Syst Rev.* 2018;12(12):CD012669. **PMID UNVERIFIED**
+[9] Stengel D, Leisterer J, Ferrada P, et al. Point-of-care ultrasonography for diagnosing thoracoabdominal injuries in patients with blunt trauma. _Cochrane Database Syst Rev._ 2018;12(12):CD012669. **PMID UNVERIFIED**
 
 ### Tier 4 — Guidelines and Expert Consensus
 
-[10] American College of Surgeons Committee on Trauma. *ATLS: Advanced Trauma Life Support — Student Course Manual, 11th Edition.* Chicago: American College of Surgeons; 2025. [Textbook — no PMID]
+[10] American College of Surgeons Committee on Trauma. _ATLS: Advanced Trauma Life Support — Student Course Manual, 11th Edition._ Chicago: American College of Surgeons; 2025. [Textbook — no PMID]
 
-[11] American College of Surgeons Trauma Quality Improvement Program. *ACS-TQIP Massive Transfusion in Trauma Best Practices Guidelines.* Chicago: American College of Surgeons; 2014. Available at: facs.org/quality-programs/trauma/tqip [No PMID — institutional document]
+[11] American College of Surgeons Trauma Quality Improvement Program. _ACS-TQIP Massive Transfusion in Trauma Best Practices Guidelines._ Chicago: American College of Surgeons; 2014. Available at: facs.org/quality-programs/trauma/tqip [No PMID — institutional document]
 
 [12] Eastern Association for the Surgery of Trauma (EAST). Practice Management Guidelines — Hemorrhagic Shock and Damage Control Resuscitation. Available at east.org. [Individual PMID by specific guideline — PMID UNVERIFIED without specific guideline title]
 
-[13] Trunkey DD. Trauma. *Sci Am.* 1983;249(2):28-35. [Historical reference — trimodal death distribution. PMID UNVERIFIED]
+[13] Trunkey DD. Trauma. _Sci Am._ 1983;249(2):28-35. [Historical reference — trimodal death distribution. PMID UNVERIFIED]
 
 ---
 
@@ -464,7 +483,7 @@ AND (meta-analysis OR systematic review)
 
 ---
 
-*Generated by: Scientist agent (TEFv3 evidence synthesis pipeline)*
-*Date: 2026-03-22*
-*Model: claude-sonnet-4-6*
-*Next step: Citation verification pass, then slide authoring*
+_Generated by: Scientist agent (TEFv3 evidence synthesis pipeline)_
+_Date: 2026-03-22_
+_Model: claude-sonnet-4-6_
+_Next step: Citation verification pass, then slide authoring_

@@ -255,15 +255,15 @@ When do you activate a massive transfusion protocol? You do not wait for lab res
 
 ## Class III and IV Hemorrhagic Shock Demand Immediate Blood Product Resuscitation
 
-| Parameter | Class I | Class II | Class III | Class IV |
-|-----------|---------|----------|-----------|----------|
-| **Blood loss** | <750 mL (<15%) | 750-1,500 mL (15-30%) | 1,500-2,000 mL (30-40%) | >2,000 mL (>40%) |
-| **Heart rate** | <100 | 100-120 | 120-140 | >140 |
-| **Blood pressure** | Normal | Normal | **Decreased** | **Decreased** |
-| **Respiratory rate** | 14-20 | 20-30 | 30-40 | >35 |
-| **Urine output** | >30 mL/h | 20-30 mL/h | 5-15 mL/h | Negligible |
-| **GCS** | 15 | 14-15 | 12-14 | <12 |
-| **Treatment** | Monitor | Possible transfusion | **Blood products** | **Massive transfusion** |
+| Parameter            | Class I        | Class II              | Class III               | Class IV                |
+| -------------------- | -------------- | --------------------- | ----------------------- | ----------------------- |
+| **Blood loss**       | <750 mL (<15%) | 750-1,500 mL (15-30%) | 1,500-2,000 mL (30-40%) | >2,000 mL (>40%)        |
+| **Heart rate**       | <100           | 100-120               | 120-140                 | >140                    |
+| **Blood pressure**   | Normal         | Normal                | **Decreased**           | **Decreased**           |
+| **Respiratory rate** | 14-20          | 20-30                 | 30-40                   | >35                     |
+| **Urine output**     | >30 mL/h       | 20-30 mL/h            | 5-15 mL/h               | Negligible              |
+| **GCS**              | 15             | 14-15                 | 12-14                   | <12                     |
+| **Treatment**        | Monitor        | Possible transfusion  | **Blood products**      | **Massive transfusion** |
 
 > **Bottom Line:** Our patient (HR 130, BP 80/50, GCS 8) fits Class III-IV -- activate MTP.
 
@@ -425,7 +425,6 @@ Five clinical pearls to take with you. First, X before A. In the exsanguinating 
 17. de Moya M, Brasel KJ, Brown CVR, et al. Evaluation and management of traumatic pneumothorax: WTA critical decisions algorithm. J Trauma Acute Care Surg. 2022;92(1):103-107. PMID: 34538823
 18. American College of Surgeons Committee on Trauma. Advanced Trauma Life Support (ATLS) 11th Edition. Chicago, IL: ACS; 2025
 
-
 <!-- GAMMA SUBMISSION PARAMETERS (not a slide — metadata only)
 {
   "format": "presentation",
@@ -440,4 +439,7 @@ Five clinical pearls to take with you. First, X before A. In the exsanguinating 
   }
 }
 -->
+
+```
+
 ```
